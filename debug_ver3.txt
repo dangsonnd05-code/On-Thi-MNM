@@ -1,0 +1,42 @@
+[
+  {
+    "fullText": "Question 1\n19s\n0 / 1 pts\nĐiểm: 0\n306. myproduct 3.4.5 - trong lược đồ đánh số phiên bản này,thành phần nào là thành phần \"phụ\"?\nmyproduct345\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 3\n11.2s\n0 / 1 pts\nĐiểm: 0\n39. Đâu không phải là lợi ích của việc sử dụng mã nguồn mở đối với các doanh nghiệp\nLinh hoạt trong sử dụngGiao diện chức năng phù hợpChi phí thấp và giấy phép linh hoạtKhông phụ thuộc vào nhà cung cấp\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 9\n19.2s\n0 / 1 pts\nĐiểm: 0\n133. Môi trường phát triển PMMNM cần cung cấp các chức năng nào sau đây?\nHệ thống quản lý mã nguồnCác tài liệu bảo mậtCác kênh truyền thôngCơ sở dữ liệu về lỗi\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 12\n14.2s\n0 / 1 pts\nĐiểm: 0\n24. Phát biểu nào dưới đây là sai?\nNhững contributor làm ra code họ sẽ gửi đến cho maintainers thông qua mailing listMột module sẽ được gửi giới hạn trong cộng đồng contributor như một bản thử nghiệmTuỳ theo độ phức tạp và quy mô của project mà có thể có hoặc không có nhiều lớp maintainers.Khi phần mềm xuất hiện lỗi maintainer sẽ trực tiếp sửa lỗi và sẽ chịu trách nhiệm cho các lỗi này.\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 15\n17.4s\n0 / 1 pts\nĐiểm: 0\n11. Đâu là một khẳng định đúng về mô hình tổ chức trong phát triển ứng dụng mã nguồn mở\nMô hình được phát triển theo chiều dọc, trên nhiều nhóm, những nhóm này chỉ làm việc trên một vị tríMô hình được phát triển theo chiều ngang, trên nhiều nhóm, những nhóm này chỉ làm việc trên một vị tríMô hình được phát triển theo chiều ngang, trên nhiều nhóm, những nhóm này làm việc trên nhiều vị trí khác nhauMô hình được phát triển theo chiều dọc, trên nhiều nhóm, những nhóm này làm việc trên nhiều vị trí khác nhau\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 17\n3.9s\n0 / 1 pts\nĐiểm: 0\n64. Quy trình phát triển phần mềm được so sánh với cách thức chúng ta xây nhà là gì?\nQuy trình phát triển phần mềm nguồn mởCả hai quy trình phát triển phần mềm truyền thống và phát triển phần mềm nguồn mởQuy trình phát triển phần mềm truyền thốngKhông có quy trình phát triển phần mềm nào như thế\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 19\n5.6s\n0 / 1 pts\nĐiểm: 0\n171. Người dùng có thể dựa vào các trình duyệt web hoặc các hệ điều hành khác nhau để truy xuất vào portal. Đó là khả năng nào của Portal\nCá nhân hóaHỗ trợ đa nền tảng, phương tiệnTìm kiếm và chỉ mụcKhả năng phân loại nội dung\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 21\n3.6s\n0 / 1 pts\nĐiểm: 0\n62. Trung tâm tư tưởng của Tổ chức FSF là\nQuyền tự do nghiên cứuQuyền tự do chạyQuyền tự do phân phátQuyền tự do hợp tác\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 28\n7.7s\n0 / 1 pts\nĐiểm: 0\n127. Phát biểu nào sau đây không phải là phát biểu đúng về phần mềm mã nguồn mở\nPhần mềm mã nguồn mở cho phép người dung được tự do chia sẻ cho người khácPhần mềm mã nguồn mở là phần mềm miễn phíPhần mềm mã nguồn mở cho phép người dùng được sửa mã nguồnPhần mềm mã nguồn mở là phần mềm tự do.\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 30\n1237.2s\n0 / 1 pts\nĐiểm: 0\n182. Theo khả năng hay quyền hạn can thiệp vào mã nguồn. Thì phần mềm gồm có mấy loại\n2431\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  }
+]

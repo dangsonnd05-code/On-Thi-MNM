@@ -1,0 +1,5 @@
+1. Portal trong hệ sinh thái mã nguồn mở là nơi tập trung tài liệu, tài khoản, dịch vụ và truy cập hệ thống
+2. GPL là giấy phép copyleft mạnh và không có những ràng buộc trong quá trình sử dụng
+3. Forum trong dự án mã nguồn mở thường hỗ trợ tốt nhất cho đối tượng nào?
+4. Giấy phép MIT License yêu cầu phải công khai mã nguồn khi phân phối phần mềm.
+5. Leadership trong một dự án mã nguồn mở KHÔNG có nhiệm vụ nào sau đây?

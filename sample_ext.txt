@@ -1,0 +1,10 @@
+[
+  {
+    "question": "265. MySQL dùng giấy phép gì?",
+    "correctAnswer": "Giấy phép GPL\n1\nBộ hai giấy phép LGPL / MPL\n2\nGiấy phép MPL\n3\nBộ hai giấy phép GPL / MPL\n4"
+  },
+  {
+    "question": "265. MySQL dùng giấy phép gì?",
+    "correctAnswer": "Giấy phép GPL\n1\nBộ hai giấy phép LGPL / MPL\n2\nGiấy phép MPL\n3\nBộ hai giấy phép GPL / MPL\n4"
+  }
+]

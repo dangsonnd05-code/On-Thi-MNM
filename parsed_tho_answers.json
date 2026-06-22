@@ -1,0 +1,1198 @@
+[
+  {
+    "question": "306. myproduct 3.4.5 - trong lược đồ đánh số phiên bản này,thành phần nào là thành phần \"phụ\"?",
+    "correctAnswer": "4"
+  },
+  {
+    "question": "225. Dạng câu hỏi nào trong Moodle khi tạo quizz mà có thể có một số câu trả lời đúng với mức điểm khác nhau?",
+    "correctAnswer": "Multiple Choice"
+  },
+  {
+    "question": "39. Đâu không phải là lợi ích của việc sử dụng mã nguồn mở đối với các doanh nghiệp",
+    "correctAnswer": "Giao diện chức năng phù hợp"
+  },
+  {
+    "question": "236. Ta có thể sử dụng phương thức IsEnabled trong lớp tĩnh JComponentHelper để làm gì ?",
+    "correctAnswer": "Để kiểm tra một Component đã được cài đặt và kích hoạt hay chưa"
+  },
+  {
+    "question": "133. Môi trường phát triển PMMNM cần cung cấp các chức năng nào sau đây?",
+    "correctAnswer": "Các tài liệu bảo mật"
+  },
+  {
+    "question": "48. Nhận định nào sau đây không đúng?",
+    "correctAnswer": "Đối tượng sử dụng của Ubuntu vô cùng đông đảo, với số lượng người dùng cao hơn Windows đặc biệt là người dùng thông thường."
+  },
+  {
+    "question": "24. Phát biểu nào dưới đây là sai?",
+    "correctAnswer": "Khi phần mềm xuất hiện lỗi maintainer sẽ trực tiếp sửa lỗi và sẽ chịu trách nhiệm cho các lỗi này."
+  },
+  {
+    "question": "141. Đâu không phải là một hạn chế của Forum",
+    "correctAnswer": "Thiếu các chủ đề thảo luận"
+  },
+  {
+    "question": "11. Đâu là một khẳng định đúng về mô hình tổ chức trong phát triển ứng dụng mã nguồn mở",
+    "correctAnswer": "Mô hình được phát triển theo chiều dọc, trên nhiều nhóm, những nhóm này làm việc trên nhiều vị trí khác nhau"
+  },
+  {
+    "question": "143. Web portal nào được sử dụng để liên kết giữa người mua và người bán",
+    "correctAnswer": "Market Portals"
+  },
+  {
+    "question": "64. Quy trình phát triển phần mềm được so sánh với cách thức chúng ta xây nhà là gì?",
+    "correctAnswer": "Quy trình phát triển phần mềm truyền thống"
+  },
+  {
+    "question": "136. Trong các tiêu chí dưới đây, đâu không phải là một tiêu chí của sáng kiến mã nguồn mở",
+    "correctAnswer": "Không phân phối giấy phép"
+  },
+  {
+    "question": "171. Người dùng có thể dựa vào các trình duyệt web hoặc các hệ điều hành khác nhau để truy xuất vào portal. Đó là khả năng nào của Portal",
+    "correctAnswer": "Hỗ trợ đa nền tảng, phương tiện"
+  },
+  {
+    "question": "259. Vì lý do an toàn và để hoàn tất quá trình cài đặt Joomla chúng ta cần xóa thư mục nào?",
+    "correctAnswer": "installation"
+  },
+  {
+    "question": "62. Trung tâm tư tưởng của Tổ chức FSF là",
+    "correctAnswer": "Quyền tự do hợp tác"
+  },
+  {
+    "question": "291. Đặc điểm cơ bản của DP2 Express c",
+    "correctAnswer": "Tất cả những đáp án trên"
+  },
+  {
+    "question": "127. Phát biểu nào sau đây không phải là phát biểu đúng về phần mềm mã nguồn mở",
+    "correctAnswer": "Phần mềm mã nguồn mở là phần mềm miễn phí"
+  },
+  {
+    "question": "303. Moodle cung cấp các gải pháp nào sau đây",
+    "correctAnswer": "Cả ba giải pháp MoodleCloud, Moodle Mobile, và Moodle Desktop"
+  },
+  {
+    "question": "182. Theo khả năng hay quyền hạn can thiệp vào mã nguồn. Thì phần mềm gồm có mấy loại",
+    "correctAnswer": "2"
+  },
+  {
+    "question": "31. Trong dự án mã nguồn mở sử dụng giấy phép MIT License, nếu bạn chỉnh sửa mã nguồn và phân phối lại dưới dạng phần mềm thương mại thì bạn bắt buộc phải công khai toàn bộ mã nguồn đã chỉnh sửa.",
+    "correctAnswer": "False"
+  },
+  {
+    "question": "121. Đâu không phải là một chức năng cơ bản của Moodle",
+    "correctAnswer": "Tuyển sinh khoá học"
+  },
+  {
+    "question": "176. Đâu không phải là một đặc điểm của hệ thống quản lý mã nguồn",
+    "correctAnswer": "Theo dõi hết thay đổi trên mã nguồn"
+  },
+  {
+    "question": "148. Đâu không là một hạn chế của Forum",
+    "correctAnswer": "Thiếu các chủ đề thảo luận"
+  },
+  {
+    "question": "58. Tại sao nói ứng dụng mã nguồn mở lại giống với mô hình chợ",
+    "correctAnswer": "Tất cả các ý trên đều đúng"
+  },
+  {
+    "question": "151. Loại phần mềm nào chỉ được cung cấp cho người dùng ở dạng mã nhị phân ?",
+    "correctAnswer": "Phần mềm thương mại"
+  },
+  {
+    "question": "100. Quá trình yêu cầu tính năng mới trong mô hình vòng đời phát triển tính năng mới của MNM gồm mấy bước?",
+    "correctAnswer": "6"
+  },
+  {
+    "question": "178. Hệ thống quản lý phiên bản trong quá trình phát triển ứng dụng mã nguồn mở không có đặc điểm nào sau đây",
+    "correctAnswer": "Cập nhật các tài liệu người dùng"
+  },
+  {
+    "question": "268. Công cụ nào trong Moodle thường được dùng để hướng dẫn học viên tìm kiếm các từ khóa trong dữ liệu văn bản ?",
+    "correctAnswer": "Glossary"
+  },
+  {
+    "question": "8. Hệ thống E-learing có mấy loại",
+    "correctAnswer": "3"
+  },
+  {
+    "question": "65. Thước đo kinh tế của việc sử dụng phần mềm nguồn mở là",
+    "correctAnswer": "Tổng chi phí sở hữu"
+  },
+  {
+    "question": "156. Dự án Firefox ban đầu có tên là gì",
+    "correctAnswer": "Phoenix"
+  },
+  {
+    "question": "174. Đâu là một ứng dụng miễn phí mã nguồn mở của Sun Microsystems?",
+    "correctAnswer": "OpenOffice"
+  },
+  {
+    "question": "12. Đâu không phải là một nhận đúng về IDE?",
+    "correctAnswer": "Chỉ đơn thuần là 1 code editor"
+  },
+  {
+    "question": "23. Công cụ quản lý và cài đặt các gói phần mềm của Fedora là gì?",
+    "correctAnswer": "yum"
+  },
+  {
+    "question": "229. Dạng câu hỏi nào trong Moodle khi tạo Quiz mà cung cấp một danh sách các câu hỏi cùng với một danh sách các câu trả lời, người trả lời phải khớp câu hỏi với câu trả lời đúng",
+    "correctAnswer": "Matching"
+  },
+  {
+    "question": "273. Kiểu nhóm nào trong Moodle mà các thành viên chỉ thấy được công việc của nhóm mình trong Course có nhiều nhóm?",
+    "correctAnswer": "Separate Group"
+  },
+  {
+    "question": "256. Đâu là một đặc điểm của Joomla ?",
+    "correctAnswer": "Joomla được viết bằng ngôn ngữ PHP và kết nối cơ sở dữ liệu MySQL"
+  },
+  {
+    "question": "120. Giấy phép GPL có đặc điểm nào sau đây",
+    "correctAnswer": "Không nhận bảo hành"
+  },
+  {
+    "question": "44. Vì sao nói phần mềm mã nguồn mở thiếu đi các ứng dụng kinh doanh đặc thù",
+    "correctAnswer": "Vì mới chỉ phát triển trên một số lĩnh vực"
+  },
+  {
+    "question": "105. Ba nguyên lý phát triển phần mềm mã nguồn mở bao gồm?",
+    "correctAnswer": "Tài nguyên, động lực, tài liệu"
+  },
+  {
+    "question": "21. Loại ngôn ngữ SQL nào dùng để thực hiện các thao tác dữ liệu như Select, Insert, Delete, Update, …?",
+    "correctAnswer": "DML"
+  },
+  {
+    "question": "192. Lý do nào khiến các lỗi chương trình phần mềm mã nguồn mở thường được phát hiện và sửa nhanh hơn phần mềm thương mại",
+    "correctAnswer": "Người dùng được tiếp cận mã nguồn"
+  },
+  {
+    "question": "27. Chọn đáp án đúng để điền vào chỗ trống: Trong mô hình phát triển mã nguồn mở, mã nguồn được ................ để mọi người có thể xem và đóng góp",
+    "correctAnswer": "công khai"
+  },
+  {
+    "question": "116. Một hệ thống cần đạt ERP cần phải:",
+    "correctAnswer": "Có tích hợp chặt chẽ, có khả năng phân tích và quản trị, và có tính mở"
+  },
+  {
+    "question": "205. Mức mở rộng trong Joomla có các thành phần là",
+    "correctAnswer": "Components, Modules, và Templates"
+  },
+  {
+    "question": "124. VCS là viết tắt của Version Control System là gì",
+    "correctAnswer": "Là hệ thống hỗ trợ làm việc theo nhóm"
+  },
+  {
+    "question": "4. Giấy phép MIT License yêu cầu phải công khai mã nguồn khi phân phối phần mềm.",
+    "correctAnswer": "False"
+  },
+  {
+    "question": "26. Tất cả giấy phép mã nguồn mở đều bắt buộc phải open source toàn bộ phần mềm.",
+    "correctAnswer": "False"
+  },
+  {
+    "question": "41. Đâu là 1 đặc điểm khi nhắc đến giấy phép GPL",
+    "correctAnswer": "Phải giữ nguyên thông báo bản quyền sản phẩm"
+  },
+  {
+    "question": "5. Leadership trong một dự án mã nguồn mở KHÔNG có nhiệm vụ nào sau đây?",
+    "correctAnswer": "Phát hành các bản thử nghiệm"
+  },
+  {
+    "question": "159. Cho đến năm 1991, dự án GNU vẫn chưa đưa ra được một hệ thống phần mềm hoàn toàn tự do vì một yếu tố cơ bản vẫn còn vắng bóng nào",
+    "correctAnswer": "Lỗi hệ thống (Kernel)"
+  },
+  {
+    "question": "75. Giấy phép mã nguồn mở là",
+    "correctAnswer": "Là giấy phép bản quyền dành cho các phần mềm máy tính trong đó đặt ra các quy định buộc ngừơi sử dụng phải tuân theo và được sử dụng cho các phần mềm MNM"
+  },
+  {
+    "question": "198. Đâu là một đặc điểm của phương thức xây dựng phần mềm mã nguồn mở",
+    "correctAnswer": "Có tính tiếp thu kế thừa"
+  },
+  {
+    "question": "254. Thành phần mở rộng nào trong Joomla nhằm thực hiện những chức năng đặc biệt hoặc giúp tự động hóa một số quy trình ?",
+    "correctAnswer": "Plugin"
+  },
+  {
+    "question": "98. Các bước để cơ bản để đánh gía phần mềm mã nguồn mở bao gồm?",
+    "correctAnswer": "Xác định, đánh giá, phân tích, so sánh"
+  },
+  {
+    "question": "255. Mức ứng dụng trong Joomla có các thành phần là",
+    "correctAnswer": "JInstallation, JAministator, và JSite"
+  },
+  {
+    "question": "15. Tên gọi ban đầu của Thunderbird là gì?",
+    "correctAnswer": "Minotaur"
+  },
+  {
+    "question": "179. Cho các tính năng sau đây: (1): Khả năng phân loại nội dung; (2) Chỉ hỗ trợ mobile; (3)Khả năng cá nhân hoá; (4) Khả năng tìm kiếm và chỉ mục; (5) Chỉ hỗ trợ desktop. Đâu là tính năng của Portal?",
+    "correctAnswer": "1, 3, 4"
+  },
+  {
+    "question": "226. Phát biểu nào sau đây về Apache là sai?",
+    "correctAnswer": "Apache là một web browser mã nguồn mở miễn phí"
+  },
+  {
+    "question": "125. Tư tưởng của tổ chức FSF không bảo vệ quyền tự do nào sau của người dùng",
+    "correctAnswer": "Quyền tự do bán"
+  },
+  {
+    "question": "286. Loại Forum nào trong Moodle giống với Forum truyền thống nhưng tất cả các bài Post được hiển thị trong trang Frontpage và khi người dùng Click vào Discuss this topic thì một trang mới sẽ hiển thị để nhập các comments ?",
+    "correctAnswer": "Standard Forum với định dạng Blog"
+  },
+  {
+    "question": "227. Công cụ nào trong Moodle thường được dùng để lên kế hoạch hoạt động nhóm?",
+    "correctAnswer": "Workshops"
+  },
+  {
+    "question": "86. Ai là người phải dựa vào các code base đã đưa ra và đưa ra định hướng để phát triển",
+    "correctAnswer": "Leadership"
+  },
+  {
+    "question": "163. OpenOffice được xây dựng dựa trên phiên bản mã nguồn nào sau đây",
+    "correctAnswer": "StarOffice"
+  },
+  {
+    "question": "57. Đâu là một nhận xét sai về portal",
+    "correctAnswer": "Môi trường còn bị động trong việc tích hợp ứng dụng"
+  },
+  {
+    "question": "240. Công cụ nào trong Moodle để thể hiện quá trình học tập của học viên, học viên có thể giải thích, đưa ra những ý kiến liên quan đến nhiệm vụ giáo viên giao cho và kết quả đạt được của mình?",
+    "correctAnswer": "Blog"
+  },
+  {
+    "question": "293. Đâu không phải là 1 bước trong quy trình tiếp nhận mã nguồn từ nhà cung cấp tới phiên bản chính và đưa ra thị trường",
+    "correctAnswer": "Yêu cầu tính năng được gửi đến hòm thư"
+  },
+  {
+    "question": "234. Phát biểu nào là đúng về entry point trong Joomla?",
+    "correctAnswer": "Mỗi ứng dụng chỉ có duy nhất một entry point"
+  },
+  {
+    "question": "169. Trong quy trình phát triển phần mềm nào mà những người lập trình đầu tiên chỉ đưa ra với công chúng một số mã chức năng tối thiểu, rồi chỉnh sửa dần trên cơ sở các ý kiến phản hồi",
+    "correctAnswer": "Quy trình phát triển phần mềm nguồn mở"
+  },
+  {
+    "question": "35. Đâu là tên của một máy chủ DNS mã nguồn mở",
+    "correctAnswer": "BIND"
+  },
+  {
+    "question": "261. Phát biểu nào là đúng về Standalone Modules trong Joomla",
+    "correctAnswer": "Standalone Modules là các module không phụ thuộc vào các extension khác"
+  },
+  {
+    "question": "258. Mỗi component trong Joomla gồm các thành phần chính là",
+    "correctAnswer": "Phần quản trị và phần trên site"
+  },
+  {
+    "question": "119. Môi trường đồ họa mặc định của Fedora Core là gì?",
+    "correctAnswer": "GNOME"
+  },
+  {
+    "question": "173. Đâu không là đặc trưng để phân biệt Portal với website",
+    "correctAnswer": "Hỗ trợ đa nền tảng"
+  },
+  {
+    "question": "60. Trong quy trình phát triển phần mềm nào mà các nhóm lập trình làm việc riêng rẽ, theo sự quản lý và kế hoạch chi tiết?",
+    "correctAnswer": "Quy trình phát triển phần mềm truyền thống"
+  },
+  {
+    "question": "200. Nhân lực trong mô hình phát triển ứng dụng mã nguồn mở được chia làm 4 nhóm với sự phân cấp rõ ràng đặc điểm riêng đó là những nhóm nào",
+    "correctAnswer": "User, developer, virtual team và leader"
+  },
+  {
+    "question": "28. Chọn đáp đúng để điền vào chỗ trống: Người gửi code đóng góp cho dự án thường tạo ................ để được xem xét.",
+    "correctAnswer": "pull request"
+  },
+  {
+    "question": "71. Đâu là một nhận định đúng về trình mã nguồn trong PMMNM",
+    "correctAnswer": "Vòng đời của một trình mã mới thường hay lặp đi lặp lại"
+  },
+  {
+    "question": "106. Điểm đặc biệt của việc phát triển phần mềm mã nguồn mở?",
+    "correctAnswer": "Chu kỳ sản xuất module nhỏ kiểm tra tích hợp cho đến khi hoàn thiện để tích hợp vào phần mềm"
+  },
+  {
+    "question": "219. Phát biểu nào là đúng khi nói về mối quan hệ giữa Modules và Component trong Joomla",
+    "correctAnswer": "Modules có mối quan hệ tương đối chặt chẽ với Components"
+  },
+  {
+    "question": "54. Đâu là một ưu điểm của ứng dụng mã nguồn mở?",
+    "correctAnswer": "Gia tăng tư duy sáng tạo"
+  },
+  {
+    "question": "69. Đâu là một phần mềm cộng tác nhắm đến việc tạo ra một HTTP server mạnh mẽ mã nguồn mở",
+    "correctAnswer": "Tất cả các nhận định đã nêu đều đúng"
+  },
+  {
+    "question": "95. Chức năng chính của phần mềm Thunderbird là gì?",
+    "correctAnswer": "Đọc tin, quản lý thư điện tử"
+  },
+  {
+    "question": "307. Những người đóng góp mã nguồn mở phải có một trong những đặc điểm sau",
+    "correctAnswer": "Học hỏi nhanh và sẵn sàng giúp đỡ người khác"
+  },
+  {
+    "question": "114. Các phiên bản biến thể tùy chỉnh của Fedora gọi là?",
+    "correctAnswer": "Fedora Spins"
+  },
+  {
+    "question": "158. Đâu không phải là một ưu điểm của mã nguồn mở",
+    "correctAnswer": "Tốc độ"
+  },
+  {
+    "question": "304. Moodle, MySQL được đăng ký theo giấy phép nào",
+    "correctAnswer": "Giấy phép GPL"
+  },
+  {
+    "question": "43. Forum là gì?",
+    "correctAnswer": "Là diễn đàn là một dạng cộng đồng"
+  },
+  {
+    "question": "13. Tính năng nào dưới đây của Portal cho phép tổ chức nội dung và ứng dụng theo nhiều cách khác nhau để đáp ứng các yêu cầu không giống nhau của các nhóm (phân loại theo người sử dụng, phòng ban, đơn vị) bên trong một tổ chức.",
+    "correctAnswer": "Khả năng phân loại nội dung"
+  },
+  {
+    "question": "231. Dạng câu hỏi nào trong Moodle khi tạo quizz mà bao gồm một đoạn văn bản theo định dạng của Moodle mà có rất nhiều câu trả lời có thể ở các dạng khác nhau trong đó?",
+    "correctAnswer": "Embedded Answers (Cloze Test / Gap Fill)"
+  },
+  {
+    "question": "63. Đâu không phải là đặc điểm của phương thức xây dựng phần mềm mã nguồn mở?",
+    "correctAnswer": "Chi phí duy trì cao"
+  },
+  {
+    "question": "99. Loại ngôn ngữ SQL nào dùng để truy cập đối tượng cơ sở dữ liệu, thay đổi cấu trúc, tạo người dùng, gán quyền chẳng hạn như: Alter, Grant, Revoke, …?",
+    "correctAnswer": "DCL"
+  },
+  {
+    "question": "17. Trong mô hình phát triển ứng dụng mã nguồn mở thì gồm những đối tượng nào?",
+    "correctAnswer": "Contributors, Maintainer, market"
+  },
+  {
+    "question": "188. Đâu là một CMS phải trả phí",
+    "correctAnswer": "Shoptify"
+  },
+  {
+    "question": "82. Đâu là nhận định sai về mô hình phát triển ứng dụng mã nguồn mở",
+    "correctAnswer": "Có định nghĩa rõ ràng về cấu trúc quản lý"
+  },
+  {
+    "question": "145. Tại sao Apache là sự lựa chọn tốt",
+    "correctAnswer": "Giấy phép Apache yêu cầu trích dẫn toàn bộ giấy phép vào sản phẩm hay tập tin đính kèm bản phân phối"
+  },
+  {
+    "question": "281. Thành phần mở rộng nào trong Joomla chủ yếu nhằm mục đích thực hiện các chức năng lớn (tương tác với ngưới sử dụng ở mức cao) ?",
+    "correctAnswer": "Component"
+  },
+  {
+    "question": "201. Chương trình soạn thảo văn bản của OpenOffice là gì?",
+    "correctAnswer": "Writer"
+  },
+  {
+    "question": "165. Đâu là một phần mềm cộng tác nhắm đến việc tạo ra một http server mạnh mẽ mã nguồn mở",
+    "correctAnswer": "Apache"
+  },
+  {
+    "question": "142. Tư tưởng coi trọng giá trị kỹ thuật của việc tạo ra những phần mềm mạnh, có độ tin cậy cao và phù hợp với giới kinh doanh hơn là gì",
+    "correctAnswer": "Tư tưởng của OSI"
+  },
+  {
+    "question": "230. Joomla được thiết kế theo mô hình nào dưới đây",
+    "correctAnswer": "MVC"
+  },
+  {
+    "question": "207. Tính năng nào trong Moodle khi được kích hoạt, người dùng có thể nhận tự động các thông báo về các nhiệm vụ và deadline mới, các bài đăng diễn đàn mới và gửi các tin nhắn các nhân tới người khác?",
+    "correctAnswer": "Notifications"
+  },
+  {
+    "question": "299. Hầu hết những người đóng góp nguồn mở mong đợi nhận được gì từ sự đóng góp của họ",
+    "correctAnswer": "Công nhận"
+  },
+  {
+    "question": "248. Kiểu nhóm nào trong Moodle mà tất cả các học viên là một phần của lớp học, chỉ có duy nhất một nhóm đó chính là Course",
+    "correctAnswer": "No Groups"
+  },
+  {
+    "question": "260. Để kiểm tra một component trong Joomla đã được cài đặt và kích hoạt hay chưa, ta có thể sử dụng phương thức là ?",
+    "correctAnswer": "Phương thức IsEnabled() trong lớp tĩnh JComponentHelper"
+  },
+  {
+    "question": "50. Phần mềm được phân loại theo phương thức hoạt động có sẽ mấy loại",
+    "correctAnswer": "2"
+  },
+  {
+    "question": "131. Những nhà lập trình nào thường chỉ quan tâm chủ yếu đến việc tạo ra một chương trình hoạt động ổn định và có hiệu quả hơn là tính để sử dụng?",
+    "correctAnswer": "Nhà lập trình phần mềm nguồn mở"
+  },
+  {
+    "question": "235. Joomla! được hỗ trợ bởi tổ chức phi lợi nhuận nào?",
+    "correctAnswer": "Open Source Matters"
+  },
+  {
+    "question": "67. Loại phần mềm nào chỉ được cung cấp cho người dùng ở dạng mã nhị phân ?",
+    "correctAnswer": "Phần mềm thương mại"
+  },
+  {
+    "question": "203. Quỹ Mozilla Messaging chịu trách nhiệm phát triển các phương thức liên lạc qua thư điện tử hoặc tương tự. Sự tập trung đầu tiên của quỹ là vào ứng dụng nào?",
+    "correctAnswer": "Thunderbird"
+  },
+  {
+    "question": "194. Quy trình phát triển phần mềm phần mềm nào được so sánh với việc phát triển của buôn bán ngoài chợ, mở rộng một cách tự phát",
+    "correctAnswer": "Quy trình phát triển phần mềm nguồn mở"
+  },
+  {
+    "question": "185. Lý do nào khiến các lỗi chương trình phần mểm mã nguồn mở thường được phát hiện và sửa nhanh hơn phần mềm thương mại",
+    "correctAnswer": "Người dùng được tiếp cận các mã nguồn"
+  },
+  {
+    "question": "250. Khác biệt lớn nhất giữa Chat và Forum trong Moodle là ? (*Chat* ở đây là Chart)",
+    "correctAnswer": "Chat ở chế độ đồng bộ còn Forum ở chế độ bất đồng bộ"
+  },
+  {
+    "question": "91. Khởi đầu của một dự án mã nguồn mở được khởi đầu như thế nào?",
+    "correctAnswer": "Tham khảo những người quan tâm sau đó hình thành một nhóm người quan tâm đến vấn đề"
+  },
+  {
+    "question": "47. Đâu là tên viết tắt của phần mềm nguồn mở/tự do?",
+    "correctAnswer": "FOSS"
+  },
+  {
+    "question": "59. Loại phần mềm nào có đủ các tính năng và được phân phối tự do, nhưng có một giấy phép khuyến cáo các cá nhân hoặc tổ chức mua, tùy tình hình cụ thể?",
+    "correctAnswer": "Phần mềm chia sẻ"
+  },
+  {
+    "question": "2. GPL là giấy phép copyleft mạnh và không có những ràng buộc trong quá trình sử dụng",
+    "correctAnswer": "False"
+  },
+  {
+    "question": "33. Đâu không phải là một hạn chế của phần mềm mã nguồn mở",
+    "correctAnswer": "Thiếu tính ổn định"
+  },
+  {
+    "question": "216. Mức nền tảng trong Joomla có các thành phần là",
+    "correctAnswer": "Libraries, Frameworks, và Plugins"
+  },
+  {
+    "question": "242. Công cụ nào trong Moodle giúp người học tự đánh giá kết quả học tập của mình cũng như các trợ giúp giáo viên, trợ giúp quá trình trao đổi thông tin?",
+    "correctAnswer": "Workshops"
+  },
+  {
+    "question": "294. Đâu không phải là một công cụ trong IDE",
+    "correctAnswer": "Thông dịch"
+  },
+  {
+    "question": "263. Phát biểu nào sau đây không phải là phát biểu đúng về phần mềm mã nguồn mở",
+    "correctAnswer": "Phần mềm mã nguồn mở là phần mềm miễn phí"
+  },
+  {
+    "question": "223. Công cụ nào trong Moodle được dùng để tạo danh sách định nghĩa các khái niệm khác nhau",
+    "correctAnswer": "Glossary"
+  },
+  {
+    "question": "9. Loại ngôn ngữ SQL nào dùng để khai báo chuyển giao dịch chẳng hạn như: Begin Tran, Rollback, Commit, ...?",
+    "correctAnswer": "TCL"
+  },
+  {
+    "question": "18. Chương trình quản lý cơ sở dữ liệu cơ bản của OpenOffice là gì?",
+    "correctAnswer": "Base"
+  },
+  {
+    "question": "70. Tính năng nào dưới đây của Portal cho phép kiểm soát được các truy xuất đến từng nội dung để đảm bảo chỉ những người có quyền mới có thể truy nhập được các văn bản mà họ được cấp phép.",
+    "correctAnswer": "Quản lý nội dung"
+  },
+  {
+    "question": "213. Công cụ nào trong Moodle thường được dùng để đưa ra và sắp xếp các chỉ dẫn để thực hiện một thí nghiệm hay thực hành ?",
+    "correctAnswer": "Lessons"
+  },
+  {
+    "question": "211. Phiên bản trình duyệt web Mozilla Firefox cho thiết bị di động có tên mã là gì?",
+    "correctAnswer": "Fennec"
+  },
+  {
+    "question": "289. Cho các thành phần sau: (1): Host (2): Máy tính, phần cứng (3): Phần mềm hỗ trợ (4): Forum và Wiki (5): Tài liệu tham khảo Đâu là các cơ sở vật chất cần có trong 1 dự án MNM",
+    "correctAnswer": "1,2,3,4"
+  },
+  {
+    "question": "189. Đâu là một khẳng định đúng",
+    "correctAnswer": "Doanh thu của phần mềm truyền thống chủ yếu đến từ gía bán cho mỗi bản sao"
+  },
+  {
+    "question": "266. Trình soạn thảo văn bản mặc định trong Joomla là ?",
+    "correctAnswer": "TinyMCE"
+  },
+  {
+    "question": "104. Điểm khác biệt cơ bản của ERP so với việc duy trì nhiều phần mềm quản lý rời rạc là?",
+    "correctAnswer": "Tính tích hợp"
+  },
+  {
+    "question": "14. Điểm đặc biệt của phần mềm nguồn mở là",
+    "correctAnswer": "Được phát triển bởi cộng đồng sau đó phân phối đến người dùng"
+  },
+  {
+    "question": "249. Dạng câu hỏi nào trong Moodle khi tạo quizz mà cung cấp một cách để tạo ra các câu hỏi số học riêng biệt bằng cách sử dụng các ký tự đại diện được thay thế bằng các giá trị riêng khi quizz được thực hiện",
+    "correctAnswer": "Calculated"
+  },
+  {
+    "question": "63. Đâu là một hạn chế của phần mềm mã nguồn mở",
+    "correctAnswer": "Thiếu tính tiện dụng"
+  },
+  {
+    "question": "52. Loại phần mềm nào được sử dụng tự do và có thể phân phối lại bởi các tổ chức phi lợi nhuận?",
+    "correctAnswer": "Phần mềm nguồn mở"
+  },
+  {
+    "question": "42. Vì sao mã nguồn mở lại thiếu tính độc quyền?",
+    "correctAnswer": "Chỉ cần mã nguồn bất kỳ ai cũng có thể thiết kế mà không cần trình độ chuyên môn"
+  },
+  {
+    "question": "94. Đâu là không phải là một ưu điểm của Ubuntu",
+    "correctAnswer": "Mọi phần mềm được auto update 100%"
+  },
+  {
+    "question": "257. Thành phần mở rộng nào trong Joomla chủ yếu nhằm mục đích hiển thị thông tin (tương tác với người sử dụng ở mức thấp)",
+    "correctAnswer": "Module"
+  },
+  {
+    "question": "83. VCS(Version Control System) thường đảm bảo các chức năng nào?",
+    "correctAnswer": "Khuyến khích người sử dụng commit, an toàn dữ liệu, kiểm soát chất lượng commit"
+  },
+  {
+    "question": "164. Ứng dung nào sau đâu là phần mềm đọc tin, quản lý thư điện tử miễn phí mã nguồn mở",
+    "correctAnswer": "Thunderbird"
+  },
+  {
+    "question": "166. Thunderbird được phát triển bởi quỹ nào",
+    "correctAnswer": "Mozilla Messaging"
+  },
+  {
+    "question": "49. Môi trường phát triển PMMNM cần cung cấp các chức năng nào sau đây?",
+    "correctAnswer": "Các tài liệu bảo mật"
+  },
+  {
+    "question": "161. Web portal được phân ra làm mấy loại",
+    "correctAnswer": "5"
+  },
+  {
+    "question": "73. Dự án Apache ban đầu được phát triển bởi ai?",
+    "correctAnswer": "Rob McCool"
+  },
+  {
+    "question": "310. Phương tiện giao tiếp nào sau đây phổ biến trong PMNM cộng đồng để xuất bản các bài báo hoặc hướng dẫn trên Web",
+    "correctAnswer": "Internet Blog"
+  },
+  {
+    "question": "132. Tư tưởng chủ đạo chi phối thế giới phần mềm nguồn mở là:",
+    "correctAnswer": "Tư tưởng của tổ chức phần mềm tự do FSF và tư tưởng của chương trình sáng kiến nguồn mở OSI"
+  },
+  {
+    "question": "222. Phát biểu nào là đúng về việc phát triển Standalone Modules trong Joomla ?",
+    "correctAnswer": "Standalone Modules thường cần nhiều thời gian phát triển hơn do không có các API có sẵn ngoài những API mà Joomla cung cấp"
+  },
+  {
+    "question": "175. Trong các khẳng định sau, khẳng định nào là sai",
+    "correctAnswer": "UI trong kiến trúc của Moodle cung cấp các API về việc quản lý roles, categories, course"
+  },
+  {
+    "question": "202. Tên gọi Fedore Core nhằm mục đích nào trong các mục đích sau",
+    "correctAnswer": "Phân biệt với gói phần mềm chính của Fedora với các gói phần mềm bổ sung cho Fedora"
+  },
+  {
+    "question": "79. Điểm yếu lớn nhất của E-learning là",
+    "correctAnswer": "Quá trình chuyển đổi, phát triển nội dung bài giảng đòi hỏi chi phí khá lớn"
+  },
+  {
+    "question": "89. Nhân lực trong lĩnh vực phát triển mã nguồn mở có ý nghĩa gì? Chọn đáp án đúng",
+    "correctAnswer": "Là những người tạo nên hoặc góp phần hình thành, phát triển một sản phẩm phần mềm"
+  },
+  {
+    "question": "140. Nhiệm vụ của Contributor trong dự án MNM là gì",
+    "correctAnswer": "Làm ra code và gửi đến Mainters"
+  },
+  {
+    "question": "224. Công cụ nào trong Moodle thường được dùng để tạo bản ghi nhớ cho topic nào đó?",
+    "correctAnswer": "Wiki"
+  },
+  {
+    "question": "3. Forum trong dự án mã nguồn mở thường hỗ trợ tốt nhất cho đối tượng nào?",
+    "correctAnswer": "User"
+  },
+  {
+    "question": "208. Thành phần nào trong Moodle chạy các công việc bao gồm như gửi mail, cập nhật các báo cáo Moodle, RSS feeds, hoàn thành các hoạt động, đăng các tin nhắn lên diễn đàn...?",
+    "correctAnswer": "Cron"
+  },
+  {
+    "question": "66. Nhận định nào dưới đây là sai",
+    "correctAnswer": "Giấy phép sử dụng phần mềm không quy định về những khả năng mà bạn có thể có được trên phần mềm"
+  },
+  {
+    "question": "30. Giấy phép MIT và CDDL đều là giấy phép mã nguồn mở cho phép dùng trong các dự án thương mại và không bắt buộc công khai mã nguồn nhưng có những điều kiện khác nhau",
+    "correctAnswer": "True"
+  },
+  {
+    "question": "279. Công cụ nào trong Moodle thường được dùng để liệt kê danh sách các Website chuyên ngành và tóm tắt giới thiệu về các Website này",
+    "correctAnswer": "Glossary"
+  },
+  {
+    "question": "146. Đâu không phải là một thành phần của E-learning",
+    "correctAnswer": "Thiết lập mạng"
+  },
+  {
+    "question": "180. Phần nào của Linux cung cấp các chuyển hướng xuất nhập, ngôn ngữ lệnh để tạo các file *.bat",
+    "correctAnswer": "Shell"
+  },
+  {
+    "question": "243. Kiểu nhóm nào trong Moodle mà các group thực hiện công việc riêng của mình trong khi vẫn thấy được các công việc của nhóm khác ?",
+    "correctAnswer": "Visible Groups"
+  },
+  {
+    "question": "195. Đâu là một nhận định sai?",
+    "correctAnswer": "Là một khái niệm khá mới mẻ trong lĩnh vực thiết kế và quản lý website"
+  },
+  {
+    "question": "265. MySQL dùng giấy phép gì?",
+    "correctAnswer": "Giấy phép GPL"
+  },
+  {
+    "question": "269. Phát biểu nào sau đây là sai về Joomla",
+    "correctAnswer": "Moodle không hỗ trợ các thiết bị mobile"
+  },
+  {
+    "question": "144. BIND là chương trình phần mềm nguồn mở đăng ký theo giấy phép nào?",
+    "correctAnswer": "Giấy phép BSD"
+  },
+  {
+    "question": "193. Nhiều phần mềm đóng vẫn chưa có các phiên bản mã nguồn mở tương đương nói lên tính hạn chế gì của phần mềm mã nguồn mở",
+    "correctAnswer": "Thiếu các ứng dụng kinh doanh đặc thù"
+  },
+  {
+    "question": "152. Dưới đây đâu không là đặc điểm của giấy phép Apache?",
+    "correctAnswer": "Không yêu cầu về danh sách các điều khoản và từ chối trách nghiệm"
+  },
+  {
+    "question": "274. Để thực thi một tác vụ nào đó trong lớp JController của Joomla ta sử dụng phương thức nào ?",
+    "correctAnswer": "execute ('tên tác vụ')"
+  },
+  {
+    "question": "204. Tính năng nào dưới đây của Portal cho phép cung cấp một môi trường tích hợp toàn bộ các ứng dụng Website đang có",
+    "correctAnswer": "Tích hợp các ứng dụng"
+  },
+  {
+    "question": "312. Tính năng nào trong Moodle khi kích hoạt cho phép đánh giá mức độ hiểu biết hoặc năng lực của người học trong các kỹ năng liên quan đến môn học nhất định",
+    "correctAnswer": "Competencies"
+  },
+  {
+    "question": "88. Điểm nào dưới đây là đặc biệt của việc phát triển phần mềm",
+    "correctAnswer": "Chu kỳ sản xuất module nhỏ kiểm tra tích hợp cho đến khi hoàn thiện để tích hợp vào phần mềm"
+  },
+  {
+    "question": "275. Plugin Authentication mặc định trong Joomla là",
+    "correctAnswer": "Authentication - Joomla"
+  },
+  {
+    "question": "20. Mozilla Firefox sử dụng thành phần nào sau đây cho trình bày trang web?",
+    "correctAnswer": "Gecko"
+  },
+  {
+    "question": "112. Mã nguồn của Firefox được phát hành theo giấy phép nào?",
+    "correctAnswer": "Bộ ba giấy phép GPL/LGPL/MPL"
+  },
+  {
+    "question": "128. Đâu là một khẳng định sai",
+    "correctAnswer": "Nhân lực được chia thành 2 nhóm chính : Contributor và Market"
+  },
+  {
+    "question": "252. Khi khởi tạo một lớp JController, phương thức mặc định nào sẽ thực thi khi không có một tác vụ nào được chỉ ra",
+    "correctAnswer": "display()"
+  },
+  {
+    "question": "270. Joomla được viết bằng ngôn ngữ nào",
+    "correctAnswer": "PHP"
+  },
+  {
+    "question": "101. Năm 2010, Document Foundation công bố một nhánh mới với tên gọi là gì",
+    "correctAnswer": "LibreOffice"
+  },
+  {
+    "question": "103. Phiên bản Fedora Core đầu tiên được phát triển từ hệ điều hành nào",
+    "correctAnswer": "Red Hat Linux 9"
+  },
+  {
+    "question": "247. Các diễn đàn, wiki, glossary, các hoạt động cơ sở dữ liệu…trong Moodle được gọi chung là gì?",
+    "correctAnswer": "Collaborative Tools &amp; Activities"
+  },
+  {
+    "question": "309. Nội dung nào sau đây không phải là giấy phép PMNM",
+    "correctAnswer": "Không có đáp án nào ở trên"
+  },
+  {
+    "question": "308. Nội dung nào sau đây được sử dụng trong quá trình thiết kế PMNM",
+    "correctAnswer": "UML"
+  },
+  {
+    "question": "237. Đâu là lý do chính khi sử dụng phương thức getInstance() trong Joomla?",
+    "correctAnswer": "Tất cả"
+  },
+  {
+    "question": "6. Đâu không phải là một IDE",
+    "correctAnswer": "Notepad"
+  },
+  {
+    "question": "215. Ta có thể sử dụng phương thức IsEnabled trong lớp tĩnh JComponentHelper để làm gì",
+    "correctAnswer": "Để kiểm tra một Component đã được cài đặt và kích hoạt hay chưa"
+  },
+  {
+    "question": "190. Nguồn lực cho sản xuất phần mềm mã nguồn mở có thể đến từ",
+    "correctAnswer": "Cả 3 thành phần được nêu"
+  },
+  {
+    "question": "61. Phần mềm là gì?",
+    "correctAnswer": "là một tập hợp các tập tin có mối liên hệ chặt chẽ với nhau, đảm bảo thực hiện một số nhiệm vụ, chức năng nào đó trên thiết bị điện tử, hay ở các bài toán thực tế."
+  },
+  {
+    "question": "45. CMS có mấy loại?",
+    "correctAnswer": "3"
+  },
+  {
+    "question": "228. Phát biểu nào là đúng bảng tham chiếu tên tác vụ và phương thức thực sự của mỗi controller trong Joomla",
+    "correctAnswer": "Bảng tham chiếu sử dụng quan hệ nhiều-1: có thể định nghĩa nhiều tác vụ cho một phương thức."
+  },
+  {
+    "question": "246. Loại forum nào trong Moodle nhằm mục đích hướng sự tập trung của học viên vào một vấn đề như thảo luận hoặc trả lời câu hỏi?",
+    "correctAnswer": "Single simple discussion"
+  },
+  {
+    "question": "10. Hệ thống quản lý mã nguồn giúp",
+    "correctAnswer": "Theo dõi hết thay đổi trên mã nguồn"
+  },
+  {
+    "question": "238. Tên đầy đủ của Moodle là",
+    "correctAnswer": "Modular Object-Oriented Dynamic Learning Environment"
+  },
+  {
+    "question": "150. Đâu không phải là rào cản cho khách hàng khi sử dụng phần mềm MNM",
+    "correctAnswer": "Sự rõ ràng về cấu trúc quản lý"
+  },
+  {
+    "question": "311. Sở hữu trí tuệ và bản quyền là từ đồng nghĩa đúng hay sai",
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "53. Phiên bản chính thức 1.0 của Linux ra đời vào năm nào?",
+    "correctAnswer": "1994"
+  },
+  {
+    "question": "111. Thunderbird được viết bằng ngôn ngữ gì?",
+    "correctAnswer": "C++"
+  },
+  {
+    "question": "253. Joomla có nghĩa là gì?",
+    "correctAnswer": "Đồng tâm hiệp lực"
+  },
+  {
+    "question": "210. Moodle được dùng với cơ sở dữ liệu nào?",
+    "correctAnswer": "Có thể dùng với cả MySQL, Microsoft SQL, và Oracle"
+  },
+  {
+    "question": "29. Trong dự án mã nguồn mở, forum chủ yếu dùng để làm gì?",
+    "correctAnswer": "Thảo luận, hỏi đáp và hỗ trợ cộng đồng"
+  },
+  {
+    "question": "46. Quan niệm nào sau đây sai về copyleft",
+    "correctAnswer": "Tồn tại giấy phép copyleft cho cả phần mềm, âm nhạc và nghệ thuật"
+  },
+  {
+    "question": "267. Tổ chức phi lợi nhuận hỗ trợ dự án Joomla! đặt tại quốc gia nào ?",
+    "correctAnswer": "United States"
+  },
+  {
+    "question": "278. Công cụ nào trong Moodle giúp người dạy và học viên có thể nhanh chóng và dễ dàng cùng nhau xây dựng các nội dung cho khóa học của mình",
+    "correctAnswer": "Wiki"
+  },
+  {
+    "question": "74. Nguyên lý được nhiều nhà làm phần mềm mã nguồn mở sử dụng có đặc điểm",
+    "correctAnswer": "Thay đổi và thích nghi nhanh, liên tục tích hợp module mới, nhân lực phân tán"
+  },
+  {
+    "question": "262. Moodle hiện nay đã cung cấp những giải pháp nào sau đây",
+    "correctAnswer": "Cả ba giải pháp MoodleCloud, Moodle Mobile và Moodle Desktop"
+  },
+  {
+    "question": "160. Tên gọi của Fedore Core nhằm mục đích nào trong các mục đích sau",
+    "correctAnswer": "Phân biệt gói phần mềm chính của Fedore với các gói phần mềm bổ sung cho Fedora"
+  },
+  {
+    "question": "199. Đâu không phải là 1 ưu điểm của mã nguồn mở",
+    "correctAnswer": "Tốc độ"
+  },
+  {
+    "question": "244. Kiểu nhóm nào trong Moodle mà các group thực hiện công việc riêng của mình trong khi vẫn thấy được các công việc của nhóm khác",
+    "correctAnswer": "Visible Groups"
+  },
+  {
+    "question": "298. Hai nhóm nhân lực chính trong mô hình phát triển PMNMM bao gồm",
+    "correctAnswer": "Contributor và Maintainer"
+  },
+  {
+    "question": "170. Ứng dụng mã nguồn mở là gì",
+    "correctAnswer": "Là phần mềm mà mã nguồn của nó được công bố rộng rãi, công khai và cho phép mọi người tiếp tục phát triển phần mềm đó"
+  },
+  {
+    "question": "183. Một dự án mã nguồn mở được thành lập bởi",
+    "correctAnswer": "Leadership"
+  },
+  {
+    "question": "38. Đâu không phải là ưu điểm của Ubuntu",
+    "correctAnswer": "Do là HĐH miễn phí nên bảo mật không cao"
+  },
+  {
+    "question": "76. Mô hình tài nguyên phát triển phần mềm mã nguồn mở bao gồm các yếu tố nào?",
+    "correctAnswer": "Nhân lực, tài chính, thương hiệu và cơ sở vật chất"
+  },
+  {
+    "question": "102. Đâu là yếu tố cốt lõi trong lĩnh vực mã nguồn mở",
+    "correctAnswer": "Nhân lực"
+  },
+  {
+    "question": "85. Trong mô hình phát triển ứng dụng mã nguồn mở Contributor đóng vai trò gì",
+    "correctAnswer": "Phát triển ứng dụng, tìm và sửa lỗi"
+  },
+  {
+    "question": "122. Mã nguồn mở của Thunderbird được phát hành theo giấy phép nào",
+    "correctAnswer": "Bộ ba giấy phép GPL/LGPL/MPL"
+  },
+  {
+    "question": "32. Đâu là thách thức đối với phần mềm mã nguồn mở",
+    "correctAnswer": "Cả ba ý đã nêu đều đúng"
+  },
+  {
+    "question": "1. Portal trong hệ sinh thái mã nguồn mở là nơi tập trung tài liệu, tài khoản, dịch vụ và truy cập hệ thống",
+    "correctAnswer": "True"
+  },
+  {
+    "question": "135. MySQL là gì ?",
+    "correctAnswer": "Một hệ thống quản lý CSDL quan hệ"
+  },
+  {
+    "question": "129. Khẳng định nào sau đây sai ?",
+    "correctAnswer": "Moodle phát triển dựa trên C++"
+  },
+  {
+    "question": "301. Lợi ích của việc phát triển mã nguồn mở là gì",
+    "correctAnswer": "Không có điều nào ở trên"
+  },
+  {
+    "question": "313. Ưu điểm của các phiên bản tốc hành của một số sản phẩm thương mại như DB2 Express-C là gì",
+    "correctAnswer": "Tất cả những đáp án trên"
+  },
+  {
+    "question": "78. Chương trình soạn thảo trình diễn cơ bản của OpenOffice là gì?",
+    "correctAnswer": "Impress"
+  },
+  {
+    "question": "241. Moodle không có thành phần trực tiếp nào (phải khai thác các công cụ bên ngoài Moodle)?",
+    "correctAnswer": "Tạo bài giảng"
+  },
+  {
+    "question": "196. Nhận định nào sau đây sai về CMS",
+    "correctAnswer": "CMS là chữ viết tắt của Content Manager System"
+  },
+  {
+    "question": "162. Quy trình phát triển phần mềm nào được so sánh với việc phát triển của buôn bán ngoài chợ, mở rộng một cách tự phát",
+    "correctAnswer": "Quy trình phát triển phần mềm nguồn mở"
+  },
+  {
+    "question": "297. Giấy phép Công cộng Eclipse có được OSI chấp thuận không",
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "56. Một điểm khác nhau giữa Windows và Linux là",
+    "correctAnswer": "Linux phân biệt chữ hoa và chữ thường còn Windows thì không."
+  },
+  {
+    "question": "126. Tiết kiệm lớn nhất do Linux đem lại là từ",
+    "correctAnswer": "Chi phí phần cứng và nhân lực"
+  },
+  {
+    "question": "233. Phát biểu nào sau đây là sai về Moodle",
+    "correctAnswer": "Moodle không hỗ trợ các thiết bị Mobile"
+  },
+  {
+    "question": "220. Địa chỉ trang cung cấp của thành phần mở rộng của Joomla! là gì",
+    "correctAnswer": "https://www.extensions,joomla.org/"
+  },
+  {
+    "question": "97. Chương trình đồ họa cơ bản của OpenOffice là gì?",
+    "correctAnswer": "Draw"
+  },
+  {
+    "question": "149. Đâu là khẳng định sai về vai trò của hệ thống ERP nền tảng web đối với doanh nghiệp",
+    "correctAnswer": "Một website ERP chỉ phép người dùng truy cập thông tin công ty trong thời gian, không gian với hạn để đảm bảo về chi phí vận hành và bảo trì"
+  },
+  {
+    "question": "288. Phát biểu nào sai khi nói về các Model trong Joomla ?",
+    "correctAnswer": "Chỉ có một model cho mỗi component"
+  },
+  {
+    "question": "251. Các công cụ gì trong Moodle giúp người học có khả năng lập kế hoạch phù hợp với năng lực của mình ?",
+    "correctAnswer": "Self Assessment và Personalized Learning"
+  },
+  {
+    "question": "296. Định dạng nào sau đây là định dạng hợp lệ của gói OSS cụ thể của Windows",
+    "correctAnswer": ".zip"
+  },
+  {
+    "question": "84. Chương trình bảng tính cơ bản của OpenOffice là gì?",
+    "correctAnswer": "Calc"
+  },
+  {
+    "question": "282. Địa chỉ trang diễn đàn trao đổi của Joomla! là gì?",
+    "correctAnswer": "https://www.forum.joomla.org/"
+  },
+  {
+    "question": "212. Để thêm một mục vào bảng tham chiếu tên tác vụ và phương thức thực sự của mỗi controller trong Joomla ta dùng phương thức nào?",
+    "correctAnswer": "registerTask()"
+  },
+  {
+    "question": "153. Đâu không phải là ưu điểm của Forum",
+    "correctAnswer": "Rất dễ kiểm soát thông tin đặc biệt với những diễn đàn lớn"
+  },
+  {
+    "question": "123. Gecko là thành phần gì của Mozilla Firefox",
+    "correctAnswer": "Bộ máy trình bày"
+  },
+  {
+    "question": "271. Đâu không phải là một tầng cơ bản trong nền tảng Joomla ?",
+    "correctAnswer": "Mức cơ sở dữ liệu"
+  },
+  {
+    "question": "285. Joomla sử dụng hệ quản trị cơ sở dữ liệu nào ?",
+    "correctAnswer": "MySQL"
+  },
+  {
+    "question": "87. Nên sử dụng cách nào trong việc tìm kiếm cho các phần mềm OSS/FS và các components của OSS/FS",
+    "correctAnswer": "Sử dụng các công cụ tìm kiếm có sự mâu thuẫn rõ ràng về quyền lợi"
+  },
+  {
+    "question": "168. Cho những đặc điểm sau: 1 Xây dựng theo mô hình tập trung 2 Xây dựng theo mô hình phân tán 3 Cập nhật tài liệu người dùng 4 Dễ dàng tìm kiếm lỗi 5 Trộn những đụng độ trên cùng một tập tin Đâu là các đặc điểm đúng để nói về hệ thống quản lý phiên bản",
+    "correctAnswer": "1, 2, 5"
+  },
+  {
+    "question": "272. Tên tiếng Ạnh của hệ quản trị nội dung mã nguồn mở là",
+    "correctAnswer": "Open Source Content Management Systems"
+  },
+  {
+    "question": "305. Một công ty sử dụng mô hình kinh doanh \"Chuyên gia sản phẩm\":",
+    "correctAnswer": "Tất cả những đáp án trên"
+  },
+  {
+    "question": "90. Trong mô hình tổ chức trong mã nguồn mở thì ai là người đóng vai trò là người cầm đầu?",
+    "correctAnswer": "Maintainers"
+  },
+  {
+    "question": "96. Chương trình hỗ trợ viết công thức toán của OpenOffice là gì?",
+    "correctAnswer": "Math"
+  },
+  {
+    "question": "302. Mô hình kinh doanh nào sau đây yêu cầu các loại giấy phép cụ thể",
+    "correctAnswer": "Tách nguồn mở / Sản phẩm thương mại (Split open source / Commercial products)"
+  },
+  {
+    "question": "209. Dạng câu hỏi nào trong Moodle khi tạo quizz mà khi trả lời một câu hỏi, người trả lời chọn các đáp án từ danh sách các câu trả lời cho sẵn?",
+    "correctAnswer": "Multiple Choice"
+  },
+  {
+    "question": "284. Dạng câu hỏi nào trong Moodle khi tạo quiz mà câu hỏi được trả lời dưới dạng một văn bản ?",
+    "correctAnswer": "Essay"
+  },
+  {
+    "question": "280. Loại Forum nào trong Moodle yêu cầu người dùng đưa ra ít nhất một post trước khi có thể đọc và trả lời của các post khác ?",
+    "correctAnswer": "Q and A"
+  },
+  {
+    "question": "16. Tính năng nào dưới đây của Portal cho phép cung cấp hoặc tích hợp được các hệ thống tìm kiếm và đánh chỉ mục các văn bản, tài liệu để giúp người sử dụng có thể nhanh chóng truy xuất đến những thông tin họ cần",
+    "correctAnswer": "Tìm kiếm và chỉ mục"
+  },
+  {
+    "question": "206. Phát biểu nào sau đây là sai về Moodle",
+    "correctAnswer": "Moodle là một hệ thống quản lý đào tạo đồng nhất hỗ trợ tạo bài giảng trực tiếp"
+  },
+  {
+    "question": "184. Dự án Fedora được bảo trợ bởi tổ chức nào",
+    "correctAnswer": "RedHat"
+  },
+  {
+    "question": "276. Đâu là một định danh về trạng thái của người dùng trong một ngữ cảnh nhất định trong Moodle ?",
+    "correctAnswer": "Role"
+  },
+  {
+    "question": "314. Động lực bên trong (intrinsic motivation) để phát triển mã nguồn mở thì không có chủ đề nào sau đây",
+    "correctAnswer": "Truyền cảm hứng"
+  },
+  {
+    "question": "40. Câu nào sau đây là đúng?",
+    "correctAnswer": "Phần mềm mã nguồn mở không có bảo hành"
+  },
+  {
+    "question": "186. Đâu không phải là tính năng của Portal",
+    "correctAnswer": "Đồng bộ hóa"
+  },
+  {
+    "question": "77. Lợi nhuận từ thương hiệu trong các PMMNM thể hiện",
+    "correctAnswer": "Khi đã có thương hiệu, phần mềm MNM có thể mang lại kinh tế, từ đó giúp được cho sự phát triển hoàn thiện về sau"
+  },
+  {
+    "question": "81. Lưu lỗi vào cơ sở dữ liệu trong quá trình phát triển PMMNM có những lợi thế nào",
+    "correctAnswer": "Dễ dàng trong tìm kiếm lỗi"
+  },
+  {
+    "question": "138. Vì sao tốc độ lại là một nhược điểm của mã nguồn mở",
+    "correctAnswer": "Dư thừa code"
+  },
+  {
+    "question": "36. Giấy phép mã nguồn mở được sinh ra không để đảm bảo điều nào sau đây?",
+    "correctAnswer": "Đảm bảo các rằng các phần mềm ứng dụng sau khi hoàn thành được phép quảng bá cho các cá nhân"
+  },
+  {
+    "question": "217. Joomla được cung cấp miễn phí theo giấy phép nào (CHECK HỘ GPL HAY GNU) NHÉ",
+    "correctAnswer": "GPL"
+  },
+  {
+    "question": "108. Nhân tố cấu thành E-learning chính là?",
+    "correctAnswer": "Đối tượng người dùng"
+  },
+  {
+    "question": "37. Tư tưởng coi trọng giá trị kỹ thuật của việc tạo ra những phần mềm mạnh, có độ tin cậy cao, và phù hợp với giới kinh doanh hơn là gì?",
+    "correctAnswer": "Tư tưởng của OSI"
+  },
+  {
+    "question": "292. Đáp án nào sau đây không phải là trạng thái trong chu kỳ của việc phát hành",
+    "correctAnswer": "Cố định (Fixed)"
+  },
+  {
+    "question": "264. Từ phiên bản bao nhiêu trở đi Fedora Core chính thức đổi tên thành Fedora?",
+    "correctAnswer": "7"
+  },
+  {
+    "question": "287. Loại Forum nào trong Moodle mà mỗi học viên sẽ đưa lên một vấn đề để các học viên khác thảo luận ?",
+    "correctAnswer": "Each Person posts one discussion"
+  },
+  {
+    "question": "72. Mô hình phát triển mã nguồn mở được phát triển",
+    "correctAnswer": "Theo chiều dọc trên nhiều nhóm, những nhóm này làm việc trên nhiều vị trí khác nhau"
+  },
+  {
+    "question": "7. Tính năng nào dưới đây của Portal cho phép mỗi cá nhân có thể tự chỉnh sửa, tái lập lại các hiển thị thông tin, ứng dụng, nội dung theo sở thích hoặc để phù hợp với công việc của mình.",
+    "correctAnswer": "Cá nhân hoá"
+  },
+  {
+    "question": "157. Thời gian và chi phí phần mềm sẽ phụ thuộc vào",
+    "correctAnswer": "Độ phức tạp của phần mềm"
+  },
+  {
+    "question": "232. Phát biểu nào là đúng nhất về nguồn dữ liệu mà Standalone Modules sử dụng trong Joomla",
+    "correctAnswer": "Standalone Modules thường sử dụng nguồn dữ liệu bên ngoài Joomla"
+  },
+  {
+    "question": "115. Hệ thống E-learning bao gồm mấy thành phần?",
+    "correctAnswer": "3"
+  },
+  {
+    "question": "295. Đâu không phải là một môi trường của IDE bao gồm",
+    "correctAnswer": "Interpreter"
+  },
+  {
+    "question": "187. Nhân lực trong lĩnh vực phát triển mã nguồn mở có ý nghĩa gì? Chọn đáp án đúng",
+    "correctAnswer": "Là những người tạo nên hoặc góp phần hình thành, phát triển một sản phẩm phần mềm"
+  },
+  {
+    "question": "130. Nhân đầu tiên của hệ điều hành GNU/Linux do ai phát triển",
+    "correctAnswer": "Linux Torvalds"
+  },
+  {
+    "question": "25. Điểm khác nhau chính giữa forum và portal trong MNM là gì?",
+    "correctAnswer": "Forum tập trung giao tiếp, portal tích hợp nhiều chức năng"
+  },
+  {
+    "question": "290. Có thể sử dụng công cụ nào sau đây để tự động hóa quá trình xây dựng phần mềm?",
+    "correctAnswer": "Make, Darcs"
+  },
+  {
+    "question": "93. Đâu là loại cổng thông tin cuối cùng, mà Viettel IDC muốn chia sẻ đến độc giả trong bài viết Web Portal là gì này. Ví dụ như SAP Portal, cổng thông tin này sẽ cung cấp các ứng dụng chuyên biệt khác nhau",
+    "correctAnswer": "Specialized portals"
+  },
+  {
+    "question": "137. Web Portal này thường được sử dụng để tập hợp các thông tin lại với nhau từ nhiều nguồn và nhiều ứng dụng, cho phép cá nhân hóa các trang web tùy theo từng đối tượng sử dụng.",
+    "correctAnswer": "Public Portals"
+  },
+  {
+    "question": "117. Fedora Core sử dụng công cụ yum để làm gì?",
+    "correctAnswer": "Quản lý gói phần mềm"
+  },
+  {
+    "question": "172. Những nhà lập trình nào thường chỉ quan tâm chủ yếu đến việc tạo ra một chương trình hoạt động ổn định và có hiệu quả hơn là tính dễ sử dụng",
+    "correctAnswer": "Nhà lập trình phần mềm nguồn mở"
+  },
+  {
+    "question": "218. Phát biểu nào sau đây là sai về đặc tính của Joomla?",
+    "correctAnswer": "Chỉ hỗ trợ 3 ngôn ngữ là Tiếng Anh, Tiếng Trung, và Tiếng Pháp."
+  },
+  {
+    "question": "181. Công cụ yum của Fedora Core được viết bằng ngôn ngữ nào ?",
+    "correctAnswer": "Python"
+  },
+  {
+    "question": "139. Đâu là tên của một máy chủ DNS mã nguồn mở",
+    "correctAnswer": "BIND"
+  },
+  {
+    "question": "239. Chữ M trong tên gọi của Moodle thể hiện đặc điểm gì của Moodle?",
+    "correctAnswer": "Xây dựng theo cấu trúc Mô-đun, dễ dàng mở rộng bằng cách thêm các thành phần phụ"
+  },
+  {
+    "question": "80. Đâu không phải là một thành phần cơ bản của OpenOffice?",
+    "correctAnswer": "MathWork"
+  },
+  {
+    "question": "92. Loại ngôn ngữ SQL nào dùng để định nghĩa dữ liệu, tạo cơ sở dữ liệu và định nghĩa các đối tượng cơ sở dữ liệu?",
+    "correctAnswer": "DDL"
+  },
+  {
+    "question": "245. Thành phần mở rộng nào của Joomla giúp trang web hiển thị bằng nhiều thứ tiếng?",
+    "correctAnswer": "JoomFish"
+  },
+  {
+    "question": "147. Đâu là tính năng của IDE bao gồm:",
+    "correctAnswer": "Cả ba đáp án đều đúng"
+  },
+  {
+    "question": "113. Mô hình phát triển phần mềm mã nguồn mở được ví như?",
+    "correctAnswer": "Mô hình xây dựng chợ"
+  },
+  {
+    "question": "283. Dạng câu hỏi nào trong Moodle khi tạo Quiz mà đơn giản là in ra một số văn bản (và có thể cả đồ họa) mà không yêu cầu một câu trả lời ?",
+    "correctAnswer": "Description"
+  },
+  {
+    "question": "19. Tại sao phần mềm mã nguồn mở lại gây chấn động?",
+    "correctAnswer": "Miễn phí, đa nền tảng, không bị giới hạn bởi các phần mềm khác, đa dạng"
+  },
+  {
+    "question": "214. Dạng câu hỏi nào trong Moodle khi tạo Quiz mà câu trả lời được phép có sai số chấp nhận được",
+    "correctAnswer": "Numerical"
+  },
+  {
+    "question": "167. Nhiệm vụ của Contributor trong dụ án MNM là gì",
+    "correctAnswer": "Làm ra code và gửi đến mainters"
+  },
+  {
+    "question": "197. Đâu không phải là một đặc điểm của giấy phép BSD:",
+    "correctAnswer": "Không cần thông báo bản quyền tuy nhiên không được sử dụng tên dự án để quảng bá."
+  },
+  {
+    "question": "22. Những cá nhân và đội nhóm trong chịu trách nhiệm gì trong dự án MNM",
+    "correctAnswer": "Phát triển và duy trì code"
+  }
+]

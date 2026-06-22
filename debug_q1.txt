@@ -1,0 +1,69 @@
+{
+  "structure": {
+    "settings": {
+      "hasCorrectAnswer": true,
+      "fibDataType": "string",
+      "canSubmitCustomResponse": false,
+      "doesOptionHaveMultipleTargets": false,
+      "showAdvancedRTE": false
+    },
+    "hasMath": false,
+    "query": {
+      "type": "text",
+      "hasMath": false,
+      "math": {
+        "latex": [],
+        "template": null
+      },
+      "answerTime": -1,
+      "text": "1. Portal trong hệ sinh thái mã nguồn mở là nơi tập trung tài liệu, tài khoản, dịch vụ và truy cập hệ thống",
+      "media": []
+    },
+    "options": [
+      {
+        "type": "text",
+        "hasMath": false,
+        "math": {
+          "latex": [],
+          "template": null
+        },
+        "answerTime": 0,
+        "id": "6a33f0536ee7f94940b1216b",
+        "text": "True",
+        "media": [],
+        "_id": "6a33f0536ee7f94940b1216b"
+      },
+      {
+        "type": "text",
+        "hasMath": false,
+        "math": {
+          "latex": [],
+          "template": null
+        },
+        "answerTime": 0,
+        "id": "6a33f0536ee7f94940b1216c",
+        "text": "False",
+        "media": [],
+        "_id": "6a33f0536ee7f94940b1216c"
+      }
+    ],
+    "explain": {},
+    "hints": [],
+    "kind": "MCQ",
+    "marks": {
+      "correct": 1,
+      "incorrect": 0
+    }
+  },
+  "topics": [],
+  "unifiedStandardIds": [],
+  "cloned": null,
+  "ver": 2,
+  "_id": "6a33f0568445d2f8b0605424",
+  "time": 30000,
+  "type": "MCQ",
+  "createdAt": "2026-06-18T13:19:18.888Z",
+  "updated": "2026-06-18T13:19:46.456Z",
+  "state": "inactive",
+  "attempt": 0
+}

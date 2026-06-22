@@ -1,0 +1,39 @@
+--- CÁC CÂU CÓ TRONG QUIZZ (WEB) NHƯNG KHÔNG CÓ TRONG PDF ---
+Câu 1: Portal trong hệ sinh thái mã nguồn mở là nơi tập trung tài liệu, tài khoản, dịch vụ và truy cập hệ thống
+Câu 2: GPL là giấy phép copyleft mạnh và không có những ràng buộc trong quá trình sử dụng
+Câu 3: Forum trong dự án mã nguồn mở thường hỗ trợ tốt nhất cho đối tượng nào?
+Câu 4: Giấy phép MIT License yêu cầu phải công khai mã nguồn khi phân phối phần mềm.
+Câu 5: Leadership trong một dự án mã nguồn mở KHÔNG có nhiệm vụ nào sau đây?
+Câu 25: Điểm khác nhau chính giữa forum và portal trong MNM là gì?
+Câu 26: Tất cả giấy phép mã nguồn mở đều bắt buộc phải open source toàn bộ phần mềm.
+Câu 27: Chọn đáp án đúng để điền vào chỗ trống: Trong mô hình phát triển mã nguồn mở, mã nguồn được ................ để mọi người có thể xem và đóng góp
+Câu 28: Chọn đáp đúng để điền vào chỗ trống: Người gửi code đóng góp cho dự án thường tạo ................ để được xem xét.
+Câu 29: Trong dự án mã nguồn mở, forum chủ yếu dùng để làm gì?
+Câu 30: Giấy phép MIT và CDDL đều là giấy phép mã nguồn mở cho phép dùng trong các dự án thương mại và không bắt buộc công khai mã nguồn nhưng có những điều kiện khác nhau
+Câu 31: Trong dự án mã nguồn mở sử dụng giấy phép MIT License, nếu bạn chỉnh sửa mã nguồn và phân phối lại dưới dạng phần mềm thương mại thì bạn bắt buộc phải công khai toàn bộ mã nguồn đã chỉnh sửa.
+Câu 39: Đâu không phải là lợi ích của việc sử dụng mã nguồn mở đối với các doanh nghiệp
+Câu 57: Đâu là một nhận xét sai về portal
+Câu 61: Phần mềm là gì?
+Câu 66: Nhận định nào dưới đây là sai
+Câu 72: Mô hình phát triển mã nguồn mở được phát triển
+Câu 86: Ai là người phải dựa vào các code base đã đưa ra và đưa ra định hướng để phát triển
+Câu 94: Đâu là không phải là một ưu điểm của Ubuntu
+Câu 101: Năm 2010, Document Foundation công bố một nhánh mới với tên gọi là gì
+Câu 106: Điểm đặc biệt của việc phát triển phần mềm mã nguồn mở?
+Câu 108: Nhân tố cấu thành E-learning chính là?
+Câu 115: Hệ thống E-learning bao gồm mấy thành phần?
+Câu 121: Đâu không phải là một chức năng cơ bản của Moodle
+Câu 122: Mã nguồn mở của Thunderbird được phát hành theo giấy phép nào
+Câu 129: Khẳng định nào sau đây sai ?
+Câu 135: MySQL là gì ?
+Câu 145: Tại sao Apache là sự lựa chọn tốt
+Câu 147: Đâu là tính năng của IDE bao gồm:
+Câu 149: Đâu là khẳng định sai về vai trò của hệ thống ERP nền tảng web đối với doanh nghiệp
+Câu 160: Tên gọi của Fedore Core nhằm mục đích nào trong các mục đích sau
+Câu 164: Ứng dung nào sau đâu là phần mềm đọc tin, quản lý thư điện tử miễn phí mã nguồn mở
+Câu 168: Cho những đặc điểm sau: 1 Xây dựng theo mô hình tập trung 2 Xây dựng theo mô hình phân tán 3 Cập nhật tài liệu người dùng 4 Dễ dàng tìm kiếm lỗi 5 Trộn những đụng độ trên cùng một tập tin Đâu là các đặc điểm đúng để nói về hệ thống quản lý phiên bản
+Câu 195: Đâu là một nhận định sai?
+Câu 202: Tên gọi Fedore Core nhằm mục đích nào trong các mục đích sau
+Câu 290: Có thể sử dụng công cụ nào sau đây để tự động hóa quá trình xây dựng phần mềm?
+
+Tổng số: 36 câu.

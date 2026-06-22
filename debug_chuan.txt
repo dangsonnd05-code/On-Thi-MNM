@@ -1,0 +1,6 @@
+[
+  {
+    "question": "299.   22. Những cá nhân và đội nhóm trong chịu trách nhiệm gì trong dự án MNM",
+    "correctAnswer": "myproduct"
+  }
+]

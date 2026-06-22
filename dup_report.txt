@@ -1,0 +1,56 @@
+Trùng đáp án: 3
+ - Câu 8: Hệ thống E-learing có mấy loại
+ - Câu 45: CMS có mấy loại?
+--------------------------------------------------
+Trùng đáp án: Quy trình phát triển phần mềm truyền thống
+ - Câu 60: Trong quy trình phát triển phần mềm nào mà các nhóm lập trình làm việc riêng rẽ, theo sự quản lý và kế hoạch chi tiết?
+ - Câu 64: Quy trình phát triển phần mềm được so sánh với cách thức chúng ta xây nhà là gì?
+--------------------------------------------------
+Trùng đáp án: 3
+ - Câu 8: Hệ thống E-learing có mấy loại
+ - Câu 115: Hệ thống E-learning bao gồm mấy thành phần?
+--------------------------------------------------
+Trùng đáp án: Bộ ba giấy phép GPL/LGPL/MPL
+ - Câu 112: Mã nguồn của Firefox được phát hành theo giấy phép nào?
+ - Câu 122: Mã nguồn mở của Thunderbird được phát hành theo giấy phép nào
+--------------------------------------------------
+Trùng đáp án: Tư tưởng của OSI
+ - Câu 37: Tư tưởng coi trọng giá trị kỹ thuật của việc tạo ra những phần mềm mạnh, có độ tin cậy cao, và phù hợp với giới kinh doanh hơn là gì?
+ - Câu 142: Tư tưởng coi trọng giá trị kỹ thuật của việc tạo ra những phần mềm mạnh, có độ tin cậy cao và phù hợp với giới kinh doanh hơn là gì
+--------------------------------------------------
+Trùng đáp án: Thiếu các chủ đề thảo luận
+ - Câu 141: Đâu không phải là một hạn chế của Forum
+ - Câu 148: Đâu không là một hạn chế của Forum
+--------------------------------------------------
+Trùng đáp án: 2
+ - Câu 50: Phần mềm được phân loại theo phương thức hoạt động có sẽ mấy loại
+ - Câu 182: Theo khả năng hay quyền hạn can thiệp vào mã nguồn. Thì phần mềm gồm có mấy loại
+--------------------------------------------------
+Trùng đáp án: Quy trình phát triển phần mềm nguồn mở
+ - Câu 162: Quy trình phát triển phần mềm nào được so sánh với việc phát triển của buôn bán ngoài chợ, mở rộng một cách tự phát
+ - Câu 194: Quy trình phát triển phần mềm phần mềm nào được so sánh với việc phát triển của buôn bán ngoài chợ, mở rộng một cách tự phát
+--------------------------------------------------
+Trùng đáp án: Để kiểm tra một Component đã được cài đặt và kích hoạt hay chưa
+ - Câu 215: Ta có thể sử dụng phương thức IsEnabled trong lớp tĩnh JComponentHelper để làm gì
+ - Câu 236: Ta có thể sử dụng phương thức IsEnabled trong lớp tĩnh JComponentHelper để làm gì ?
+--------------------------------------------------
+Trùng đáp án: Workshops
+ - Câu 227: Công cụ nào trong Moodle thường được dùng để lên kế hoạch hoạt động nhóm?
+ - Câu 242: Công cụ nào trong Moodle giúp người học tự đánh giá kết quả học tập của mình cũng như các trợ giúp giáo viên, trợ giúp quá trình trao đổi thông tin?
+--------------------------------------------------
+Trùng đáp án: Visible Groups
+ - Câu 243: Kiểu nhóm nào trong Moodle mà các group thực hiện công việc riêng của mình trong khi vẫn thấy được các công việc của nhóm khác ?
+ - Câu 244: Kiểu nhóm nào trong Moodle mà các group thực hiện công việc riêng của mình trong khi vẫn thấy được các công việc của nhóm khác
+--------------------------------------------------
+Trùng đáp án: Glossary
+ - Câu 223: Công cụ nào trong Moodle được dùng để tạo danh sách định nghĩa các khái niệm khác nhau
+ - Câu 268: Công cụ nào trong Moodle thường được dùng để hướng dẫn học viên tìm kiếm các từ khóa trong dữ liệu văn bản ?
+--------------------------------------------------
+Trùng đáp án: Wiki
+ - Câu 224: Công cụ nào trong Moodle thường được dùng để tạo bản ghi nhớ cho topic nào đó?
+ - Câu 278: Công cụ nào trong Moodle giúp người dạy và học viên có thể nhanh chóng và dễ dàng cùng nhau xây dựng các nội dung cho khóa học của mình
+--------------------------------------------------
+Trùng đáp án: Glossary
+ - Câu 223: Công cụ nào trong Moodle được dùng để tạo danh sách định nghĩa các khái niệm khác nhau
+ - Câu 279: Công cụ nào trong Moodle thường được dùng để liệt kê danh sách các Website chuyên ngành và tóm tắt giới thiệu về các Website này
+--------------------------------------------------

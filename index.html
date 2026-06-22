@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ôn Tập Mã Nguồn Mở</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container glass-panel">
+        <aside id="sidebar" class="sidebar">
+            <div class="sidebar-header">
+                <h3>Danh sách câu hỏi</h3>
+                <button class="icon-btn close-sidebar" onclick="toggleSidebar()"><i class="fa-solid fa-times"></i></button>
+            </div>
+            <div class="question-nav-grid" id="question-nav-grid">
+                <!-- Navigation buttons injected by JS -->
+            </div>
+        </aside>
+
+        <div class="main-content-wrapper">
+            <header>
+                <div class="logo">
+                    <button id="btn-toggle-sidebar" class="icon-btn hidden" onclick="toggleSidebar()"><i class="fa-solid fa-bars"></i></button>
+                    <i class="fa-solid fa-code"></i>
+                    <h1>Mã Nguồn Mở <span>Pro</span></h1>
+                </div>
+                <div class="header-actions">
+                    <button id="btn-home" class="icon-btn hidden" onclick="goHome()" title="Về trang chủ"><i class="fa-solid fa-home"></i></button>
+                    <div class="mode-toggle icon-btn" title="Giao diện Tối/Sáng"><i class="fa-solid fa-moon"></i></div>
+                </div>
+            </header>
+
+            <main id="main-content">
+                <!-- Home Screen -->
+                <section id="home-screen" class="screen active fade-in">
+                    <div class="hero">
+                        <h2>Sẵn sàng chinh phục 299 câu hỏi?</h2>
+                        <p>Ứng dụng ôn tập tối giản, tối ưu & thông minh.</p>
+                    </div>
+                    
+                    <div class="menu-cards">
+                        <div class="card interactive-card" onclick="startQuiz('random')">
+                            <div class="card-icon gradient-1"><i class="fa-solid fa-shuffle"></i></div>
+                            <h3>Thi Thử (60 Câu)</h3>
+                            <p>Hệ thống chọn ngẫu nhiên 60 câu để giả lập bài thi thực tế. Thời gian: 60 phút.</p>
+                            <button class="btn primary">Bắt đầu ngay <i class="fa-solid fa-arrow-right"></i></button>
+                        </div>
+
+                        <div class="card interactive-card" onclick="startQuiz('full')">
+                            <div class="card-icon gradient-2"><i class="fa-solid fa-book-open"></i></div>
+                            <h3>Ôn Tập (299 Câu)</h3>
+                            <p>Làm lại toàn bộ danh sách 299 câu hỏi để củng cố kiến thức toàn diện.</p>
+                            <button class="btn secondary">Luyện tập <i class="fa-solid fa-arrow-right"></i></button>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Quiz Screen -->
+                <section id="quiz-screen" class="screen">
+                    <div class="quiz-header">
+                        <div class="progress-container">
+                            <div class="progress-bar" id="progress-bar"></div>
+                        </div>
+                        <div class="quiz-stats">
+                            <span class="question-counter" id="question-counter">Câu 1/60</span>
+                            <div class="timer" id="timer">
+                                <i class="fa-regular fa-clock"></i> <span id="time-display">60:00</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="question-box">
+                        <h2 id="question-text">Đang tải câu hỏi...</h2>
+                    </div>
+
+                    <div class="options-grid" id="options-grid">
+                        <!-- Options injected by JS -->
+                    </div>
+
+                    <div id="explanation-box" class="explanation-box hidden">
+                        <h4><i class="fa-solid fa-lightbulb"></i> Đáp án & Giải thích</h4>
+                        <div class="explanation-content">
+                            <p><strong>Đáp án đúng:</strong> <span id="explanation-correct-ans" class="text-success"></span></p>
+                            <p class="explanation-detail" id="explanation-text"></p>
+                        </div>
+                    </div>
+
+                    <div class="quiz-footer">
+                        <button class="btn secondary" id="btn-prev" onclick="prevQuestion()" disabled><i class="fa-solid fa-arrow-left"></i> Câu trước</button>
+                        <button class="btn primary" id="btn-next" onclick="nextQuestion()">Câu tiếp theo <i class="fa-solid fa-arrow-right"></i></button>
+                        <button class="btn success hidden" id="btn-submit" onclick="submitQuiz()"><i class="fa-solid fa-check"></i> Nộp bài</button>
+                    </div>
+                </section>
+
+                <!-- Result Screen -->
+                <section id="result-screen" class="screen">
+                    <div class="result-card">
+                        <div class="trophy-icon"><i class="fa-solid fa-trophy"></i></div>
+                        <h2>Hoàn Thành Bài Thi!</h2>
+                        
+                        <div class="score-display">
+                            <div class="score-circle">
+                                <svg viewBox="0 0 36 36" class="circular-chart">
+                                    <path class="circle-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                                    <path class="circle" id="score-circle-path" stroke-dasharray="0, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                                    <text x="18" y="20.35" class="percentage" id="score-percentage">0%</text>
+                                </svg>
+                            </div>
+                        </div>
+
+                        <div class="stats-grid">
+                            <div class="stat-box">
+                                <i class="fa-solid fa-check-circle" style="color: var(--success);"></i>
+                                <span class="stat-value" id="correct-count">0</span>
+                                <span class="stat-label">Câu đúng</span>
+                            </div>
+                            <div class="stat-box">
+                                <i class="fa-solid fa-times-circle" style="color: var(--danger);"></i>
+                                <span class="stat-value" id="incorrect-count">0</span>
+                                <span class="stat-label">Câu sai</span>
+                            </div>
+                            <div class="stat-box">
+                                <i class="fa-regular fa-clock" style="color: var(--warning);"></i>
+                                <span class="stat-value" id="time-spent">00:00</span>
+                                <span class="stat-label">Thời gian</span>
+                            </div>
+                        </div>
+
+                        <div class="result-actions">
+                            <button class="btn secondary" onclick="reviewAnswers()"><i class="fa-solid fa-eye"></i> Xem lại đáp án</button>
+                            <button class="btn primary" onclick="goHome()"><i class="fa-solid fa-rotate-left"></i> Về trang chủ</button>
+                        </div>
+                    </div>
+                </section>
+                
+                <!-- Review Screen -->
+                <section id="review-screen" class="screen">
+                    <div class="review-header">
+                        <h2>Xem Lại Đáp Án</h2>
+                        <button class="btn secondary btn-sm" onclick="showResultScreen()"><i class="fa-solid fa-arrow-left"></i> Quay lại</button>
+                    </div>
+                    <div id="review-list" class="review-list">
+                        <!-- Review items injected by JS -->
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="quiz_data_final.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

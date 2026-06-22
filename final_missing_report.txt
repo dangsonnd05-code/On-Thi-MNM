@@ -1,0 +1,20 @@
+Câu 1: Portal trong hệ sinh thái mã nguồn mở là nơi tập trung tài liệu, tài khoản, dịch vụ và truy cập hệ thống
+Câu 3: Forum trong dự án mã nguồn mở thường hỗ trợ tốt nhất cho đối tượng nào?
+Câu 4: Giấy phép MIT License yêu cầu phải công khai mã nguồn khi phân phối phần mềm.
+Câu 5: Leadership trong một dự án mã nguồn mở KHÔNG có nhiệm vụ nào sau đây?
+Câu 25: Điểm khác nhau chính giữa forum và portal trong MNM là gì?
+Câu 26: Tất cả giấy phép mã nguồn mở đều bắt buộc phải open source toàn bộ phần mềm.
+Câu 27: Chọn đáp án đúng để điền vào chỗ trống: Trong mô hình phát triển mã nguồn mở, mã nguồn được ................ để mọi người có thể xem và đóng góp
+Câu 28: Chọn đáp đúng để điền vào chỗ trống: Người gửi code đóng góp cho dự án thường tạo ................ để được xem xét.
+Câu 29: Trong dự án mã nguồn mở, forum chủ yếu dùng để làm gì?
+Câu 30: Giấy phép MIT và CDDL đều là giấy phép mã nguồn mở cho phép dùng trong các dự án thương mại và không bắt buộc công khai mã nguồn nhưng có những điều kiện khác nhau
+Câu 31: Trong dự án mã nguồn mở sử dụng giấy phép MIT License, nếu bạn chỉnh sửa mã nguồn và phân phối lại dưới dạng phần mềm thương mại thì bạn bắt buộc phải công khai toàn bộ mã nguồn đã chỉnh sửa.
+Câu 39: Đâu không phải là lợi ích của việc sử dụng mã nguồn mở đối với các doanh nghiệp
+Câu 57: Đâu là một nhận xét sai về portal
+Câu 61: Phần mềm là gì?
+Câu 72: Mô hình phát triển mã nguồn mở được phát triển
+Câu 108: Nhân tố cấu thành E-learning chính là?
+Câu 135: MySQL là gì ?
+Câu 145: Tại sao Apache là sự lựa chọn tốt
+
+Tổng số thực sự khác biệt: 18 câu.

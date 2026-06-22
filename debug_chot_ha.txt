@@ -1,0 +1,22 @@
+[
+  {
+    "fullText": "Question 3\n11.2s\n0 / 1 pts\nĐiểm: 0\n39. Đâu không phải là lợi ích của việc sử dụng mã nguồn mở đối với các doanh nghiệp\nLinh hoạt trong sử dụngGiao diện chức năng phù hợpChi phí thấp và giấy phép linh hoạtKhông phụ thuộc vào nhà cung cấp\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 4\n26.4s\n0 / 1 pts\nĐiểm: 0\n236. Ta có thể sử dụng phương thức IsEnabled trong lớp tĩnh JComponentHelper để làm gì ?\nĐể kiểm tra thuộc tính Enable của Component đã kích hoạt hay chưaĐể hủy kích hoạt một ComponentĐể kích hoạt một ComponentĐể kiểm tra một Component đã được cài đặt và kích hoạt hay chưa\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 9\n19.2s\n0 / 1 pts\nĐiểm: 0\n133. Môi trường phát triển PMMNM cần cung cấp các chức năng nào sau đây?\nHệ thống quản lý mã nguồnCác tài liệu bảo mậtCác kênh truyền thôngCơ sở dữ liệu về lỗi\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 10\n3.2s\n0 / 1 pts\nĐiểm: 0\n48. Nhận định nào sau đây không đúng?\nKhả năng vá lỗi và sửa lỗi của Ubuntu thường nhanh hơn nhờ cộng đồng hỗ trợ lớnUbuntu là một hệ điều hành trên máy tínhUbuntu không thân thiện với người dùng. Đòi hỏi người dùng phải có hiểu biết về công nghệ.Đối tượng sử dụng của Ubuntu vô cùng đông đảo, với số lượng người dùng cao hơn Windows đặc biệt là người dùng thông thường.\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  },
+  {
+    "fullText": "Question 12\n14.2s\n0 / 1 pts\nĐiểm: 0\n24. Phát biểu nào dưới đây là sai?\nNhững contributor làm ra code họ sẽ gửi đến cho maintainers thông qua mailing listMột module sẽ được gửi giới hạn trong cộng đồng contributor như một bản thử nghiệmTuỳ theo độ phức tạp và quy mô của project mà có thể có hoặc không có nhiều lớp maintainers.Khi phần mềm xuất hiện lỗi maintainer sẽ trực tiếp sửa lỗi và sẽ chịu trách nhiệm cho các lỗi này.\nCâu trả lời đúng\nCâu trả lời của bạn\nPREV\nNEXT",
+    "correctAnswer": "Unknown"
+  }
+]

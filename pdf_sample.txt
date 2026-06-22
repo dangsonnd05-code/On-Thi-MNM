@@ -1,0 +1,2031 @@
+Mã nguồn mở đi thi VMU - Material to review before the final
+ exam
+ Mã nguồn mở (Đại học Hàng hải Việt Nam)
+messages.pdf_cover_qr_code_label
+messages.studocu_not_sponsored_or_endorsed_by_college
+ Mã nguồn mở đi thi VMU - Material to review before the final
+ exam
+ Mã nguồn mở (Đại học Hàng hải Việt Nam)
+messages.pdf_cover_qr_code_label
+messages.studocu_not_sponsored_or_endorsed_by_college
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+1.Ba nguyên lý phát triển phần mềm mã nguồn mở bao gồm
+Tài nguyên, động lực, thương hiệu
+Tài nguyên, tài liệu, uy tín
+Tài nguyên, động lực, tài liệu
+Tài nguyên, tài liệu, thương hiệu
+2.BIND là chương trình phần mềm nguồn mở đăng ký theo giấy phép nào ?
+Giấy phép BSD
+Giấy phép GPL
+Giấy phép GNU
+Giấy phép MPL
+3.Các bước để cơ bản để đánh gía phần mềm mã nguồn mở bao gồm?
+Xác định, đánh giá, so sánh, phân tích
+Xác định, đánh giá, phân tích, so sánh
+Phân tích, đánh giá, so sánh, xác định
+Đánh giá, xác định, phân tích, so sánh
+4.Các công cụ gì trong Moodle giúp người học có khả năng lập kế hoạch 
+phù hợp với năng lực của mình?
+Collaborative Tools & Activities
+Course Activities
+Learning Plans
+Self Assessment và Personalized Learning
+5.Các diễn đàn, wiki, glossary, các hoạt động cơ sở dữ liệu…trong Moodle 
+được gọi chung là gì?
+Personalized Learning
+Self Assessment
+Collaborative Tools & Activities
+Course Activities
+6.Các phiên bản biến thể tùy chỉnh của Fedora gọi là
+Fedora Variations
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Fedora Blends
+Fedora Customizations
+Fedora Spins
+7.Câu là một định danh về trạng thái của người dùng trong một ngữ cảnh 
+nhất định trong Moodle?
+Capability
+Role
+Permission
+Context
+8.
+Nhiều lựa chọn
+30 sec
+1 pt
+Câu nào sau đây là đúng?
+Phần mềm mã nguồn mở không có bản quyền
+Phần mềm mã nguồn mở không mang lại lợi nhuận
+Phần mềm mã nguồn mở không có bảo hành
+Phần mềm mã nguồn mở không cho phép phân phối lại
+9.
+Nhiều lựa chọn
+30 sec
+1 pt
+Cho các thành phần sau:
+(1): Host
+(2): Máy tính, phần cứng
+(3): Phần mềm hỗ trợ
+(4): Forum và Wiki
+(5): Tài liệu tham khảo
+Đâu là các cơ sở vật chất cần có trong 1 dự án MNM
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+1,2,3,4
+2,3,4,5
+1,2,4,5
+1,3,4,5
+10.
+Cho đến năm 1991, dự án GNU vẫn chưa đưa ra được một hệ thống phần 
+mềm hoàn toàn tự do vì một yếu tố cơ bản vẫn còn vắng bóng nào?
+Vỏ hệ thống (Shell)
+Lõi hệ thống (Kernel)
+Ứng dụng (Application)
+Dịch vụ (Service)
+11.
+Nhiều lựa chọn
+30 sec
+1 pt
+Chữ M trong tên gọi của Moodle thể hiện đặc điểm gì của Moodle?
+Xây dựng theo cấu trúc quản trị khép kín
+Xây dựng như một trình quản lý đào tạo
+Tính chất tích hợp cao
+Xây dựng theo cấu trúc Mô-đun, dễ dàng mở rộng bằng cách thêm các thành 
+phần phụ
+12.Chức năng chính của phần mềm Thunderbird là gì?
+Duyệt web
+Máy chủ web
+Soạn thảo văn bản
+Đọc tin, quản lý thư điện tử
+13.Chương trình bảng tính cơ bản của OpenOffice là gì?
+Calc
+Excel
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Fomular
+OpenExcel
+14.Chương trình đồ họa cơ bản của OpenOffice là gì ?
+Graph
+Draw
+OpenVisio
+Visio
+15.Chương trình hỗ trợ viết công thức toán của OpenOffice là gì ?
+Microsoft Equation Editor
+Math
+Math Equation Editor
+Open Access
+16.Chương trình quản lý cơ sở dữ liệu cơ bản của OpenOffice là gì ?
+OpenAccess
+Base
+Database Management
+Access
+17.
+Chương trình soạn thảo trình diễn cơ bản của OpenOffice là gì?
+Impress
+OpenPowerPoint
+PowerPoint
+Slider
+18.
+Chương trình soạn thảo văn bản của OpenOffice là gì?
+Writer
+Word
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+OpenWord
+OpenWriter
+19.
+CMS có mấy loại?
+3
+1
+2
+4
+20.
+Có thể sử dụng hai công cụ nào sau đây để tự động hóa quá trình xây dựng 
+phần mềm?
+Make, Darcs
+Apache
+Ant
+Không có đáp án nào ở trên
+21.
+Công cụ nào trong Moodle để thể hiện quá trình học tập của học viên, học 
+viên có thể giải thích, đưa ra những ý kiến liên quan đến nhiệm vụ giáo viên
+giao cho và kết quả đạt được của mình?
+Forum
+Chat
+Blog
+Wiki
+22.
+Công cụ nào trong Moodle được dùng để tạo danh sách định nghĩa các khái
+niệm khác nhau?
+Glossary
+Wiki
+Lessons
+Workshops
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+23.
+Công cụ nào trong Moodle giúp người dạy và học viên có thể nhanh chóng 
+và dễ dàng cùng nhau xây dựng các nội dung cho khóa học của mình?
+Workshops
+Lessons
+Glossary
+Wiki
+24.
+Công cụ nào trong Moodle giúp người học tự đánh giá kết quả học tập của 
+mình cũng như các trợ giúp giáo viên, trợ giúp quá trình trao đổi thông tin?
+Lessons
+Wiki
+Workshops
+Glossary
+25.
+Công cụ nào trong Moodle thường được dùng để đưa ra và sắp xếp các chỉ 
+dẫn để thực hiện một thí nghiệm hay thực hành?
+Workshops
+Glossary
+Wiki
+Lessons
+26.
+Công cụ nào trong Moodle thường được dùng để lên kế hoạch hoạt động 
+nhóm?
+Lessons
+Wiki
+Glossary
+Workshops
+27.
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Công cụ nào trong Moodle thường được dùng để liệt kê danh sách các 
+Website chuyên ngành và tóm tắt giới thiệu về các Website này?
+Glossary
+Workshops
+Wiki
+Lessons
+28.
+Công cụ nào trong Moodle thường được dùng để tạo bản ghi nhớ cho topic 
+nào đó?
+Workshops
+Wiki
+Glossary
+Lessons
+29.Công cụ quản lý và cài đặt các gói phần mềm của Fedora là gì ?
+ypt
+yum
+apt
+rpm
+30.Công cụ yum của Fedora Core được viết bằng ngôn ngữ nào?
+Python
+C
+C++
+Java
+31.Đặc điểm cơ bản của DP2 Express c
+DB2 Express-C là một máy chủ cơ sở dữ liệu miễn phí của IBM -
+DB2 Express-C không có giới hạn về kích thước cơ sở dữ liệu hoặc số lượng 
+người dùng
+DB2 Express-C có thể chạy trên Linux, Windows và Mac OS
+Tất cả những đáp án trên
+Không có án nào ở trên
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+32.Đặc điểm nào sau đây là đặc điểm của DB2 Express-C?
+DB2 Express-C là một máy chủ cơ sở dữ liệu miễn phí của IBM
+DB2 Express-C không có giới hạn về kích thước cơ sở dữ liệu hoặc số lượng 
+người dùng
+DB2 Express-C có thể chạy trên Linux, Windows và Mac OS
+Tất cả những đáp án trên
+Không có đáp án nào ở trên
+33.Dạng câu hỏi nào trong Moodle khi tạo quiz mà câu hỏi được trả lời 
+dưới dạng một văn bản ?
+Embedded Answer (Cloze Test / Gap Fill)
+Matching
+Essay
+Description
+34.Dạng câu hỏi nào trong Moodle khi tạo Quiz mà câu trả lời được phép 
+có sai số chấp nhận được?
+Embedded Answers (Cloze Test / Gap Fill)
+Numerical
+Matching
+Calculated
+35.Dạng câu hỏi nào trong Moodle khi tạo Quiz mà cung cấp một danh sách
+các câu hỏi cùng với một danh sách các câu trả lời, người trả lời phải khớp 
+câu hỏi với câu trả lời đúng?
+Multiple Choice
+Embedded Answers (Cloze Test / Gap Fill)
+True/False
+Matching
+36.Dạng câu hỏi nào trong Moodle khi tạo Quiz mà đơn giản là in ra một số
+văn bản (và có thể cả đồ họà không yêu cầu một câu trả lời ?
+Essay
+Không có dạng câu hỏi nào như vậy trong Moodle khi tạo Quiz
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Description
+Embedded Answers (Cloze Test / Gap Fill)
+37.Dạng câu hỏi nào trong Moodle khi tạo quizz mà bao gồm một đoạn văn 
+bản theo định dạng của Moodle mà có rất nhiều câu trả lời có thể ở các 
+dạng khác nhau trong đó?
+Description
+Embedded Answers (Cloze Test / Gap Fill)
+Không có dạng câu hỏi nào như vậy trong Moodle khi tạo quizz
+Essay
+39.Dạng câu hỏi nào trong Moodle khi tạo quizz mà có thể có một số câu trả
+lời đúng với mức điểm khác nhau?
+Embedded Answers (Cloze Test / Gap Fill)
+Multiple Choice
+Short Answer
+Matching
+40.Dạng câu hỏi nào trong Moodle khi tạo quizz mà cung cấp một cách để 
+tạo ra các câu hỏi số học riêng biệt bằng cách sử dụng các ký tự đại diện 
+được thay thế bằng các giá trị riêng khi quizz được thực hiện?
+Không có dạng câu hỏi nào như vậy trong Moodle khi tạo quiz
+Embedded Answers (Cloze Test / Gap Fill)
+Description
+Calculated
+42.Dạng câu hỏi nào trong Moodle khi tạo quizz mà khi trả lời một câu hỏi, 
+người trả lời chọn các đáp án từ danh sách các câu trả lời cho sẵn?
+Embedded Answers (Cloze Test / Gap Fill)
+True/False
+Matching
+Multiple Choice
+43.Đáp án nào sau đây không phải là trạng thái trong chu kỳ của việc phát 
+hành?
+Mở (Opened)
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Cố định (Fixed)
+Đóng (Closed)
+Tích hợp (Integrated)
+Đã được xác thực (Validated)
+44.Đâu không là một hạn chế của Forum
+Thiếu các chủ đề thảo luận
+Chi phí băng thông lớn nếu lưu lượng truy cập lớn
+Cần có chiến lựơc thu hút thành viên
+Nội dung được đăng lên thường khó kiểm soát
+45.Đâu không phải là 1 bước trong quy trình tiếp nhận mã nguồn từ nhà cung 
+cấp tới phiên bản chính và đưa ra thị trường.
+Yêu cầu tính năng mới được chấp thuận
+Yêu cầu tính năng được gửi đến hòm thư
+Chỉnh sửa tính năng
+Tính năng được theo dõi
+46.Đâu không phải là 1 ưu điểm của mã nguồn mở
+Tốc độ
+Tính ổn định
+Tính bảo mật
+Nội địa hoá
+47.Đâu không phải là đặc điểm của phương thức xây dựng phần mềm mã 
+nguồn mở ?
+Có tính tiếp thu kế thừa
+Quản lý chất lượng tốt hơn
+Giảm sự tập trung nguồn lực
+Chi phí duy trì cao
+48.Đâu không phải là động cơ của người phát triển phần mềm MNM?
+Vì lợi ích cộng đồng
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Kết qủa của một số bài tập trong chương trình đại học
+Đa số vì phần thưởng tiền bạc
+Niềm đam mê lập trình
+49.
+Đâu không phải là một bước trong xây dựng Component trong Joomla ?
+Xây dựng các View
+Xây dựng các Entry Point
+Xây dựng các Model
+Xây dựng các Controller (MAYBE)
+50.Đâu là một chức năng cơ bản của Moodle
+Các khoá học và hoạt động
+Người dùng – user
+Tuyển sinh khoá học
+Tất cả các đáp án được nêu đều đúng
+51.Đâu không phải là một công cụ trong IDE
+Trình biên dịch
+Tự sinh code
+Tìm kiếm mã lệnh
+Thông dịch
+52.Đâu không phải là một đặc điểm của hệ thống quản lý mã nguồn
+Dễ dàng tìm kiếm lỗi
+Trộn những đụng độ trên tập tin
+Lưu trữ mã nguồn trực tuyến
+Theo dõi vết thay đổi trên mã nguồn
+53.Đâu không phải là một hạn chế của phần mềm mã nguồn mở
+Thiếu tính tương hỗ với các hệ thống phần mềm đóng
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Thiếu tính ổn định
+Thiếu các ứng dụng kinh doanh đặc thù
+Thiếu tính tiện dụng
+55.Đâu không phải là một IDE
+Pycharm
+Xcode
+Notepad
+Mircosoft Visual Studio IDE
+56.Đâu không phải là một môi trường của IDE bao gồm:
+Debugger
+Interpreter
+Trình tự động sinh code
+Code editor
+57.Đâu không phải là một nhận đúng về IDE?
+Là một môi trường tích hợp phát triển
+Liên quan đến thuật ngữ “All-in-one”
+Chỉ đơn thuần là 1 code editor
+Chính Mo
+58.Đâu không phải là một tầng cơ bản trong nền tảng Joomla
+Mức nền tảng
+Mức mở rộng
+Mức ứng dụng
+Mức cơ sở dữ liệu
+59.Đâu không phải là một thành phần cơ bản của OpenOffice?
+Calc
+Writer
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Draw
+MathWork
+60.Đâu không phải là tính năng của Portal
+Đồng bộ hoá
+Cá nhân hoá
+Khả năng phân loại nội dung
+Tìm kiếm và chỉ mục
+61.Đâu không phải là ưu điểm của Forum?
+Tạo ra cộng đồng có chung mục đích
+Rất dễ kiểm soát thông tin đặc biệt với những diễn đàn lớn
+Tìm kiếm và tiếp cận được thông tin nhanh.
+Là địa chỉ tin cậy cho những người tìm kiếm thông tin và giải đáp thức mắc
+62.Đâu không phải là ưu điểm của Ubuntu
+Do là HĐH miễn phí nên bảo mật không cao
+Không yêu cầu cấu hình mạnh
+Khả năng tương tác sâu
+Có nhiều ứng dụng miễn phí
+63.Đâu là 1 đặc điểm khi nhắc đến giấy phép GPL
+Khi phân phối bản thay đổi không cần phải chú thích.
+Phải giữ nguyên thông báo bản quyền sản phẩm
+Phát hành miễn phí với thời gian không giới hạn
+Khi sao chép và phân phối chương trình phải đính kèm bản quyền gốc
+64.
+Đâu là khẳng định là sai về vai trò của hệ thống ERP nền tảng web đối với 
+doanh nghiệp
+Một website ERP chỉ phép người dùng truy cập thông tin công ty trong thời 
+gian, không gian với hạn để đảm bảo về chi phí vận hành và bảo trì
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Một hệ thống ERP sử dụng nền tảng web chỉ cần duy nhất một server, một 
+database, một đội ngũ IT
+Cung cấp cho người dùng khả năng hiển thị trên toàn cầu tất cả các chi nhánh, 
+địa điểm của công ty.
+Một website ERP cho phép người dùng truy cập thông tin công ty của mình bất 
+cứ thời gian nào, bất cứ nơi đâu, và bất cứ thiết bị nào
+65.
+Đâu là lý do chính khi sử dụng phương thức getInstance() trong Joomla?
+Tránh lặp lại các công việc
+Cung cấp cách thức tạo ra các đối tượng toàn cục phù hợp với tiêu chuẩn của 
+Joomla
+Tất cả
+Dễ dàng theo dõi các đối tượng
+66.
+Đâu là một CMS phải trả phí?
+Joomla
+Magento
+Shopify
+Wordpress
+67.
+Đâu là một đặc điểm của Joomla ?
+Joomla được viết bằng ngôn ngữ ASP.NET và kết nối cơ sở dữ liệu Microsoft 
+SQL Server
+Joomla được viết bằng ngôn ngữ Java và kết nối cơ sở dữ liệu MySQL
+Joomla được viết bằng ngôn ngữ PHP và kết nối cơ sở dữ liệu MySQL
+Joomla được viết bằng ngôn ngữ PHP và kết nối cơ sở dữ liệu Microsoft SQL 
+Server
+68.
+Đâu là một đặc điểm của phương thức xây dựng phần mềm mã nguồn mở ?
+Chi phí duy trì cao
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Quản lý chất lượng kém
+Sự trùng lặp nguồn lực cao
+Có tính tiếp thu kế thừa
+69.
+Đâu là một định danh về trạng thái của người dùng trong một ngữ cảnh 
+nhất định trong Moodle?
+Role
+Capability
+Permission
+Context
+70.
+Đâu là một hạn chế của phần mềm mã nguồn mở ?
+Thiếu tính an toàn
+Thiếu tính tiện dụng
+Thiếu tính ổn định
+Thiếu tính tương hỗ với hệ thống phần mềm mã nguồn mở
+71.
+Đâu là một khẳng định đúng về mô hình tổ chức trong phát triển ứng dụng 
+mã nguồn mở
+Mô hình được phát triển theo chiều dọc, trên nhiều nhóm, những nhóm này chỉ 
+làm việc trên một vị trí
+Mô hình được phát triển theo chiều ngang, trên nhiều nhóm, những nhóm này 
+làm việc trên nhiều vị trí khác nhau
+Mô hình được phát triển theo chiều dọc, trên nhiều nhóm, những nhóm này làm 
+việc trên nhiều vị trí khác nhau
+Mô hình được phát triển theo chiều ngang, trên nhiều nhóm, những nhóm này 
+chỉ làm việc trên một vị trí
+72.
+Đâu là một khẳng định đúng?
+Doanh thu của phần mềm truyền thống chủ yếu đến từ việc tìm kiếm mã lệnh
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Doanh thu của phần mềm truyền thống chủ yếu đến từ việc nâng cấp phần mềm
+Tất cả các ý kiến trên đều đúng
+Doanh thu của phần mềm truyền thống chủ yếu đến từ gía bán cho mỗi bản sao
+73.
+Đâu là một khẳng định sai?
+Nhóm bảo trì(Maintainer) có thể phân thành hai hay nhiều lớp
+Nhóm người sử dụng PMMNM là nhóm nhân lực không chính thức
+Nhân lực đóng vai trò vô cùng quan trọng trong các dự án MNM
+Nhân lực được chia làm hai nhóm chính: Contributor và Market
+74.
+Đâu là một nhận định đúng về trình mã nguồn trong PMMNM
+Vòng đời của một trình mã mới thường không được dễ dàng chấp thuận bởi 
+Contributor
+Vòng đời của một trình mã mới thường có sự gián đoạn
+Các ý được nêu đề sai
+Vòng đời của một trình mã mới thường hay lặp đi lặp lại
+75.
+Đâu là một nhận sai về portal
+Là điểm đích qui tụ hầu hết các thông tin và dịch vụ cho người sử dụng cần, là 
+điểm đích đến thực sự.
+Nó ra đời để giải quyết những vấn đề mà website truyền thống gặp phải.
+Là một bước tiến hóa của website truyền thống.
+Môi trường còn bị động trong việc tích hợp ứng dụng
+76.
+Đâu là một phần mềm cộng tác nhắm đến việc tạo ra một HTTP server 
+mạnh mẽ mã nguồn mở
+LiteSpeed
+Apache
+Zeus
+IIS
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+77.
+Đâu là một ứng dụng miễn phí mã nguồn mở của Sun Microsystems ?
+Fedora
+OpenOffice
+Thunderbird
+Apache
+78.
+Đâu là một ưu điểm của ứng dụng mã nguồn mở?
+Tốc độ
+Tính độc quyền
+Tương thích với các phần mềm đóng
+Gia tăng tư duy sáng tạo
+79.
+Đâu là nhận định sai về mô hình phát triển ứng dụng mã nguồn mở
+Có định nghĩa rõ ràng về cấu trúc quản lý
+Không có thiết kế ban đầu rõ ràng
+Là mô hình xây dựng chợ
+Sử dụng một chính sách lỏng lẻo trong việc phát hành mã nguồn
+80.
+Đâu là tên của một máy chủ DNS mã nguồn mở ?
+FreeBSD
+BIND
+MTA
+OpenSSH
+81.
+Đâu là tên viết tắt của phần mềm nguồn mở/tự do?
+FOSS
+FSS
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+FOS
+OSS
+82.
+Đâu là thách thức đối với phần mềm mã nguồn mở
+Cả ba ý đã nêu đều đúng
+Cộng đồng phần mềm mã nguồn mở
+Những nhà cung cấp bản quyền phần mềm
+Nhận thức trong khu vực công và chiến lược chính phủ
+83.
+Đâu là yếu tố cốt lõi trong lĩnh vực mã nguồn mở
+Cơ sở vật chất
+Thương hiệu
+Nhân lực
+Tài chính
+84.
+Đâu tính năng của IDE bao gồm:
+Thuận tiện cho việc điều chỉnh code có sẵn
+Làm nổi bật các cú pháp có trong đoạn code
+Khả năng phát hiện lỗi
+Cả ba đáp án đều đúng
+85.
+DB2
+Nó miễn phí
+Nó có hỗ trợ tùy chọn dựa trên phí khi công ty của bạn phát triển
+Nó cung cấp một lộ trình nâng cấp dễ dàng khi công ty của bạn phát triển
+Tất cả những đáp án trên
+Không có đáp án nào ở trên
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+86.
+Để kiểm tra một component trong Joomla đã được cài đặt và kích hoạt hay 
+chưa, ta có thể sử dụng phương thức là?
+Phương thức IsInstalled() trong lớp tĩnh JComponentHelper
+Phương thức IsEnabled() trong lớp tĩnh JController
+Phương thức IsEnabled() trong lớp tĩnh JComponentHelper
+Phương thức IsReady() trong lớp tĩnh JController
+87.
+Để thêm một mục vào bảng tham chiếu tên tác vụ và phương thức thực sự 
+của mỗi controller trong Joomla ta dùng phương thức nào?
+newTask()
+registerTask()
+addTask()
+createTask()
+88.
+Để thực thi một tác vụ nào đó trong lớp JController của Joomla ta sử dụng 
+phương thức nào?
+run ('tên tác vụ')
+execute ('tên tác vụ')
+process ('tên tác vụ')
+Tất cả đều không phải
+89.
+Địa chỉ trang cung cấp của thành phần mở rộng của Joomla! là gì ?
+https://www.extensions,joomla.org/
+https://www.extensions,joomla.net/
+https://www.extensions,joomla.com/
+https://www.extensions,joomla.us/
+90.
+Địa chỉ trang diễn đàn trao đổi của Joomla! là gì?
+https://www.forum.joomla.com/
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+https://www.forum.joomla.net/
+https://www.forum.joomla.us/
+https://www.forum.joomla.org/
+91.
+Điểm đặc biệt của phần mềm nguồn mở là
+Khi có lỗi các phần mềm này được hỗ trợ hoàn toàn nhưng phải trả phí
+Đựơc phát triển bởi cộng đồng sau đó phân phối đến người dùng
+Tất cả các ý đã nêu đều sai
+Được phát triển bởi các công ty phần mềm, mã nguồn đóng lại
+92.
+Điểm nào dưới đây là đặc biệt của việc phát triển phần mềm mã nguồn mở
+Chu kỳ sản xuất module nhỏ kiểm tra tích hợp cho đến khi hoàn thiện để tích 
+hợp vào phần mềm
+Chu kỳ sản xuất module lớn kiểm tra tích hợp cho đến khi hoàn thiện để tích 
+hợp vào phần mềm
+Chu kỳ sản xuất module lớn, tuy nhiên không được kiểm tra tích hợp, sau đó 
+tích hợp vào phần mềm
+Chu kỳ sản xuất module nhỏ, tuy nhiên không được kiểm tra tích hợp, sau đó 
+tích hợp vào phần mềm
+93.
+Điểm phân biệt cơ bản nhất của việc ứng dụng ERP so với cách áp dụng 
+nhiều phần mềm quản lý rời rạc khác là?
+Tính ổn định
+Tính tích hợp
+Tính an toàn
+Tính hiệu quả
+94.
+Định dạng nào sau đây là định dạng hợp lệ của gói OSS cụ thể của 
+Windows?
+.tar
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+.zip
+.gz
+A và C
+Tất cả các đáp án trên.
+95.
+Dự án Apache ban đầu được phát triển bởi ai?
+Robert Thau
+David Robinson
+Netcraft
+Rob McCool
+96.
+Dự án Fedora được bảo trợ bởi tổ chức nào ?
+Red Hat
+SUSE
+Sun Microsystems
+97.
+Dự án Firefox ban đầu có tên là gì?
+Firebird
+Suite
+Netscape
+Phoenix
+98.
+Dưới đây đâu không là đặc điểm của giấy phép Apache?
+Không yêu cầu về giới hạn tức không giới hạn về bất cứ điều gì
+Không yêu cầu bản sửa đổi phân phối dưới cùng giấy phép với bản gốc.
+Không yêu cầu bản sửa đổi dưới dạng mã nguồn mở
+Không yêu cầu về danh sách các điều khoản và từ chối trách nhiệm
+99.
+Fedora Core sử dụng công cụ yum để làm gì?
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Thiết lập mạng
+Gỡ lỗi
+Quản lý tiến trình
+Quản lý gói phần mềm
+100.
+Forum là gì?
+Là kênh giúp người ta có thể thực hiện việc thương mai điện tử
+Là diễn đàn là một dạng cộng đồng
+Là một nơi giúp nguời dùng cập nhật các tin tức hàng ngày
+Là một website nhằm phục vụ mục đích quảng bá
+101.
+Gecko là thành phần gì của Mozilla Firefox ?
+Quản lý tiến trình
+Bảo mật
+Quản lý phần mở rộng
+Bộ máy trình bày
+102.
+Giấy phép GPL có đặc điểm nào sau đây
+Phải giữ nguyên thông báo bản quyền sử dụng
+Không cần chú thích khi phân phối lại bản đó
+Không nhận bảo hành
+Không có quy định về thời gian miễn phí phát hành
+103.
+Giấy phép Công cộng Eclipse có được OSI chấp thuận không?
+Có
+Không
+104.
+Giấy phép mã nguồn mở là:
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Là giấy phép bản quyền dành cho các phần mềm máy tính trong đó không đặt ra
+các quy định buộc ngừơi sử dụng phải tuân theo vàđược sử dụng cho các loại 
+phần mềm
+Là giấy phép bản quyền dành cho các phần mềm máy tính trong đó đặt ra các 
+quy định buộc ngừơi sử dụng phải tuân theo và được sử dụng cho các loại phần 
+mềm
+Là giấy phép bản quyền dành cho các phần mềm máy tính trong đó đặt ra các 
+quy định buộc ngừơi sử dụng phải tuân theo và được sử dụng cho các loại phần 
+mềm
+Là giấy phép bản quyền dành cho các phần mềm máy tính trong đó đặt ra các 
+quy định buộc ngừơi sử dụng phải tuân theo và được sử dụng cho các phần mềm
+MNM
+105.
+Hai nhóm nhân lực chính trong mô hình phát triển PMNMM bao gồm
+Contributor và Maintainer
+Maintainer và Market place
+Maintainer và Subsystem maintainer
+Contributor và Market place
+106.
+Hầu hết những người đóng góp nguồn mở mong đợi nhận được gì từ sự 
+đóng góp của họ?
+Tiền
+Công nhận
+Một công việc được trả lương
+Tất cả những đáp án trên
+Không có đáp án nào ở trên
+107.
+Hệ thống E-learing bao gồm mấy thành phần
+2
+1
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+3
+4
+108.
+Hệ thống E-learing có mấy loại
+3
+2
+1
+4
+109.
+Hệ thống quản lý mã nguồn giúp
+Theo dõi vết thay đổi trên mã nguồn
+Trộn những đụng độ trên tập tin
+Lưu trữ mã nguồn trực tuyến
+Lưu trữ mã nguồn ngoại tuyến
+110.
+Joomla có nghĩa là gì?
+Đồng tâm hiệp lực
+Không có nghĩa gì
+Phi lợi nhuận
+Mã nguồn mở
+111.
+Joomla được cung cấp miễn phí theo giấy phép nào ?
+GNU
+LGPL
+GPL
+MPL
+112.
+Joomla được thiết kế theo mô hình nào dưới đây ?
+MVVC
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+MVC
+CMS
+MVP
+113.
+Joomla được viết bằng ngôn ngữ nào ?
+PHP
+C
+Python
+C++
+114.
+Joomla sử dụng hệ quản trị cơ sở dữ liệu nào ?
+TinySQL
+MySQL
+SQL Server
+Oracle
+115.
+Joomla! được hỗ trợ bởi tổ chức phi lợi nhuận nào?
+Open Source Management
+Open Source Master
+Open Source Manage
+Open Source Matters
+116.Khác biệt lớn nhất giữa Chat và Forum trong Moodle là ? (*Chat* ở 
+đây là Chart)
+Chat ở chế độ nửa đồng bộ còn Forum ở chế độ đồng bộ
+Chat ở chế độ đồng bộ còn Forum ở chế độ nửa bất đồng bộ
+Chat ở chế độ đồng bộ còn Forum ở chế độ bất đồng bộ
+Chat ở chế độ bất đồng bộ còn Forum ở chế độ đồng bộ
+117.Khi khởi tạo một lớp JController, phương thức mặc định nào sẽ thực 
+thi khi không có một tác vụ nào được chỉ ra?
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+default()
+print()
+display()
+tostring()
+118.Khi tham gia vào các cuộc thảo luận trong một dự án PMNM, người ta 
+phải
+Nghi ngờ khả năng của người khác
+Bỏ qua những người có cùng quan điểm khác nhau
+Chứng minh quan điểm của họ bằng lý trí và việc làm
+Tất cả những đáp án trên
+Không có đáp án nào ở trên
+119.
+Khởi đầu của một dự án mã nguồn mở được khởi đầu như thế nào?
+Nghiên cứu, sau đó đăng tin tuyển dụng, chọn lọc ứng viên về đội ngũ trên yêu 
+cầu của leader
+Nghiên cứu, sau đó chọn ứng viên, chọn lọc ứng viên về đội ngũ trên yêu cầu 
+của leader
+Tham khảo những người quan tâm sau đó hình thành một nhóm người quan tâm 
+đến vấn đề
+Tất cả các đáp án được nêu đều sai
+120.
+Kiểu nhóm nào trong Moodle mà các group thực hiện công việc riêng của 
+mình trong khi vẫn thấy được các công việc của nhóm khác?
+Không có kiểu nhóm nào như thế trong Moodle
+Separate Group
+No Groups
+Visible Groups
+121.
+Kiểu nhóm nào trong Moodle mà các thành viên chỉ thấy được công việc 
+của nhóm mình trong Course có nhiều nhóm?
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Visible Groups
+No Groups
+Separate Group
+Không có kiểu nhóm nào như thế trong Moodle
+122.
+Kiểu nhóm nào trong Moodle mà tất cả các học viên là một phần của lớp 
+học, chỉ có duy nhất một nhóm đó chính là Course?
+Không có kiểu nhóm nào như thế trong Moodle
+Visible Groups
+Separate Group
+No Groups
+123.Loại Forum nào trong Moodle giống với Forum truyền thống nhưng tất
+cả các bài Post được hiển thị trong trang Frontpage và khi người dùng 
+Click vào Discuss this topic thì một trang mới sẽ hiển thị để nhập các 
+comments ?
+Q and A
+Each Person post one discussion
+Standard Forum với định dạng Blog
+Single Simple discussion
+124.
+Loại Forum nào trong Moodle mà mỗi học viên sẽ đưa lên một vấn đề để 
+các học viên khác thảo luận ?
+Standard Forum với định dạng blog
+Q and A
+Single Simple Discussion
+Each Person posts one discussion
+125.
+Loại forum nào trong Moodle nhằm mục đích hướng sự tập trung của học 
+viên vào một vấn đề như thảo luận hoặc trả lời câu hỏi?
+Each person posts one discussion
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Q and A
+Single simple discussion
+Standard forum với định dạng blog
+126.Loại Forum nào trong Moodle yêu cầu người dùng đưa ra ít nhất một 
+post trước khi có thể đọc và trả lời của các post khác?
+Standard Forum với định dạng Blog
+Single simple discussion
+Each Person post one discussion
+Q and A
+127.Loại ngôn ngữ SQL nào dùng để định nghĩa dữ liệu, tạo cơ sở dữ liệu 
+và định nghĩa các đối tượng cơ sở dữ liệu?
+DML
+DDL
+TCL
+DCL
+128.
+Loại ngôn ngữ SQL nào dùng để khai báo chuyển giao dịch chẳng hạn như:
+Begin Tran, Rollback, Commit, ...?
+DCL
+DML
+DDL
+TCL
+129.
+Loại ngôn ngữ SQL nào dùng để thực hiện các thao tác dữ liệu như Select, 
+Insert, Delete, Update, …?
+DDL
+TCL
+DML
+DCL
+130.
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Loại ngôn ngữ SQL nào dùng để truy cập đối tượng cơ sở dữ liệu, thay đổi 
+cấu trúc, tạo người dùng, gán quyền chẳng hạn như: Alter, Grant, Revoke, 
+…?
+DDL
+DML
+TCL
+DCL
+131.
+Loại phần mềm nào chỉ được cung cấp cho người dùng ở dạng mã nhị phân
+?
+Phần mềm thương mại
+Phần mềm tự do
+Tất cả đều sai
+Phần mềm nguồn mở
+132.
+Loại phần mềm nào có đủ các tính năng và được phân phối tự do, nhưng có
+một giấy phép khuyến cáo các cá nhân hoặc tổ chức mua, tùy tình hình cụ 
+thể?
+Phần mềm chia sẻ
+Phần mềm tự do
+Tất cả đều sai
+Phần mềm nguồn mở
+133.
+Loại phần mềm nào được sử dụng tự do và có thể phân phối lại bởi các tổ 
+chức phi lợi nhuận?
+Phần mềm sử dụng phi thương mại
+Phần mềm tự do
+Tất cả đều sai
+Phần mềm nguồn mở
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+134.Lợi ích của việc phát triển mã nguồn mở là gì?
+Trì hoãn sửa lỗi
+Bảo mật kém
+Quy mô đóng góp
+Tất cả những điều trên
+Không có điều nào ở trên
+135.
+Lưu lỗi vào cơ sở dữ liệu trong quá trình phát triển PMMNM có những lợi 
+thế nào?
+Dễ dàng trong tìm kiếm lỗi
+Theo dõi những thay đổi trên mã nguồn trong quá trình phát triển phần mềm
+Cập nhật các tài liệu người dùng
+Mô tả về mục tiêu dự án
+136.
+Lý do chính khi sử dụng phương thức getInstance() trong Joomla?
+Cung cấp cách thức tạo ra các đối tượng toàn cục phù hợp với tiêu chuẩn của 
+Joonla
+Tránh lặp lại các công việc
+Dễ dàng theo dõi các đối tượng
+Tất cả
+137.
+Lý do nào khiến các lỗi chương trình phần mềm mã nguồn mở thường 
+được phát hiện và sửa nhanh hơn phần mềm thương mại ?
+Phần mềm mã nguồn mở thường có cơ chế tự phát hiện và sửa lỗi
+Người dùng được tiếp cận mã nguồn
+Người dùng phần mềm mã nguồn mở đều là các chuyên gia
+Tất cả đều sai
+138.
+Mã nguồn của Firefox được phát hành theo giấy phép nào ?
+Bộ hai giấy phép GPL / LGPL
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Bộ ba giấy phép GPL / LGPL / MPL
+Giấy phép LGPL
+Giấy phép GPL
+139.
+Mã nguồn của Thunderbird được phát hành theo giấy phép nào?
+Giấy phép GPL
+Bộ hai giấy phép GPL/LGPL
+Giấy phép LGPL
+Bộ ba giấy phép GPL/LGPL/MPL
+140.
+Mô hình kinh doanh nào sau đây yêu cầu các loại giấy phép cụ thể?
+Tách nguồn mở / Sản phẩm thương mại (Split open source / Commercial 
+products)
+Nhà cung cấp nền tảng
+Nhà cung cấp hệ điều hành
+Tất cả những đáp án trên
+Không có đáp án nào ở trên
+141.
+Mô hình phát triển phần mềm mã nguồn mở được ví như
+Mô hình xây dựng trường học.
+Mô hình xây dựng nhà thời trung cổ
+Mô hình xây dựng chợ
+Mô hình xây dựng tháp
+142.
+Mô hình tài nguyên phát triển phần mềm mã nguồn mở bao gồm các yếu tố 
+nào?
+Nhân lực, quan hệ, tài liệu và cơ sở vật chất
+Nhân lực, tài chính, thương hiệu và cơ sở vật chất
+Nhân lực, tài chính, tài liệu và cơ sở vật chất
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Nhân lực, tài nguyên, thương hiệu và cơ sở vật chất
+143.
+Mỗi component trong Joomla gồm các thành phần chính là
+Phần quản trị và phần trên site
+Phần quản trị
+Phần quản trị và cơ sở dữ liệu
+Cơ sở dữ liệu và phần trên site
+144.
+Môi trường đồ họa mặc định của Fedora Core là gì?
+XFCE
+Không có môi trường đồ họa
+KDE
+GNOME
+145.
+Moodle cung cấp các gải pháp nào sau đây
+Giải pháp Moodle Mobile và Moodle Desktop, chưa hỗ trợ trên giải pháp 
+MoodleCloud
+Cả ba giải pháp MoodleCloud, Moodle Mobile, và Moodle Desktop
+Mới hỗ trợ giải pháp Moodle Desktop
+Mới hỗ trợ giải pháp Moodle Desktop và MoodleCloud, chưa hỗ trợ giải pháp 
+Moodle Mobile
+146.
+Moodle, MySQL được đăng ký theo giấy phép nào ?
+Giấy phép GPL
+Bộ hai giấy phép GPL/MPL
+Bộ ba giấy phép GPL/LGPL/MPL
+Bộ hai giấy phép LGPL/MPL
+147.
+Moodle được dùng với cơ sở dữ liệu nào?
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Chỉ dùng với MySQL
+Chỉ dùng với Oracle
+Chỉ dùng với Microsoft SQL
+Có thể dùng với cả MySQL, Microsoft SQL, và Oracle
+148.
+Moodle được phát triển dựa trên ngôn ngữ nào ?
+PHP
+Ruby
+Python
+C
+149.
+Moodle hiện nay đã cung cấp những giải pháp nào sau đây ?
+Giải pháp Moodle Mobile và Moodle Desktop, chưa hỗ trợ giải pháp 
+MoodleCloud
+Cả ba giải pháp MoodleCloud, Moodle Mobile và Moodle Desktop
+Mới hỗ trợ giải pháp Moodle Desktop
+Mới hỗ trợ giải pháp Moodle Desktop và MoodleCloud, chưa hỗ trợ giải pháp 
+Moodle Mobile
+150.
+Moodle không có thành phần trực tiếp nào (phải khai thác các công cụ bên 
+ngoài Moodle)?
+Các kiểu câu hỏi
+Các hoạt động
+Tạo bài giảng
+Phương thức ghi danh
+151.
+Một công ty sử dụng mô hình kinh doanh "Chuyên gia sản phẩm":
+Không tốn nhiều tiền vào tiếp thị
+Sử dụng mô hình này vì nó cung cấp phần mềm PMNM phức tạp trong một thị 
+trường rộng lớn
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Dựa vào chuyên môn của mình để cung cấp khóa đào tạo vì họ đã phát triển 
+phần mềm
+Tất cả những đáp án trên
+Không có đáp án trên
+152.
+Một điểm giống nhau giữa Windows và Linux là
+Chế độ hiển thị ký tự và đồ họa
+Không đưa ra các thông báo lỗi
+Phân biệt chữ hoa và chữ thường
+Dấu phân cách đường dẫn và thư mục
+153.
+Nhiều lựa chọn
+30 sec
+1 pt
+Một điểm khác nhau giữa Windows và Linux là ?
+Linux có thể khởi động chương trình bằng dòng lệnh còn Windows thì không
+Linux phân biệt chữ hoa và chữ thường còn Windows thì không.
+Windows lưu trữ dữ liệu theo cấu trúc cây thư mục còn Linux thì không
+Windows mới có chế độ đồ họa còn Linux thì không
+154.
+Một dự án mã nguồn mở được thành lập bởi
+User developers
+Users
+Leadership
+Virtual teams
+155.
+Một dự án mã nguồn mở được thành lập bởi Leadership. Leadership sẽ 
+không có nhiệm vụ nào trong các nhiệm vụ sau?
+Đưa ra kiến trúc moodle phát triển chung
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Đưa ra kiến trúc moodle phát triển chung
+Tạo ra một code base để các user developer dựa vào đó phát triển mã nguồn và 
+đưa ra định hướng để phát triển
+Quy định giấy phép cho mã nguồn
+156.
+Mozilla Firefox sử dụng thành phần nào sau đây cho trình bày trang web?
+Gecko
+Gears
+Web Layout Engine
+Fennec
+157.
+Mức mở rộng trong Joomla có các thành phần là:
+Components, Modules, và Plugins
+Components, Modules, và Templates
+Components và Modules
+Components và Plugins
+158.
+Mức nền tảng trong Joomla có các thành phần là:
+Libraries, Frameworks, và Plugins
+Libraries, Frameworks, và Templates
+Libraries và Frameworks
+Frameworks, Plugins, và Templates
+159.
+Mức ứng dụng trong Joomla có các thành phần là
+JInstallation và JAdministrator
+JInstallation, JController, và JSite
+Jaministrator, JController, và JSite
+JInstallation, JAministator, và JSite
+161.
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+myproduct 3.4.5 - trong lược đồ đánh số phiên bản này,thành phần nào là 
+thành phần "phụ"?
+myproduct
+3
+4
+5
+Không có đáp án nào ở trên
+162.
+MySQL dùng giấy phép gì?
+Bộ hai giấy phép GPL/MPL
+Giấy phép GPL
+Bộ hai giấy phép LGPL/MPL
+Giấy phép MPL
+163.
+MySQL là ?
+Một kỹ thuật thao tác với dữ liệu
+Một ngôn ngữ lập trình
+Một hệ thống quản lý cơ sở dữ liệu quan hệ
+Một ngôn ngữ kịch bản thao tác với dữ liệu
+164.
+Năm 2010, một số thành viên của dự án OpenOffice.org đã thành lập một 
+nhóm mới với tên gọi là Doccument Foundation và công bố một nhánh mới 
+với tên gọi là gì?
+Không công bố một nhánh nào
+OpenSolaris
+StarOffice
+LibreOffice
+165.
+Người dùng có thể dựa vào các trình duyệt web hoặc các hệ điều hành khác 
+nhau để truy xuất vào portal. Đó là khả năng nào của Portal?
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Khả năng phân loại nội dung
+Cá nhân hoá
+Hỗ trợ đa nền tảng, phương tiện
+Tìm kiếm và chỉ mục
+166.
+Nguyên lý được nhiều nhà làm phần mềm mã nguồn mở sử dụng có đặc 
+điểm
+Ít thay đổi và thích nghi nhanh, liên tục tích hợp module mới, nhân lực phân tán
+Thay đổi và thích nghi nhanh, liên tục tích hợp module mới, nhân lực phân tán
+Thay đổi và thích nghi nhanh, liên tục tích hợp module mới, nhân lực tập trung
+Ít thay đổi và thích nghi nhanh, liên tục tích hợp module mới, nhân lực tập trung
+167.
+Nhân đầu tiên của hệ điều hành GNU / Linux do ai phát triển ?
+Linus Torvalds
+William H. Gates III
+Richard Stallman
+Netscape
+168.
+Nhận định nào sau đây không đúng?
+Ubuntu không thân thiện với người dùng. Đòi hỏi người dùng phải có hiểu biết 
+về công nghệ.
+Khả năng vá lỗi và sửa lỗi của Ubuntu thường nhanh hơn nhờ cộng đồng hỗ trợ 
+lớn
+Đối tượng sử dụng của Ubuntu vô cùng đông đảo, với số lượng người dùng cao 
+hơn Windows đặc biệt là người dùng thông thường.
+Ubuntu là một hệ điều hành trên máy tính
+169.
+Nhận định nào sau đây sai về CMS
+CMS giúp tiết kiệm thời gian quản lý, chi phí vận hành và bảo trì
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Sẽ cho phép vận hành Website mà không cần sự can thiệp, hỗ trợ từ người lập 
+trình trang web
+CMS là chữ viết tắt của Content Manager System
+Là hệ thống quản trị nội dung
+170.
+Nhân lực trong lĩnh vực phát triển mã nguồn mở có ý nghĩa gì? Chọn đáp 
+án đúng
+Là những người tạo nên hoặc góp phần hình thành, phát triển một sản phẩm 
+phần mềm
+Đóng vai trò trong việc sử dụng và phát triển ứng dụng
+Không có vai trò gì trong mô hình
+Là những sáng tạo lên dự án, phát triển một sản phẩm phần mềm, bán dự án để 
+thu lợi nhuận
+171.
+Nhân lực trong mô hình phát triển ứng dụng mã nguồn mở được chia làm 4
+nhóm với sự phân cấp rõ ràng đặc điểm riêng đó là những nhóm nào?
+User, suppoter, virtual team, và tester
+User, developer, suppoter, và tester
+User, developer, suppoter, và leader
+User, developer, virtual team và leader
+172.
+Nhiệm vụ của Contributor trong dự án MNM là gì?
+Trực tiếp sử dụng code
+Tuyển các thành viên vào dự án
+Test các phần code và gửi đến người dùng
+Làm ra code và gửi đến mainters
+173.
+Nhiều phần mềm đóng vẫn chưa có các phiên bản mã nguồn mở tương 
+đương nói lên tính hạn chế gì của phần mềm mã nguồn mở?
+Tính đồng bộ chưa cao như các phần mềm đóng
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Thiếu các ứng dụng kinh doanh đặc thù
+Tính tương hỗ với phần mềm đóng chưa cao
+Thiếu tính nhất quán trong trình bày ứng dụng
+174.
+Những người đóng góp mã nguồn mở phải có một trong những đặc điểm 
+sau:
+Biết cách viết mã
+Sở hữu bàn phím IBM Model M
+Học hỏi nhanh và sẵn sàng giúp đỡ người khác
+Tất cả những đáp án trên
+Không có đáp án nào ở trên
+175.
+Những nhà lập trình nào thường chỉ quan tâm chủ yếu đến việc tạo ra 
+chương trình hoạt động ổn định và có hiệu quả hơn là tính dễ sử dụng ?
+Nhà lập trình phần mềm thương mại
+Nhà lập trình phần mềm nguồn mở
+Nhà lập trình phần mềm miễn phí
+Cả hai nhà lập trình phần mềm thương mại và phần mềm nguồn mở
+176.
+Nội dung nào sau đây được sử dụng trong quá trình thiết kế PMNM?
+UML
+XML
+CVS
+Git
+Không có đáp án nào ở trên
+177.
+Nội dung nào sau đây không phải là giấy phép PMNM?
+GPL
+BSD
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+MIT
+EPL
+Không có đáp án nào ở trên
+178.
+OpenOffice được xây dựng dựa trên phiên bản mã nguồn nào sau đây?
+StarOffice
+Microsoft Office
+Không dựa trên phiên bản mã nguồn nào cả
+OpenSolaris
+179.
+Phần nào của Linux cung cấp các chuyển hướng xuất nhập, ngôn ngữ lệnh 
+để tạo các file *.bat ?
+Kernel
+Tất cả đều sai
+Shell
+Các tiện ích
+180.
+Phát biểu nào dưới đây là sai?
+Một module sẽ được gửi giới hạn trong cộng đồng contributor như một bản thử 
+nghiệm
+Khi phần mềm xuất hiện lỗi maintainer sẽ trực tiếp sửa lỗi và sẽ chịu trách 
+nhiệm cho các lỗi này.
+Những contributor làm ra code họ sẽ gửi đến cho maintainers thông qua mailing 
+list
+Tuỳ theo độ phức tạp và quy mô của project mà có thể có hoặc không có nhiều 
+lớp maintainers.
+181.
+Phát biểu nào là đúng bảng tham chiếu tên tác vụ và phương thức thực sự 
+của mỗi controller trong Joomla?
+Bảng tham chiếu sử dụng quan hệ nhiều-nhiều: một tác vụ có thể định nghĩa cho
+nhiều phương thức và một phương thức có thể được định nghĩa bởi nhiều tác vụ.
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Bảng tham chiếu sử dụng quan hệ 1-nhiều: một tác vụ có thể định nghĩa cho 
+nhiều phương thức
+Bảng tham chiếu sử dụng quan hệ nhiều-1: có thể định nghĩa nhiều tác vụ cho 
+một phương thức.
+Bảng tham chiếu sử dụng quan hệ 1-1: chỉ có thể định nghĩa 1 tác vụ cho một 
+phương thức
+182.
+Phát biểu nào là đúng khi nói về mối quan hệ giữa Modules và Component 
+trong Joomla?
+Modules có mối quan hệ tương đối chặt chẽ với Components
+Component sử dụng các hàm, thủ tục sẵn có trong mã lệnh của Modules
+Component là thành phần bổ sung cho Modules
+Modules hoàn toàn độc lập với Components
+183.
+Phát biểu nào là đúng nhất về nguồn dữ liệu mà Standalone Modules sử 
+dụng trong Joomla
+Không có phát biểu nào đúng
+Standalone Modules thường sử dụng nguồn dữ liệu bên ngoài Joomla
+Standalone Modules chỉ sử dụng nguồn dữ liệu sẵn có trong Joomla
+Standalone Modules chỉ sử dụng nguồn dữ liệu sẵn có trong Joomla
+184.
+Phát biểu nào là đúng về entry point trong Joomla?
+Không có phát biểu nào đúng
+Mỗi ứng dụng chỉ có duy nhất một entry point
+Mỗi ứng dụng phải có hai entry point chính và phụ
+Mỗi ứng dụng có nhiều entry point
+185.
+Phát biểu nào là đúng về Standalone Modules trong Joomla?
+Tất cả các phát biểu đều đúng
+Standalone Modules là các module không phụ thuộc vào các extension khác
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Standalone Modules chỉ sử dụng nguồn dữ liệu sẵn có trong Joomla
+Standalone Modules thường cần ít thời gian phát triển hơn vì chỉ sử dụng các 
+API mà Joomla cung cấp
+186.
+Phát biểu nào là đúng về việc phát triển Standalone Modules trong 
+Joomla ?
+Standalone Modules thường cần ít thời gian phát triển hơn vì chỉ sử dụng các 
+API mà Joomla cung cấp
+Standalone Modules thường cần nhiều thời gian phát triển hơn do chỉ sử dụng 
+các API bên ngoài
+Standalone Modules thường cần nhiều thời gian phát triển hơn do không có các 
+API có sẵn ngoài những API mà Joomla cung cấp
+Standalone Modules thường cần ít thời gian phát triển hơn do sử dụng các API 
+có sẵn ngoài những API mà Joomla cung cấp
+187.
+Phát biểu nào sai khi nói về các Model trong Joomla ?
+Có thể có nhiều hơn một model cho một component
+Tất cả các phát biệu đều sai
+Các model đều là mở rộng của lớp trừu tượng trong JModel
+Chỉ có một model cho mỗi component
+188.
+Phát biểu nào sau đây không phải là phát biểu đúng về phần mềm mã 
+nguồn mở ?
+Phần mềm mã nguồn mở cho phép người dùng được tự do chia sẻ cho người 
+khác
+Phần mềm mã nguồn mở cho phép người dùng được sửa mã nguồn
+Phần mềm mã nguồn mở là phần mềm tự do
+Phần mềm mã nguồn mở là phần mềm miễn phí
+189.
+Phát biểu nào sau đây là sai về đặc tính của Joomla?
+Đọc tin RSS (RSS feeds)
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Bộ đệm trang (page caching)
+Chỉ hỗ trợ 3 ngôn ngữ là Tiếng Anh, Tiếng Trung, và Tiếng Pháp.
+Blog
+190.
+Phát biểu nào sau đây là sai về Joomla ?
+Moodle hỗ trợ tạo các khóa học trực tuyến
+Moodle hỗ trợ các công cụ lịch biểu
+Moodle hỗ trợ thông báo tự động
+Moodle không hỗ trợ các thiết bị mobile
+191.
+Phát biểu nào sau đây là sai về Moodle ?
+Đây là một phần mềm nền tảng cho một hệ quản trị đào tạo
+Moodle là một hệ thống LMS
+Moodle là một hệ thống quản lý đào tạo đồng nhất hỗ trợ tạo bài giảng trực tiếp
+Moodle có thể dễ dàng được mở rộng bằng cách thêm các thành phần phụ
+192.
+Phát biểu nào sau đây sai
+Phần mềm mã nguồn mở cho phép người dùng được sửa mã nguồn
+Phần mềm mã nguồn mở là phần mềm tự do
+Phần mềm mã nguồn mở là phần mềm miễn phí
+Phần mềm mã nguồn mở cho phép người dùng được tự do chia sẻ cho người 
+khác
+193.
+Phát biểu nào sau đây về Apache là sai
+Apache là một phần mềm mã nguồn mở miễn phí
+Apache là một web browswer mã nguồn mở miễn phí
+Apache là chương trình máy chủ mã nguồn mở
+Apache được phát hành với giấy phép Apache
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+195.
+Phiên bản chính thức 1.0 của Linux ra đời vào năm nào?
+1995
+1993
+1991
+1994
+196.
+Phiên bản Fedora Core đầu tiên được phát triển từ hệ điều hành nào sau 
+đây?
+Debian
+Red Hat Linux 9
+OpenSUSE
+Ubuntu
+198.
+Phiên bản trình duyệt web Mozilla Firefox cho thiết bị di động có tên mã là 
+gì?
+Fennec
+Gears
+Firemobi
+Không có phiên bản Mozzila Firefox cho thiết bị di động
+199.
+Phương tiện giao tiếp nào sau đây phổ biến trong PMNM cộng đồng để 
+xuất bản các bài báo hoặc hướng dẫn trên Web?
+Email
+IRC
+Internet Blog
+Wiki
+Không có đáp án nào ở trên
+200.
+Plugin Authentication mặc định trong Joomla là
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Authentication - LDAP
+Authentication - Joomla
+Authentication - Gmail
+Authentication - OpenID
+201.
+Quan niệm nào sau đây sai về copyleft
+Người sở hữu cấp quyền để: sử dụng, sửa đổi, phân phối lại
+Nghĩa vụ phân phối và cho phép truy xuất công khai các tác phẩm phái sinh
+Tồn tại giấy phép copyleft cho cả phần mềm, âm nhạc và nghệ thuật
+Được đưa ra dựa trên copyright
+202.
+Quỹ Mozilla Messaging chịu trách nhiệm phát triển các phương thức liên 
+lạc qua thư điện tử hoặc tương tự. Sự tập trung đầu tiên của quỹ là vào ứng
+dụng nào?
+OpenOffice
+Send Mail
+Thunderbird
+Mozilla Firefox
+203.
+Quy trình phát triển phần mềm được so sánh với cách thức chúng ta xây 
+nhà là gì?
+Quy trình phát triển phần mềm truyền thống
+Không có quy trình phát triển phần mềm nào như thế
+Cả hai quy trình phát triển phần mềm truyền thống và phát triển phần mềm 
+nguồn mở
+Quy trình phát triển phần mềm nguồn mở
+204.
+Quy trình phát triển phần mềm nào được so sánh với việc phát triển của 
+buôn bán ngoài chợ, mở rộng một cách tự phát?
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Cả hai quy trình phát triển phần mềm truyền thống và quy trình phát triển phần 
+mềm nguồn mở
+Không có quy trình phát triển phần mềm nào như thế
+Quy trình phát triển phần mềm nguồn mở
+Quy trình phát triển phần mềm truyền thống
+206.
+Sở hữu trí tuệ và bản quyền là từ đồng nghĩa đúng hay sai
+A.Sai
+B.Đúng
+207.
+Ta có thể sử dụng phương thức IsEnabled trong lớp tĩnh 
+JComponentHelper để làm gì?
+Để kiểm tra một Component đã được cài đặt và kích hoạt hay chưa
+Để hủy kích hoạt một Component
+Để kiểm tra thuộc tính Enable của Component đã kích hoạt hay chưa
+Để kích hoạt một Component
+208.
+Tên đầy đủ của Moodle là
+Modular Object-Operational Dynamic Learning Environment
+Management Object-Operational Dynamic Learning Enviroment
+Modular Object-Oriented Dynamic Learning Environment
+Management Object-Oriented Dynamic Learning Environment
+209.
+Tên gọi ban đầu của Thunderbird là gi?
+Phoenix
+Lighting
+SeaMonkey
+Minotaur
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+210.
+Tên gọi Fedora Core nhằm mục đích nào trong các mục đích sau ?
+Phân biệt gói phần mềm chính của Fedora với các gói phần mềm bổ sung cho 
+Fedora
+Phân biệt với các gói phần mềm Fedora
+Phân biệt với tên của tổ chức
+Phân biệt với một dự án khác
+211.
+Tên tiếng Ạnh của hệ quản trị nội dung mã nguồn mở là ?
+Open Source Comment Management Systems
+Open Source Content Management Systems
+Open Source Content Manager Systems
+Open Source Category Management Systems
+212.
+Thành phần mở rộng nào của Joomla giúp trang web hiển thị bằng nhiều 
+thứ tiếng?
+JoomCat
+JoomMultiLang
+JoomLang
+JoomFish
+213.
+Thành phần mở rộng nào trong Joomla chủ yếu nhằm mục đích hiển thị 
+thông tin (tương tác với người sử dụng ở mức thấp)?
+Module
+Component
+Trigger
+Plugin
+214.
+Thành phần mở rộng nào trong Joomla chủ yếu nhằm mục đích thực hiện 
+các chức năng lớn (tương tác với người sử dụng ở mức cao)?
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Component
+Plugin
+Trigger
+Module
+215.
+Thành phần mở rộng nào trong Joomla nhằm thực hiện những chức năng 
+đặc biệt hoặc giúp tự động hóa một số quy trình?
+Plugin
+Module
+Trigger
+Component
+216.
+Thành phần nào trong Moodle chạy các công việc bao gồm như gửi mail, 
+cập nhật các báo cáo Moodle, RSS feeds, hoàn thành các hoạt động, đăng 
+các tin nhắn lên diễn đàn...?
+Track progress
+Collaborative tools & activities
+Cron
+Không có thành phần nào như thế
+217.
+Thời gian và chi phí phần mềm sẽ phụ thuộc vào
+Độ phức tạp của phần mềm
+Khả năng phân tích và quản trị
+Ý tưởng của chương trình
+Tính tích hợp mở rộng
+218.
+Thunderbird được phát triển bởi quỹ nào?
+Sun Microsystems
+SeaMonkey
+Mozilla Messaging
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Qualcomm
+219.
+Thunderbird được viết bằng ngôn ngữ gì ?
+OpenC
+Java
+C++
+PHP
+220.
+Thước đo kinh tế của việc sử dụng phần mềm nguồn mở ?
+Chi phí duy trì và đào tạo
+Tổng chi phí sở hữu
+Chi phí phần cứng và nhân lực
+Phí đăng ký sử dụng
+221.
+Tiết kiệm lớn nhất do Linux đem lại là từ
+Chi phí phần cứng và nhân lực
+Chi phí đào tạo
+Phí đăng ký sử dụng
+Chi phí duy trì
+222.
+Tính năng nào dưới đây của Portal cho phép kiểm soát được các truy xuất 
+đến từng nội dung để đảm bảo chỉ những người có quyền mới có thể truy 
+nhập được các văn bản mà họ được cấp phép.
+Quản lý nội dung
+Tìm kiếm và chỉ mục
+Tích hợp các ứng dụng
+Khả năng phân loại nội dung
+223.
+Tính năng nào dưới đây của Portal cho phép tổ chức nội dung và ứng dụng 
+theo nhiều cách khác nhau để đáp ứng các yêu cầu không giống nhau của 
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+các nhóm (phân loại theo người sử dụng, phòng ban, đơn vị) bên trong một 
+tổ chức.
+Khả năng phân loại nội dung
+Tích hợp các ứng dụng
+Tìm kiếm và chỉ mục
+Cá nhân hoá
+224.
+Tính năng nào trong Moodle khi được kích hoạt, người dùng có thể nhận tự
+động các thông báo về các nhiệm vụ và deadline mới, các bài đăng diễn đàn 
+mới và gửi các tin nhắn các nhân tới người khác?
+Notifications
+Dalogication
+Fioacation
+Melody Mark
+225.
+Tính năng nào trong Moodle khi kích hoạt cho phép đánh giá mức độ hiểu 
+biết hoặc năng lực của người học trong các kỹ năng liên quan đến môn học 
+nhất định
+Activity completion
+Grades
+Course completion
+Competencies
+226.
+Tổ chức phi lợi nhuận hỗ trợ dự án Joomla! đặt tại quốc gia nào ?
+United Kingdom
+Russia
+France
+United States
+227.
+Trình soạn thảo văn bản mặc định trong Joomla là ?
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Button - Image
+Button - Readmore
+TinyMCE
+No Editor
+228.
+Trong các điểm dưới đây điểm khác biệt cơ bản của ERP so với việc duy trì 
+nhiều phần mềm quản lý rời rạc khác là?
+Tính tương tác
+Tính mở rộng
+Tính tích hợp
+Tính hoàn thiện
+229.
+Trong các khẳng định sau, khẳng định nào là sai?
+Moodle được thiết kế theo mô hình ba lớp
+Moodle phân chia thành nhiều thành phần đảm bảo vai trò khác nhau
+UI trong kiến trúc của Moodle cung cấp các API về việc quản lý roles, 
+categories, course,…
+UI trong kiến trúc của Moodle là lớp hỗ trợ hiển thị và tương tác với người dùng
+230.
+Trong các tiêu chí dưới đây, đâu không phải là một tiêu chí của sáng kiến 
+mã nguồn mở?
+Mã nguồn
+Không phân phối giấy phép
+Sản phẩm kế thừa
+Tự do phân phối lại
+231.
+Trong mô hình phát triển ứng dụng mã nguồn mở Contributor đóng vai trò
+gì?
+Quản lý
+Phát triển ứng dụng, tìm và sửa lỗi
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Quản lý tiến trình
+Thiết lập mạng
+232.
+Trong mô hình tổ chức trong mã nguồn mở thì ai là người đóng vai trò là 
+người cầm đầu?
+Reviewers
+Maintainers
+Testers
+Code development
+233.
+Trong quy trình phát triển phần mềm nào mà các nhóm lập trình làm việc 
+riêng rẽ, theo sự quản lý và kế hoạch chi tiết?
+Quy trình phát triển phần mềm truyền thống
+Cả hai quy trình phát triển phần mềm truyền thống và phát triển phần mềm 
+nguồn mở
+Không có quy trình phát triển phần mềm nào như thế
+Quy trình phát triển phần mềm nguồn mở
+234.
+Trung tâm tư tưởng của Tổ chức FSF là
+Quyền tự do nghiên cứu
+Quyền tự do phân phát
+Quyền tự do hợp tác
+Quyền tự do chạy
+235.
+Từ phiên bản bao nhiêu trở đi Fedora Core chính thức đổi tên thành 
+Fedora?
+9
+7
+8
+6
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+236.
+Tư tưởng chủ đạo chi phối thế giới phần mềm nguồn mở là
+Tư tưởng của Tổ chức Phần mềm tự do FSF
+Tư tưởng của Tổ chức Phần mềm tự do FSF và tư tưởng của Chương trình Sáng 
+kiến nguồn mở OSI
+Tư tưởng của Chương trình Sáng kiến nguồn mở OSI
+Không bị chi phối bởi tư tưởng nào cả.
+237.
+Tư tưởng coi trọng giá trị kỹ thuật của việc tạo ra những phần mềm mạnh, 
+có độ tin cậy cao, và phù hợp với giới kinh doanh hơn là gì?
+Tư tưởng của OSI
+Tư tưởng của FSF
+Tư tưởng của FOSS
+Không có tư tưởng nào cả
+238.
+Tư tưởng của Tổ chức FSF không bảo vệ quyền tự do nào sau của người 
+dùng?
+Quyền tự do phân phát
+Quyền tự do nghiên cứu
+Quyền tự do hợp tác
+Quyền tự do bán
+239.
+Ứng dụng mã nguồn mở là gì?
+Là phần mềm mà mã nguồn của nó được công bố rộng rãi, công khai và cho 
+phép mọi người tiếp tục phát triển phần mềm đó
+Là phần mềm mà mã nguồn của nó không được công bố rộng rãi, công khai và 
+cho phép mọi người tiếp tục phát triển phần mềm đó
+Là phần mềm mà người dùng phải trả phí thì mới có thể sử dụng được
+Là những phần mềm không rõ ai là người tạo ra mã nguồn, không có nguồn gốc 
+rõ ràng
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+240.
+Ứng dụng nào sau đây là phần mềm đọc tin, quản lý thư điện tử miễn phí 
+mã nguồn mở ?
+Open Office
+Mozilla Messaging
+Không có ứng dụng nào cả
+Thunderbird
+241.
+Ưu điểm của các phiên bản tốc hành của một số sản phẩm thương mại như 
+DB2 Express-C là gì?
+Nó miễn phí
+Nó có hỗ trợ tùy chọn dựa trên phí khi công ty của bạn phát triển
+Nó cung cấp một lộ trình nâng cấp dễ dàng khi công ty của bạn phát triển
+Tất cả những đáp án trên
+Không có đáp án nào ở trên
+242.
+VCS(Version Control System) thường đảm bảo các chức năng nào?
+Khuyến khích người sử dụng commit, kiểm soát dữ liệu, kiểm soát chất lượng 
+commit
+Khuyến khích người sử dụng commit, khai thác dữ liệu, kiểm soát chất lượng 
+commit
+Khuyến khích người sử dụng commit, lưu trữ dữ liệu, kiểm soát chất lượng 
+commit
+Khuyến khích người sử dụng commit, an toàn dữ liệu, kiểm soát chất lượng 
+commit
+243.
+Vì lý do an toàn và để hoàn tất quá trình cài đặt Joomla chúng ta cần xóa 
+thư mục nào?
+installation
+temp
+backup
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+setup
+244.
+Vì sao mã nguồn mở lại thiếu tính độc quyền?
+Chỉ cần mã nguồn bất kỳ ai cũng có thể thiết kế mà không cần trình độ chuyên 
+môn
+Tất cả các ý trên đều đúng
+Vì cộng đồng mã nguồn mở quá nhiều người nên dẫn đến không tạo ra sự khác 
+biệt
+Vì cộng đồng mã nguồn mở quá nhiều người nên dẫn đến nhiều mã nguồn
+245.
+Vì sao nói phần mềm mã nguồn mở thiếu đi các ứng dụng kinh doanh đặc 
+thù
+Cách làm việc chưa hiệu quảß
+Cộng đồng ít
+Vì mới chỉ phát triển trên một số lĩnh vực
+Không có chi phí
+246.
+Web Portal này thường được sử dụng để tập hợp các thông tin lại với nhau 
+từ nhiều nguồn và nhiều ứng dụng, cho phép cá nhân hóa các trang Web 
+tùy theo từng đối tượng sử dụng
+Corporate Desktops
+Public portals
+Market Portals
+Specialized portals
+247.
+Công cụ nào trong Moodle thường được dùng để hướng dẫn học viên tìm kiếm 
+các từ khóa trong dữ liệu văn bản?
+Glossary
+Workshops
+Wiki
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Blog
+248.
+Cho những đặc điểm sau:
+1.Xây dựng theo mô hình tập trung
+2.Xây dựng theo mô hình phân tán
+3.Cập nhật tài liệu người dùng
+4.Dễ dàng tìm kiếm lỗi
+5.Trộn những đụng độ trên cùng một tập tin
+Đâu là các đặc điểm đúng để nói về hệ thống quản lý phiên bản
+2,3,4
+1,2,5
+1,4,5
+2,4,5
+249.
+Lợi nhuận từ thương hiệu trong các PMMNM thể hiện
+Tất cả các ý được nêu đều sai
+Khi đã có thương hiệu, phần mềm MNM có thể mang lại kinh tế, từ đó giúp 
+được cho sự phát triển hoàn thiện về sau
+Giúp làm tăng thu nhập doanh thu từ đó giúp họ nhanh chóng chiếm lĩnh thị 
+trường
+Gíup các tổ chức MNM thu hút được vốn đầu tư
+250.
+Theo khả năng hay quyền hạn can thiệp vào mã nguồn. Thì phần mềm gồm có 
+mấy loại
+4
+3
+2
+1
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+251.
+Động lực bên trong (intrinsic motivation) để phát triển mã nguồn mở thì không 
+có chủ đề nào sau đây?
+Mong muốn tặng cộng đồng lập trình viên một món quà
+Truyền cảm hứng
+Làm cho vui
+Cần một giải pháp cụ thể
+252
+Tại sao phần mềm mã nguồn mở lại gây chấn động?
+Miễn phí, đa hình, không bị giới hạn bởi các phần mềm khác, đa dạng
+Miễn phí, đa nền tảng, không bị giới hạn bởi các phần mềm khác, đa dạng
+Miễn phí, đa nền tảng, bị giới hạn bởi các phần mềm khác, đa dạng
+Miễn phí, đa nền tảng, tương tác đa dạng, đa dạng
+253.
+Tính năng nào dưới đây của Portal cho phép cung cấp hoặc tích hợp được các hệ
+thống tìm kiếm và đánh chỉ mục các văn bản, tài liệu để giúp người sử dụng có 
+thể nhanh chóng truy xuất đến những thông tin họ cần
+Cá nhân hóa
+Tìm kiếm và chỉ mục
+Tích hợp các ứng dụng
+Khả năng phân loại nội dung
+254.
+Đâu là loại cổng thông tin cuối cùng, mà Viettel IDC muốn chia sẻ đến độc giả 
+trong bài viết Web Portal là gì này. Ví dụ như SAP Portal, cổng thông tin này sẽ 
+cung cấp các ứng dụng chuyên biệt khác nhau
+Public portals
+Corporate Desktops
+Specialized portals
+Market Portals
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+255.
+Đâu không phải là một ưu điểm của Ubuntu
+Hệ điều hành hoàn toàn không có virus
+Mọi phần mềm được auto update 100%
+Hỗ trợ tất cả các phần mềm
+Ubuntu hoàn toàn miễn phí
+256.
+Tính năng nào dưới đây của Portal cho phép cung cấp một môi trường tích 
+hợp toàn bộ các ứng dụng Website đang có
+Cá nhân hoá
+Khả năng phân loại nội dung
+Tìm kiếm và chỉ mục
+Tích hợp các ứng dụng
+257.
+Cho các tính năng sau đây:
+(1): Khả năng phân loại nội dung
+(2): Chỉ hỗ trợ mobile
+(3): Khả năng cá nhân hóa
+(4): Khả năng tìm kiếm và chỉ mục
+(5): Chỉ hỗ trợ desktop
+Đâu là tính năng của Portal?
+1,4,5
+2,3,5
+1,2,5
+1,3,4
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+258.
+Đâu không là một đặc điểm của giấy phép BSD:
+Phải giữ nguyên thông báo bản quyền sản phẩm
+Phải kèm theo danh sách các điều khoản và từ chối trách nhiệm
+Không cần thông báo bản quyền tuy nhiên không được sử dụng tên dự án để 
+quảng bá
+Không được sử dụng tên dự án để quảng bá cho bản thân
+259.
+Điểm yếu lớn nhất của E-learning là
+Quy trình vận hành phức tạp
+Quá trình quản lý chưa hiệu quả
+Việc truyền tải nội dung chưa nhanh chóng
+Quá trình chuyển đổi, phát triển nội dung bài giảng đòi hỏi chi phí khá lớn
+260.
+Đâu không phải là một thành phần của E-learning
+Trung tâm quản trị và vận hành hệ thống
+Thiết lập mạng
+Trung tâm Quản lý đào tạo trực tuyến
+Người dùng
+261.
+Phần mềm được phân loại theo phương thức hoạt động sẽ có mấy loại
+1
+2
+3
+4
+262.
+VCS là viết tắt của Version Control System là gì?
+Các đáp án được nêu đều không đúng
+Là hệ thống hỗ trợ sửa lỗi trực tuyến
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Là hệ thống hỗ trợ tạo phần mềm miễn phí
+Là hệ thống hỗ trợ làm việc theo nhóm
+263.
+Trong quy trình phát triển phần mềm nào mà những người lập trình đầu tiên chỉ 
+đưa ra với công chúng một số mã chức năng tối thiểu, rồi chỉnh sửa dần trên cơ 
+sở các ý kiến phản hồi?
+Không có quy trình phát triển phần mềm nào như thế
+Quy trình phát triển phần mềm truyền thống
+Cả hai quy trình phát triển phần mềm truyền thống và phần mềm nguồn mở
+Quy trình phát triển phần mềm nguồn mở
+264.
+Nên sử dụng cách nào trong việc tìm kiếm cho các phần mềm OSS/FS và các 
+components của OSS/FS
+Sử dụng các công cụ tìm kiếm có sự mâu thuẫn rõ ràng về quyền lợi
+Dựa theo đánh giá
+Hỏi từ người quen
+Dựa theo kinh nghiệm
+265.
+Những cá nhân và đội nhóm trong chịu trách nhiệm gì trong dự án MNM
+Chọn lọc ứng viên về đội ngũ trên yêu cầu của leader
+Phát triển và duy trì code
+Tất cả các đáp án được nêu đều sai
+Kiểm duyệt và thu thập dữ liệu
+266.
+Đâu không phải là rào cản cho khách hàng khi sử dụng phần mềm MNM
+Sự rõ ràng về cấu trúc quản lý
+Không có lộ trình rõ ràng
+Nhu cầu về đào tạo, hướng dẫn, huấn luyện
+Thiếu hỗ trợ và dịch vụ thương mại
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+267.
+Môi trường phát triển PMMNM cần cung cấp các chức năng nào sau đây?
+Các kênh truyền thông
+Các tài liệu bảo mật
+Hệ thống quản lý mã nguồn
+Cơ sở dữ liệu về lỗi
+268.
+Giấy phép mã nguồn mở được sinh ra không để đảm bảo điều nào sau đây?
+Đảm bảo yêu cầu sửa đổi và phân phối ở dạng nguồn mở
+Đảm bảo các phần mềm được phân phối lại ở dạng mã nguồn mở
+Đảm bảo rằng các phần mềm ứng dụng sau khi hoàn thành được phép quảng bá 
+cho các cá nhân
+Đảm bảo về vấn đề trách nhiệm trong quá trình sử dụng
+269.
+Quá trình yêu cầu tính năng mới trong mô hình vòng đời phát triển tính năng 
+mới của MNM gồm mấy bước?
+5
+6
+7
+8
+270.
+Web portal nào được sử dụng để liên kết giữa người mua và người bán
+Market Portals
+Public portals
+Corporate Desktops
+Specialized portals
+271.
+Một hệ thống cần đạt ERP cần phải:
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Có tích hợp chặt chẽ, có khả năng phân tích và quản trị, và có tính mở
+Có tích hợp chặt chẽ, có khả năng phân tích và quản trị, và có tính đóng
+Có tích hợp mở rộng, có khả năng phân tích và mở rộng, và có tính mở
+Có tích hợp mở rộng, có khả năng phân tích và quản trị, và có tính đóng
+272.
+Web portal được phân ra làm mấy loại
+2
+3
+4
+5
+274.
+Vì sao tốc độ lại là một nhược điểm của mã nguồn mở
+Mã nguồn không có nguồn gốc rõ ràng
+Tất cả các ý đều sai
+Dư thừa code
+Giới hạn về chức năng sử dụng
+275.
+Tại sao nói ứng dụng mã nguồn mở lại giống với mô hình chợ
+Vì nó không có sự thống nhất, mà chỉ phụ thuộc vào mục đích yêu cầu của 
+người sử dụng
+Tất cả các ý trên đều đúng
+Do sự sáng tạo không có giới hạn của các đội nhóm lập trình
+Vì không được nghiên cứu bài bản dẫn đến việc thiếu đi tính đánh bóng ứng 
+dụng
+276.
+Nguồn lực cho sản xuất phần mềm mã nguồn mở có thể đến từ
+Cả 3 thành phần được nêu
+Nguồn lực nội bộ
+Không được tài trợ
+messages.downloaded_by
+lOMoARcPSD|40439242
+
+Nguồn lực tài trợ từ bên ngoài
+277.
+Hệ thống quản lý phiên bản trong quá trình phát triển ứng dụng mã nguồn mở 
+không có đặc điểm nào sau đây?
+Cập nhật các tài liệu người dùng
+Theo dõi những thay đổi trên mã nguồn
+Cho phép lưu trữ trực tuyến mã nguồn các dự án
+Xây dựng theo mô hình phân tán: Git, Mercurial, Darcs
+278.
+Đâu không là đặc trưng để phân biệt Portal với website
+Tính tích hợp thông tin
+Tính cá nhân hóa
+Tính tùy chỉnh
+Hỗ trợ đa nền tảng
+279.
+Khẳng định nào sau đây là sai? PHP
+Moodle phát triển dựa trên C++
+Moodle là một hệ thống quản lý học tập
+Moodle là một thiết kế hướng đến giáo dục
+Moodle phù hợp với nhiều cấp học và hình thức đào tạo
+messages.downloaded_by
+lOMoARcPSD|40439242
+

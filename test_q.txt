@@ -1,0 +1,24 @@
+Q: Portal trong hệ sinh thái mã nguồn mở là nơi tập trung tài liệu, tài khoản, dịch vụ và truy cập hệ thống
+Opts: ['True', 'False']
+Q: Tính năng nào dưới đây của Portal cho phép mỗi cá nhân có thể tự chỉnh sửa, tái lập lại các hiển thị thông tin, ứng dụng, nội dung theo sở thích hoặc để phù hợp với công việc của mình.
+Opts: ['Tìm kiếm và chỉ mục', 'Cá nhân hoá', 'Khả năng phân loại nội dung', 'Tích hợp các ứng dụng']
+Q: Tính năng nào dưới đây của Portal cho phép tổ chức nội dung và ứng dụng theo nhiều cách khác nhau để đáp ứng các yêu cầu không giống nhau của các nhóm (phân loại theo người sử dụng, phòng ban, đơn vị) bên trong một tổ chức.
+Opts: ['Tích hợp các ứng dụng', 'Khả năng phân loại nội dung', 'Cá nhân hoá', 'Tìm kiếm và chỉ mục']
+Q: Tính năng nào dưới đây của Portal cho phép cung cấp hoặc tích hợp được các hệ thống tìm kiếm và đánh chỉ mục các văn bản, tài liệu để giúp người sử dụng có thể nhanh chóng truy xuất đến những thông tin họ cần
+Opts: ['Khả năng phân loại nội dung', 'Tìm kiếm và chỉ mục', 'Cá nhân hoá', 'Tích hợp các ứng dụng']
+Q: Tính năng nào dưới đây của Portal cho phép kiểm soát được các truy xuất đến từng nội dung để đảm bảo chỉ những người có quyền mới có thể truy nhập được các văn bản mà họ được cấp phép.
+Opts: ['Tích hợp các ứng dụng', 'Tìm kiếm và chỉ mục', 'Khả năng phân loại nội dung', 'Quản lý nội dung']
+Q: Đâu là loại cổng thông tin cuối cùng, mà Viettel IDC muốn chia sẻ đến độc giả trong bài viết Web Portal là gì này. Ví dụ như SAP Portal, cổng thông tin này sẽ cung cấp các ứng dụng chuyên biệt khác nhau
+Opts: ['Market Portals', 'Specialized portals', 'Public portals', 'Corporate Desktops']
+Q: Web Portal này thường được sử dụng để tập hợp các thông tin lại với nhau từ nhiều nguồn và nhiều ứng dụng, cho phép cá nhân hóa các trang web tùy theo từng đối tượng sử dụng.
+Opts: ['Market Portals', 'Corporate Desktops', 'Specialized Portals', 'Public Portals']
+Q: Người dùng có thể dựa vào các trình duyệt web hoặc các hệ điều hành khác nhau để truy xuất vào portal. Đó là khả năng nào của Portal
+Opts: ['Cá nhân hóa', 'Hỗ trợ đa nền tảng, phương tiện', 'Tìm kiếm và chỉ mục', 'Khả năng phân loại nội dung']
+Q: Đâu không là đặc trưng để phân biệt Portal với website
+Opts: ['Tính cá nhân hóa', 'Tính tùy chỉnh', 'Hỗ trợ đa nền tảng', 'Tính tích hợp thông tin']
+Q: Cho các tính năng sau đây: (1): Khả năng phân loại nội dung; (2) Chỉ hỗ trợ mobile; (3)Khả năng cá nhân hoá; (4) Khả năng tìm kiếm và chỉ mục; (5) Chỉ hỗ trợ desktop. Đâu là tính năng của Portal?
+Opts: ['2, 3, 5', '1, 4, 5', '1, 3, 4', '1, 2, 5']
+Q: Đâu không phải là tính năng của Portal
+Opts: ['Cá nhân hóa', 'Đồng bộ hóa', 'Khả năng phân loại nội dung', 'TÌm kiếm và chỉ mục']
+Q: Tính năng nào dưới đây của Portal cho phép cung cấp một môi trường tích hợp toàn bộ các ứng dụng Website đang có
+Opts: ['Tìm kiếm và chỉ mục', 'Tích hợp các ứng dụng', 'Khả năng phân loại nội dung', 'Cá nhân hóa']
