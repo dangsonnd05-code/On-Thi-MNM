@@ -553,9 +553,18 @@ function openStudyMode() {
     window.QUIZ_DATA.forEach((q) => {
         const item = document.createElement('div');
         item.className = 'review-item study-item';
+        let optsHtml = '';
+        const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+        q.options.forEach((opt, oIndex) => {
+            const isCorrect = (opt === q.correct_answer);
+            const cssClass = isCorrect ? 'rev-opt correct' : 'rev-opt';
+            const icon = isCorrect ? ' <i class="fa-solid fa-check float-right text-success" style="float: right;"></i>' : '';
+            optsHtml += `<div class="${cssClass}" style="margin-top: 4px;"><strong>${letters[oIndex] || '-'}.</strong> ${opt}${icon}</div>`;
+        });
+
         item.innerHTML = `
-            <div class="review-q">Câu ${q.id}: ${q.question}</div>
-            <div class="rev-opt correct"><strong>Đáp án đúng:</strong> ${q.correct_answer}</div>
+            <div class="review-q" style="margin-bottom: 8px;"><strong>Câu ${q.id}:</strong> ${q.question}</div>
+            <div class="review-opts">${optsHtml}</div>
         `;
         container.appendChild(item);
     });
