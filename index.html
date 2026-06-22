@@ -39,6 +39,13 @@
                     <div class="hero">
                         <h2>Sẵn sàng chinh phục 299 câu hỏi?</h2>
                         <p>Ứng dụng ôn tập tối giản, tối ưu & thông minh.</p>
+                        <div style="margin-top: 20px; display: inline-block; background: rgba(0,0,0,0.2); padding: 10px 20px; border-radius: var(--radius-md); border: 1px solid var(--border-color);">
+                            <label for="display-mode" style="color: var(--text-secondary); margin-right: 10px; font-weight: 600;"><i class="fa-solid fa-display"></i> Giao diện làm bài:</label>
+                            <select id="display-mode" style="padding: 8px 15px; border-radius: 8px; background: var(--bg-base); color: var(--text-primary); border: 1px solid var(--border-color); font-family: 'Inter'; font-size: 1rem; cursor: pointer; outline: none;">
+                                <option value="single">Làm từng câu một</option>
+                                <option value="all">Hiện tất cả trên 1 trang (Cuộn)</option>
+                            </select>
+                        </div>
                     </div>
                     
                     <div class="menu-cards">
@@ -54,6 +61,13 @@
                             <h3>Ôn Tập (299 Câu)</h3>
                             <p>Làm lại toàn bộ danh sách 299 câu hỏi để củng cố kiến thức toàn diện.</p>
                             <button class="btn secondary">Luyện tập <i class="fa-solid fa-arrow-right"></i></button>
+                        </div>
+
+                        <div class="card interactive-card" onclick="openStudyMode()">
+                            <div class="card-icon gradient-3" style="background: linear-gradient(135deg, #f59e0b, #d97706);"><i class="fa-solid fa-magnifying-glass"></i></div>
+                            <h3>Tra Cứu / Học Nhanh</h3>
+                            <p>Hiển thị toàn bộ câu hỏi và đáp án đúng trên 1 trang. Có thanh tìm kiếm siêu tốc.</p>
+                            <button class="btn secondary">Tra cứu <i class="fa-solid fa-arrow-right"></i></button>
                         </div>
                     </div>
                 </section>
@@ -72,26 +86,32 @@
                         </div>
                     </div>
 
-                    <div class="question-box">
-                        <h2 id="question-text">Đang tải câu hỏi...</h2>
-                    </div>
+                    <div id="single-question-container">
+                        <div class="question-box">
+                            <h2 id="question-text">Đang tải câu hỏi...</h2>
+                        </div>
 
-                    <div class="options-grid" id="options-grid">
-                        <!-- Options injected by JS -->
-                    </div>
+                        <div class="options-grid" id="options-grid">
+                            <!-- Options injected by JS -->
+                        </div>
 
-                    <div id="explanation-box" class="explanation-box hidden">
-                        <h4><i class="fa-solid fa-lightbulb"></i> Đáp án & Giải thích</h4>
-                        <div class="explanation-content">
-                            <p><strong>Đáp án đúng:</strong> <span id="explanation-correct-ans" class="text-success"></span></p>
-                            <p class="explanation-detail" id="explanation-text"></p>
+                        <div id="explanation-box" class="explanation-box hidden">
+                            <h4><i class="fa-solid fa-lightbulb"></i> Đáp án & Giải thích</h4>
+                            <div class="explanation-content">
+                                <p><strong>Đáp án đúng:</strong> <span id="explanation-correct-ans" class="text-success"></span></p>
+                                <p class="explanation-detail" id="explanation-text"></p>
+                            </div>
+                        </div>
+
+                        <div class="quiz-footer" id="quiz-footer">
+                            <button class="btn secondary" id="btn-prev" onclick="prevQuestion()" disabled><i class="fa-solid fa-arrow-left"></i> Câu trước</button>
+                            <button class="btn primary" id="btn-next" onclick="nextQuestion()">Câu tiếp theo <i class="fa-solid fa-arrow-right"></i></button>
+                            <button class="btn success hidden" id="btn-submit" onclick="submitQuiz()"><i class="fa-solid fa-check"></i> Nộp bài</button>
                         </div>
                     </div>
 
-                    <div class="quiz-footer">
-                        <button class="btn secondary" id="btn-prev" onclick="prevQuestion()" disabled><i class="fa-solid fa-arrow-left"></i> Câu trước</button>
-                        <button class="btn primary" id="btn-next" onclick="nextQuestion()">Câu tiếp theo <i class="fa-solid fa-arrow-right"></i></button>
-                        <button class="btn success hidden" id="btn-submit" onclick="submitQuiz()"><i class="fa-solid fa-check"></i> Nộp bài</button>
+                    <div id="all-questions-container" class="hidden">
+                        <!-- Rendered by JS -->
                     </div>
                 </section>
 
@@ -144,6 +164,20 @@
                     </div>
                     <div id="review-list" class="review-list">
                         <!-- Review items injected by JS -->
+                    </div>
+                </section>
+
+                <!-- Study / Cheat Screen -->
+                <section id="study-screen" class="screen">
+                    <div class="review-header">
+                        <h2>Tra Cứu Nhanh Đáp Án</h2>
+                        <button class="btn secondary btn-sm" onclick="goHome()"><i class="fa-solid fa-home"></i> Về trang chủ</button>
+                    </div>
+                    <div class="search-container" style="margin-bottom: 20px;">
+                        <input type="text" id="search-input" onkeyup="filterStudyQuestions()" placeholder="Nhập từ khóa câu hỏi để tìm kiếm siêu tốc..." class="search-input" style="width: 100%; padding: 15px 20px; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: rgba(255, 255, 255, 0.05); color: var(--text-primary); font-size: 1.1rem; outline: none;">
+                    </div>
+                    <div id="study-list" class="review-list">
+                        <!-- Study items injected by JS -->
                     </div>
                 </section>
             </main>

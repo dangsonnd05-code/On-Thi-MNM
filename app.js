@@ -11,7 +11,8 @@ const screens = {
     home: document.getElementById('home-screen'),
     quiz: document.getElementById('quiz-screen'),
     result: document.getElementById('result-screen'),
-    review: document.getElementById('review-screen')
+    review: document.getElementById('review-screen'),
+    study: document.getElementById('study-screen')
 };
 
 function switchScreen(screenId) {
@@ -83,7 +84,17 @@ function startQuiz(mode) {
     buildSidebar();
     switchScreen('quiz');
     startTimer();
-    loadQuestion();
+    
+    const displayMode = document.getElementById('display-mode').value;
+    if (displayMode === 'single') {
+        document.getElementById('single-question-container').classList.remove('hidden');
+        document.getElementById('all-questions-container').classList.add('hidden');
+        loadQuestion();
+    } else {
+        document.getElementById('single-question-container').classList.add('hidden');
+        document.getElementById('all-questions-container').classList.remove('hidden');
+        renderAllQuestions();
+    }
 }
 
 function buildSidebar() {
@@ -122,16 +133,27 @@ function updateSidebar() {
             }
         }
 
-        if (i === currentQuestionIndex) {
-            btn.classList.add('active-nav');
-            btn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        const displayMode = document.getElementById('display-mode') ? document.getElementById('display-mode').value : 'single';
+        if (displayMode === 'single') {
+            if (i === currentQuestionIndex) {
+                btn.classList.add('active-nav');
+                btn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
         }
     }
 }
 
 function jumpToQuestion(index) {
-    currentQuestionIndex = index;
-    loadQuestion();
+    const displayMode = document.getElementById('display-mode') ? document.getElementById('display-mode').value : 'single';
+    if (displayMode === 'single') {
+        currentQuestionIndex = index;
+        loadQuestion();
+    } else {
+        const block = document.getElementById(`q-block-${index}`);
+        if (block) {
+            block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+    }
     if (window.innerWidth <= 768) {
         document.getElementById('sidebar').classList.add('hidden');
     }
@@ -418,6 +440,138 @@ function reviewAnswers() {
 
 function showResultScreen() {
     switchScreen('result');
+}
+
+// =====================================
+// ALL QUESTIONS MODE LOGIC
+// =====================================
+function renderAllQuestions() {
+    const container = document.getElementById('all-questions-container');
+    container.innerHTML = '';
+    
+    quizQuestions.forEach((q, qIndex) => {
+        const qBlock = document.createElement('div');
+        qBlock.className = 'question-block';
+        qBlock.id = `q-block-${qIndex}`;
+        qBlock.style.marginBottom = '40px';
+        qBlock.style.borderBottom = '1px solid var(--border-color)';
+        qBlock.style.paddingBottom = '20px';
+        
+        let html = `
+            <div class="question-box" style="margin-bottom: 15px;">
+                <h2><strong>Câu ${q.id}:</strong> ${q.question}</h2>
+            </div>
+            <div class="options-grid" id="opts-grid-${qIndex}">
+        `;
+        
+        const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+        q.options.forEach((opt, optIndex) => {
+            const escapedOpt = opt.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+            html += `
+                <button class="option-btn" id="btn-opt-${qIndex}-${optIndex}" onclick="selectOptionAllMode(${qIndex}, ${optIndex}, '${escapedOpt}')">
+                    <div class="option-icon">${letters[optIndex] || '-'}</div>
+                    <div class="option-text">${opt}</div>
+                </button>
+            `;
+        });
+        
+        html += `</div>`; // end options-grid
+        
+        html += `
+            <div id="explain-box-${qIndex}" class="explanation-box hidden" style="margin-top: 15px;">
+                <h4><i class="fa-solid fa-lightbulb"></i> Đáp án & Giải thích</h4>
+                <div class="explanation-content">
+                    <p><strong>Đáp án đúng:</strong> <span class="text-success">${q.correct_answer}</span></p>
+                    <p class="explanation-detail">${q.explanation || 'Đang cập nhật giải thích chi tiết từ hệ thống...'}</p>
+                </div>
+            </div>
+        `;
+        
+        qBlock.innerHTML = html;
+        container.appendChild(qBlock);
+    });
+    
+    // Add Submit button at the very bottom
+    const submitBtn = document.createElement('button');
+    submitBtn.className = 'btn success';
+    submitBtn.innerHTML = '<i class="fa-solid fa-check"></i> Nộp bài (Kéo lên trên để xem tiến độ)';
+    submitBtn.style.marginTop = '20px';
+    submitBtn.style.width = '100%';
+    submitBtn.onclick = submitQuiz;
+    container.appendChild(submitBtn);
+}
+
+function selectOptionAllMode(qIndex, optIndex, optText) {
+    const q = quizQuestions[qIndex];
+    userAnswers[qIndex] = optIndex;
+    
+    const grid = document.getElementById(`opts-grid-${qIndex}`);
+    const btns = grid.querySelectorAll('.option-btn');
+    
+    if (isRandomMode) {
+        btns.forEach((btn, i) => {
+            btn.classList.remove('selected');
+            if (i === optIndex) btn.classList.add('selected');
+        });
+    } else {
+        btns.forEach((btn, i) => {
+            btn.disabled = true;
+            if (i === optIndex) {
+                btn.classList.add('selected');
+                if (optText !== q.correct_answer) btn.classList.add('wrong-ans');
+            }
+            if (q.options[i] === q.correct_answer) {
+                btn.classList.add('correct-ans');
+            }
+        });
+        
+        // Show explanation
+        document.getElementById(`explain-box-${qIndex}`).classList.remove('hidden');
+        
+        if (optText === q.correct_answer) {
+            score++;
+        }
+    }
+    
+    // Update progress bar
+    const progress = (Object.keys(userAnswers).length / quizQuestions.length) * 100;
+    document.getElementById('progress-bar').style.width = `${progress}%`;
+    document.getElementById('question-counter').innerText = `Đã làm ${Object.keys(userAnswers).length}/${quizQuestions.length}`;
+    
+    updateSidebar();
+}
+
+// =====================================
+// STUDY MODE LOGIC
+// =====================================
+function openStudyMode() {
+    if (!window.QUIZ_DATA) return;
+    switchScreen('study');
+    const container = document.getElementById('study-list');
+    container.innerHTML = '';
+    
+    window.QUIZ_DATA.forEach((q) => {
+        const item = document.createElement('div');
+        item.className = 'review-item study-item';
+        item.innerHTML = `
+            <div class="review-q">Câu ${q.id}: ${q.question}</div>
+            <div class="rev-opt correct"><strong>Đáp án đúng:</strong> ${q.correct_answer}</div>
+        `;
+        container.appendChild(item);
+    });
+}
+
+function filterStudyQuestions() {
+    const query = document.getElementById('search-input').value.toLowerCase();
+    const items = document.querySelectorAll('.study-item');
+    items.forEach(item => {
+        const text = item.innerText.toLowerCase();
+        if (text.includes(query)) {
+            item.style.display = 'block';
+        } else {
+            item.style.display = 'none';
+        }
+    });
 }
 
 const modeToggle = document.querySelector('.mode-toggle');
