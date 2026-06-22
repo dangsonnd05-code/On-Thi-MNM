@@ -108,12 +108,17 @@ function updateSidebar() {
         
         // Cập nhật trạng thái đúng sai nếu đã trả lời
         if (userAnswers[i] !== undefined) {
-            const q = quizQuestions[i];
-            const chosenIndex = userAnswers[i];
-            if (q.options[chosenIndex] === q.correct_answer) {
-                btn.classList.add('answered');
+            if (isRandomMode) {
+                btn.style.background = 'rgba(99, 102, 241, 0.2)'; // Blueish neutral
+                btn.style.borderColor = 'var(--primary)';
             } else {
-                btn.classList.add('answered-wrong');
+                const q = quizQuestions[i];
+                const chosenIndex = userAnswers[i];
+                if (q.options[chosenIndex] === q.correct_answer) {
+                    btn.classList.add('answered');
+                } else {
+                    btn.classList.add('answered-wrong');
+                }
             }
         }
 
@@ -181,14 +186,20 @@ function loadQuestion() {
         btn.className = 'option-btn';
         
         if (userAnswers[currentQuestionIndex] !== undefined) {
-            btn.disabled = true;
-            if (idx === userAnswers[currentQuestionIndex]) {
-                btn.classList.add('selected');
-            }
-            if (opt === q.correct_answer) {
-                btn.classList.add('correct-ans');
-            } else if (idx === userAnswers[currentQuestionIndex]) {
-                btn.classList.add('wrong-ans');
+            if (isRandomMode) {
+                if (idx === userAnswers[currentQuestionIndex]) {
+                    btn.classList.add('selected');
+                }
+            } else {
+                btn.disabled = true;
+                if (idx === userAnswers[currentQuestionIndex]) {
+                    btn.classList.add('selected');
+                }
+                if (opt === q.correct_answer) {
+                    btn.classList.add('correct-ans');
+                } else if (idx === userAnswers[currentQuestionIndex]) {
+                    btn.classList.add('wrong-ans');
+                }
             }
         }
         
@@ -203,7 +214,7 @@ function loadQuestion() {
 
     // Xử lý nút và giải thích
     const explainBox = document.getElementById('explanation-box');
-    if (userAnswers[currentQuestionIndex] !== undefined) {
+    if (userAnswers[currentQuestionIndex] !== undefined && !isRandomMode) {
         explainBox.classList.remove('hidden');
         document.getElementById('explanation-correct-ans').innerText = q.correct_answer;
         document.getElementById('explanation-text').innerText = q.explanation || "Đang cập nhật giải thích chi tiết từ hệ thống...";
@@ -250,6 +261,18 @@ function selectOption(idx, optText) {
     const q = quizQuestions[currentQuestionIndex];
     userAnswers[currentQuestionIndex] = idx;
     
+    if (isRandomMode) {
+        const options = document.querySelectorAll('.option-btn');
+        options.forEach((btn, i) => {
+            btn.classList.remove('selected');
+            if (i === idx) {
+                btn.classList.add('selected');
+            }
+        });
+        updateSidebar();
+        return;
+    }
+    
     const options = document.querySelectorAll('.option-btn');
     options.forEach((btn, i) => {
         btn.disabled = true;
@@ -264,6 +287,7 @@ function selectOption(idx, optText) {
         }
     });
 
+    // Practice mode score update
     if (optText === q.correct_answer) {
         score++;
     }
@@ -317,10 +341,19 @@ function submitQuiz() {
     clearInterval(timerInterval);
     
     // Check if any questions are unanswered
-    const unanswered = quizQuestions.length - Object.keys(userAnswers).length;
+    const total = quizQuestions.length;
+    const unanswered = total - Object.keys(userAnswers).length;
     if (unanswered > 0) {
         if (!confirm(`Bạn còn ${unanswered} câu chưa làm. Bạn có chắc chắn muốn nộp bài?`)) return;
     }
+    
+    // Calculate final score
+    score = 0;
+    quizQuestions.forEach((q, i) => {
+        if (userAnswers[i] !== undefined && q.options[userAnswers[i]] === q.correct_answer) {
+            score++;
+        }
+    });
     
     document.getElementById('progress-bar').style.width = '100%';
     
