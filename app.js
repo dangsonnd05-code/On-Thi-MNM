@@ -27,7 +27,11 @@ function switchScreen(screenId) {
     const btnHome = document.getElementById('btn-home');
 
     if (screenId === 'quiz') {
-        sidebar.classList.remove('hidden');
+        if (window.innerWidth > 768) {
+            sidebar.classList.remove('hidden');
+        } else {
+            sidebar.classList.add('hidden');
+        }
         btnToggle.classList.remove('hidden');
         btnHome.classList.remove('hidden');
     } else {
@@ -123,6 +127,9 @@ function updateSidebar() {
 function jumpToQuestion(index) {
     currentQuestionIndex = index;
     loadQuestion();
+    if (window.innerWidth <= 768) {
+        document.getElementById('sidebar').classList.add('hidden');
+    }
 }
 
 function startTimer() {
