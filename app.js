@@ -68,12 +68,14 @@ function startQuiz(mode) {
     if (isRandomMode) {
         let shuffled = JSON.parse(JSON.stringify(window.QUIZ_DATA)).sort(() => 0.5 - Math.random());
         quizQuestions = shuffled.slice(0, 60);
-        quizQuestions.forEach(q => {
-            q.options.sort(() => 0.5 - Math.random());
-        });
     } else {
         quizQuestions = JSON.parse(JSON.stringify(window.QUIZ_DATA));
     }
+
+    // Always shuffle options
+    quizQuestions.forEach(q => {
+        q.options.sort(() => 0.5 - Math.random());
+    });
 
     currentQuestionIndex = 0;
     userAnswers = {};
