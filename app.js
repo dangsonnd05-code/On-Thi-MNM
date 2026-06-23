@@ -12,7 +12,8 @@ const screens = {
     quiz: document.getElementById('quiz-screen'),
     result: document.getElementById('result-screen'),
     review: document.getElementById('review-screen'),
-    study: document.getElementById('study-screen')
+    study: document.getElementById('study-screen'),
+    groupStudy: document.getElementById('group-study-screen')
 };
 
 function switchScreen(screenId) {
@@ -580,6 +581,89 @@ function filterStudyQuestions() {
         } else {
             item.style.display = 'none';
         }
+    });
+}
+
+function openGroupStudyMode() {
+    if (!window.QUIZ_DATA) return;
+    switchScreen('groupStudy');
+    const container = document.getElementById('group-study-list');
+    container.innerHTML = '';
+    
+    const groups = {};
+    const originalOptsMap = {};
+    
+    window.QUIZ_DATA.forEach(q => {
+        const options = q.options || [];
+        const normOpts = options.map(opt => String(opt).trim().toLowerCase()).sort().join('|');
+        
+        if (!groups[normOpts]) {
+            groups[normOpts] = [];
+            originalOptsMap[normOpts] = [...options].map(opt => String(opt).trim()).sort();
+        }
+        groups[normOpts].push(q);
+    });
+    
+    const multiGroups = [];
+    const singleGroups = [];
+    
+    Object.keys(groups).forEach(key => {
+        if (groups[key].length > 1) {
+            multiGroups.push(key);
+        } else {
+            singleGroups.push(groups[key][0]);
+        }
+    });
+    
+    multiGroups.sort((a, b) => groups[b].length - groups[a].length);
+    
+    let groupCounter = 1;
+    multiGroups.forEach(key => {
+        const qList = groups[key];
+        const preview = originalOptsMap[key].slice(0, 4).join(', ') + (originalOptsMap[key].length > 4 ? ',...' : '');
+        
+        const groupHeader = document.createElement('h3');
+        groupHeader.style.marginTop = '30px';
+        groupHeader.style.marginBottom = '15px';
+        groupHeader.style.color = 'var(--primary)';
+        groupHeader.innerText = `Dạng ${groupCounter}: Nhóm có đáp án (${preview}) - ${qList.length} câu`;
+        container.appendChild(groupHeader);
+        
+        renderQuestionsToContainer(qList, container);
+        groupCounter++;
+    });
+    
+    if (singleGroups.length > 0) {
+        const groupHeader = document.createElement('h3');
+        groupHeader.style.marginTop = '30px';
+        groupHeader.style.marginBottom = '15px';
+        groupHeader.style.color = 'var(--primary)';
+        groupHeader.innerText = `Các câu hỏi có bộ đáp án riêng biệt (Không trùng lặp) - ${singleGroups.length} câu`;
+        container.appendChild(groupHeader);
+        
+        singleGroups.sort((a, b) => parseInt(a.id) - parseInt(b.id));
+        renderQuestionsToContainer(singleGroups, container);
+    }
+}
+
+function renderQuestionsToContainer(qList, container) {
+    qList.forEach(q => {
+        const item = document.createElement('div');
+        item.className = 'review-item study-item';
+        let optsHtml = '';
+        const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+        q.options.forEach((opt, oIndex) => {
+            const isCorrect = (String(opt).trim() === String(q.correct_answer).trim());
+            const cssClass = isCorrect ? 'rev-opt correct' : 'rev-opt';
+            const icon = isCorrect ? ' <i class="fa-solid fa-check float-right text-success" style="float: right;"></i>' : '';
+            optsHtml += `<div class="${cssClass}" style="margin-top: 4px;"><strong>${letters[oIndex] || '-'}.</strong> ${opt}${icon}</div>`;
+        });
+
+        item.innerHTML = `
+            <div class="review-q" style="margin-bottom: 8px;"><strong>Câu ${q.id}:</strong> ${q.question}</div>
+            <div class="review-opts">${optsHtml}</div>
+        `;
+        container.appendChild(item);
     });
 }
 
