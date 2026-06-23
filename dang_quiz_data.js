@@ -8,7 +8,7 @@ window.DANG_QUIZ_DATA = [
             "C.Đa số vì phần thưởng tiền bạc",
             "D.Niềm đam mê lập trình"
         ],
-        "correct_answer": "",
+        "correct_answer": "C.Đa số vì phần thưởng tiền bạc",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
@@ -44,7 +44,7 @@ window.DANG_QUIZ_DATA = [
             "C. Khi sao chép và phân phối chương trình phải đính kèm bản quyền gốc",
             "D. Phát hành miễn phí với thời gian không giới hạn"
         ],
-        "correct_answer": "B. Phải giữ nguyên thông báo bản quyền sản phẩm",
+        "correct_answer": "C. Khi sao chép và phân phối chương trình phải đính kèm bản quyền gốc",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
@@ -58,7 +58,7 @@ window.DANG_QUIZ_DATA = [
             "D.Tất cả những đáp án trên",
             "E.Không có đáp án nào ở trên"
         ],
-        "correct_answer": "",
+        "correct_answer": "C.Chứng minh quan điểm của họ bằng lý trí và việc làm",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
@@ -94,7 +94,7 @@ window.DANG_QUIZ_DATA = [
             "Python",
             "C"
         ],
-        "correct_answer": "",
+        "correct_answer": "PHP",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
@@ -106,7 +106,7 @@ window.DANG_QUIZ_DATA = [
             "Phân biệt chữ hoa và chữ thường",
             "Dấu phân cách đường dẫn và thư mục"
         ],
-        "correct_answer": "",
+        "correct_answer": "Chế độ hiển thị ký tự và đồ họa",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {

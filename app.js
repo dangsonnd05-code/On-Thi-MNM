@@ -694,8 +694,8 @@ function openDangStudyMode() {
             let icon = '';
             
             if (isCorrect) {
-                inlineStyle += ' color: #ef4444; font-weight: bold; text-decoration: underline; border-left-color: #ef4444; background: rgba(239, 68, 68, 0.1);';
-                icon = ' <i class="fa-solid fa-check float-right" style="float: right; color: #ef4444;"></i>';
+                inlineStyle += ' color: #10b981; font-weight: bold; text-decoration: underline; border-left-color: #10b981; background: rgba(16, 185, 129, 0.1);';
+                icon = ' <i class="fa-solid fa-check float-right" style="float: right; color: #10b981;"></i>';
             }
             
             optsHtml += `<div style="${inlineStyle}"><strong>${letters[oIndex] || '-'}.</strong> ${opt}${icon}</div>`;
