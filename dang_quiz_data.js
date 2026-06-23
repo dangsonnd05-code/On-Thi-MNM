@@ -18,9 +18,9 @@ window.DANG_QUIZ_DATA = [
             "A.Xây dựng các View",
             "B.Xây dựng các Entry Point",
             "C.Xây dựng các Model",
-            "D.Xây dựng các Controller"
+            "D.Xây dựng các Controller (MAYBE)"
         ],
-        "correct_answer": "D.Xây dựng các Controller",
+        "correct_answer": "B.Xây dựng các Entry Point",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
@@ -28,30 +28,29 @@ window.DANG_QUIZ_DATA = [
         "question": "3) Đâu không phải là một đặc điểm của hệ thống quản lý mã nguồn.",
         "options": [
             "A.Dễ dàng tìm kiếm lỗi",
-            "B.Trộn những đụng độ trên tập tin",
+            "B.Trộn những đụng độ trên tập tin(tra chat)",
             "C.Lưu trữ mã nguồn trực tuyến",
-            "D.Theo dõi vết thay đổi trên mã nguồn"
+            "D.Theo dõi vết thay đổi trên mã nguồn(Web)"
         ],
-        "correct_answer": "D.Theo dõi vết thay đổi trên mã nguồn",
+        "correct_answer": "A.Dễ dàng tìm kiếm lỗi",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
         "id": "D4",
-        "question": "Câu 41: Đâu là 1 đặc điểm khi nhắc đến giấy phép GPL(B và C đều đúng)",
+        "question": "Câu 41: Đâu là 1 đặc điểm khi nhắc đến giấy phép GPL(B và C đều đúng)",
         "options": [
-            "A. Khi phân phối bản thay đổi không cần phải chú thích.",
-            "B. Phải giữ nguyên thông báo bản quyền sản phẩm",
-            "C. Khi sao chép và phân phối chương trình phải đính kèm bản quyền gốc",
-            "D. Phát hành miễn phí với thời gian không giới hạn"
+            "A. Khi phân phối bản thay đổi không cần phải chú thích.",
+            "B. Phải giữ nguyên thông báo bản quyền sản phẩm(Web)",
+            "C. Khi sao chép và phân phối chương trình phải đính kèm bản quyền gốc",
+            "D. Phát hành miễn phí với thời gian không giới hạn"
         ],
-        "correct_answer": "C. Khi sao chép và phân phối chương trình phải đính kèm bản quyền gốc",
+        "correct_answer": "C. Khi sao chép và phân phối chương trình phải đính kèm bản quyền gốc",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
         "id": "D5",
-        "question": "4) Khi tham gia vào các cuộc thảo luận trong một dự án PMNM, người ta",
+        "question": "4) Khi tham gia vào các cuộc thảo luận trong một dự án PMNM, người ta phải",
         "options": [
-            "phải",
             "A.Nghi ngờ khả năng của người khác",
             "B.Bỏ qua những người có cùng quan điểm khác nhau",
             "C.Chứng minh quan điểm của họ bằng lý trí và việc làm",
@@ -63,26 +62,26 @@ window.DANG_QUIZ_DATA = [
     },
     {
         "id": "D6",
-        "question": "Câu 52: Loại phần mềm nào được sử dụng tự do và có thể phân phối lại bởi các tổ chức phi lợi nhuận?",
+        "question": "Câu 52: Loại phần mềm nào được sử dụng tự do và có thể phân phối lại bởi các tổ chức phi lợi nhuận?",
         "options": [
-            "A. Phần mềm sử dụng phi thương mại",
-            "B. Tất cả đều sai",
-            "C. Phần mềm nguồn mở",
-            "D. Phần mềm tự do"
+            "A. Phần mềm sử dụng phi thương mại",
+            "B. Tất cả đều sai",
+            "C. Phần mềm nguồn mở(Web)",
+            "D. Phần mềm tự do(tra chat và pdf)"
         ],
-        "correct_answer": "D. Phần mềm tự do",
+        "correct_answer": "D. Phần mềm tự do(tra chat và pdf)",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
         "id": "D7",
-        "question": "Câu 76: Mô hình tài nguyên phát triển phần mềm mã nguồn mở bao gồm các yếu tố nào?",
+        "question": "Câu 76: Mô hình tài nguyên phát triển phần mềm mã nguồn mở bao gồm các yếu tố nào?",
         "options": [
-            "A. Nhân lực, quan hệ, tài liệu và cơ sở vật chất",
-            "B. Nhân lực, tài chính, tài liệu và cơ sở vật chất",
-            "C. Nhân lực, tài chính, thương hiệu và cơ sở vật chất",
-            "D. Nhân lực, tài nguyên, thương hiệu và cơ sở vật chất"
+            "A. Nhân lực, quan hệ, tài liệu và cơ sở vật chất",
+            "B. Nhân lực, tài chính, tài liệu và cơ sở vật chất(Pdf và tra chat)",
+            "C. Nhân lực, tài chính, thương hiệu và cơ sở vật chất(Web)",
+            "D. Nhân lực, tài nguyên, thương hiệu và cơ sở vật chất"
         ],
-        "correct_answer": "C. Nhân lực, tài chính, thương hiệu và cơ sở vật chất",
+        "correct_answer": "B. Nhân lực, tài chính, tài liệu và cơ sở vật chất(Pdf và tra chat)",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
@@ -111,50 +110,50 @@ window.DANG_QUIZ_DATA = [
     },
     {
         "id": "D10",
-        "question": "Câu 46: Quan niệm nào sau đây sai về copyleft",
+        "question": "Câu 46: Quan niệm nào sau đây sai về copyleft",
         "options": [
-            "A. Được đưa ra dựa trên copyright",
-            "B. Người sở hữu cấp quyền để: sử dụng, sửa đổi, phân phối lại",
-            "C. Tồn tại giấy phép copyleft cho cả phần mềm, âm nhạc và nghệ thuật",
-            "D. Nghĩa vụ phân phối và cho phép truy xuất công khai các tác phẩm phái sinh"
+            "A. Được đưa ra dựa trên copyright",
+            "B. Người sở hữu cấp quyền để: sử dụng, sửa đổi, phân phối lại",
+            "C. Tồn tại giấy phép copyleft cho cả phần mềm, âm nhạc và nghệ thuật(Web)",
+            "D. Nghĩa vụ phân phối và cho phép truy xuất công khai các tác phẩm phái sinh(Pdf và tra chat)"
         ],
-        "correct_answer": "D. Nghĩa vụ phân phối và cho phép truy xuất công khai các tác phẩm phái sinh",
+        "correct_answer": "D. Nghĩa vụ phân phối và cho phép truy xuất công khai các tác phẩm phái sinh(Pdf và tra chat)",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
         "id": "D11",
-        "question": "Câu 94: Đâu là không phải là một ưu điểm của Ubuntu",
+        "question": "Câu 94: Đâu là không phải là một ưu điểm của Ubuntu",
         "options": [
-            "A. Hỗ trợ tất cả các phần mềm",
-            "B. Hệ điều hành hoàn toàn không có virus",
-            "C. Ubuntu hoàn toàn miễn phí",
-            "D. Mọi phần mềm được auto update 100%"
+            "A. Hỗ trợ tất cả các phần mềm(Pdf và tra chat)",
+            "B. Hệ điều hành hoàn toàn không có virus",
+            "C. Ubuntu hoàn toàn miễn phí",
+            "D. Mọi phần mềm được auto update 100%(Web)"
         ],
-        "correct_answer": "D. Mọi phần mềm được auto update 100%",
+        "correct_answer": "A. Hỗ trợ tất cả các phần mềm(Pdf và tra chat)",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
         "id": "D12",
-        "question": "Câu 100: Quá trình yêu cầu tính năng mới trong mô hình vòng đời phát triển tính năng mới của MNM gồm mấy bước?",
+        "question": "Câu 100: Quá trình yêu cầu tính năng mới trong mô hình vòng đời phát triển tính năng mới của MNM gồm mấy bước?",
         "options": [
-            "A. 8",
-            "B. 5",
-            "C. 7",
-            "D. 6"
+            "A. 8",
+            "B. 5",
+            "C. 7(Pdf và tra chat)",
+            "D. 6"
         ],
-        "correct_answer": "C. 7",
+        "correct_answer": "C. 7(Pdf và tra chat)",
         "explanation": "Câu hỏi từ file Dang.docx"
     },
     {
         "id": "D13",
-        "question": "Câu 161: Web portal được phân ra làm mấy loại",
+        "question": "Câu 161: Web portal được phân ra làm mấy loại",
         "options": [
-            "A. 2",
-            "B. 3",
-            "C. 4",
-            "D. 5"
+            "A. 2",
+            "B. 3",
+            "C. 4(Pdf và tra chat)",
+            "D. 5"
         ],
-        "correct_answer": "C. 4",
+        "correct_answer": "C. 4(Pdf và tra chat)",
         "explanation": "Câu hỏi từ file Dang.docx"
     }
 ];
