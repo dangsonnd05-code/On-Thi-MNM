@@ -61,22 +61,32 @@ function goHome() {
     switchScreen('home');
 }
 
-function startQuiz(mode) {
+function startQuiz(mode, customQuestions = null) {
     isRandomMode = (mode === 'random');
     
-    if (!window.QUIZ_DATA || window.QUIZ_DATA.length === 0) {
-        alert('Dữ liệu câu hỏi chưa sẵn sàng!');
-        return;
-    }
-
-    if (isRandomMode) {
-        let shuffled = JSON.parse(JSON.stringify(window.QUIZ_DATA)).sort(() => 0.5 - Math.random());
-        quizQuestions = shuffled.slice(0, 60);
-        quizQuestions.forEach(q => {
-            q.options.sort(() => 0.5 - Math.random());
-        });
+    if (customQuestions) {
+        quizQuestions = JSON.parse(JSON.stringify(customQuestions));
+        if (isRandomMode) {
+            quizQuestions.sort(() => 0.5 - Math.random());
+            quizQuestions.forEach(q => {
+                if (q.options) q.options.sort(() => 0.5 - Math.random());
+            });
+        }
     } else {
-        quizQuestions = JSON.parse(JSON.stringify(window.QUIZ_DATA));
+        if (!window.QUIZ_DATA || window.QUIZ_DATA.length === 0) {
+            alert('Dữ liệu câu hỏi chưa sẵn sàng!');
+            return;
+        }
+
+        if (isRandomMode) {
+            let shuffled = JSON.parse(JSON.stringify(window.QUIZ_DATA)).sort(() => 0.5 - Math.random());
+            quizQuestions = shuffled.slice(0, 60);
+            quizQuestions.forEach(q => {
+                q.options.sort(() => 0.5 - Math.random());
+            });
+        } else {
+            quizQuestions = JSON.parse(JSON.stringify(window.QUIZ_DATA));
+        }
     }
 
     currentQuestionIndex = 0;
@@ -719,7 +729,7 @@ function openGroupPracticeMenu() {
         container.appendChild(groupHeader);
         
         groupHeader.onclick = () => {
-            startQuiz(qList, false);
+            startQuiz('practice', qList);
         };
 
         groupCounter++;
@@ -734,7 +744,7 @@ function openGroupPracticeMenu() {
         singleGroups.sort((a, b) => parseInt(a.id) - parseInt(b.id));
         
         groupHeader.onclick = () => {
-            startQuiz(singleGroups, false);
+            startQuiz('practice', singleGroups);
         };
     }
 }
@@ -744,7 +754,7 @@ function startDangPractice() {
         alert("Dữ liệu Dang.docx chưa sẵn sàng!");
         return;
     }
-    startQuiz(window.DANG_QUIZ_DATA, false);
+    startQuiz('practice', window.DANG_QUIZ_DATA);
 }
 
 function openDangStudyMode() {
