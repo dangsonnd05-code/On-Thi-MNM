@@ -14,6 +14,7 @@ const screens = {
     review: document.getElementById('review-screen'),
     study: document.getElementById('study-screen'),
     groupStudy: document.getElementById('group-study-screen'),
+    groupPractice: document.getElementById('group-practice-screen'),
     dangStudy: document.getElementById('dang-study-screen')
 };
 
@@ -672,6 +673,78 @@ function openGroupStudyMode() {
             }
         };
     }
+}
+
+function openGroupPracticeMenu() {
+    if (!window.QUIZ_DATA) return;
+    switchScreen('groupPractice');
+    const container = document.getElementById('group-practice-list');
+    container.innerHTML = '';
+    
+    const groups = {};
+    const originalOptsMap = {};
+    
+    window.QUIZ_DATA.forEach(q => {
+        const options = q.options || [];
+        const normOpts = options.map(opt => String(opt).trim().toLowerCase()).sort().join('|');
+        
+        if (!groups[normOpts]) {
+            groups[normOpts] = [];
+            originalOptsMap[normOpts] = options;
+        }
+        groups[normOpts].push(q);
+    });
+    
+    const multiGroups = [];
+    const singleGroups = [];
+    
+    for (const key in groups) {
+        if (groups[key].length > 1) {
+            multiGroups.push(key);
+        } else {
+            singleGroups.push(groups[key][0]);
+        }
+    }
+    
+    multiGroups.sort((a, b) => groups[b].length - groups[a].length);
+    
+    let groupCounter = 1;
+    multiGroups.forEach(key => {
+        const qList = groups[key];
+        const preview = originalOptsMap[key].slice(0, 4).join(', ') + (originalOptsMap[key].length > 4 ? ',...' : '');
+        
+        const groupHeader = document.createElement('div');
+        groupHeader.className = 'group-study-header';
+        groupHeader.innerHTML = `<h3>Dạng ${groupCounter}: Nhóm có đáp án (${preview}) - ${qList.length} câu <i class="fa-solid fa-play"></i></h3>`;
+        container.appendChild(groupHeader);
+        
+        groupHeader.onclick = () => {
+            startQuiz(qList, false);
+        };
+
+        groupCounter++;
+    });
+    
+    if (singleGroups.length > 0) {
+        const groupHeader = document.createElement('div');
+        groupHeader.className = 'group-study-header';
+        groupHeader.innerHTML = `<h3>Các câu hỏi có bộ đáp án riêng biệt - ${singleGroups.length} câu <i class="fa-solid fa-play"></i></h3>`;
+        container.appendChild(groupHeader);
+        
+        singleGroups.sort((a, b) => parseInt(a.id) - parseInt(b.id));
+        
+        groupHeader.onclick = () => {
+            startQuiz(singleGroups, false);
+        };
+    }
+}
+
+function startDangPractice() {
+    if (!window.DANG_QUIZ_DATA) {
+        alert("Dữ liệu Dang.docx chưa sẵn sàng!");
+        return;
+    }
+    startQuiz(window.DANG_QUIZ_DATA, false);
 }
 
 function openDangStudyMode() {
