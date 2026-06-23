@@ -9,7 +9,7 @@
     <title>Ôn Tập Mã Nguồn Mở</title>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="styles.css?v=6">
+    <link rel="stylesheet" href="styles.css?v=7">
 </head>
 <body>
     <div class="app-container glass-panel">
@@ -77,6 +77,13 @@
                             <div class="card-icon" style="background: linear-gradient(135deg, #10b981, #059669);"><i class="fa-solid fa-layer-group"></i></div>
                             <h3>Học Theo Nhóm Đáp Án</h3>
                             <p>Các câu hỏi có chung bộ đáp án được gom lại thành từng nhóm để dễ học.</p>
+                            <button class="btn secondary">Học ngay <i class="fa-solid fa-arrow-right"></i></button>
+                        </div>
+
+                        <div class="card interactive-card" onclick="openDangStudyMode()">
+                            <div class="card-icon" style="background: linear-gradient(135deg, #e11d48, #be123c);"><i class="fa-solid fa-fire"></i></div>
+                            <h3>Bộ Câu Hỏi (Dang.docx)</h3>
+                            <p>Các câu hỏi đặc biệt trích xuất từ file Dang.docx, đáp án đúng sẽ có màu đỏ!</p>
                             <button class="btn secondary">Học ngay <i class="fa-solid fa-arrow-right"></i></button>
                         </div>
                     </div>
@@ -201,12 +208,24 @@
                         <!-- Group Study items injected by JS -->
                     </div>
                 </section>
+
+                <!-- Dang Study Screen -->
+                <section id="dang-study-screen" class="screen">
+                    <div class="review-header">
+                        <h2>Bộ Câu Hỏi Đặc Biệt (Dang.docx)</h2>
+                        <button class="btn secondary btn-sm" onclick="goHome()"><i class="fa-solid fa-home"></i> Về trang chủ</button>
+                    </div>
+                    <div id="dang-study-list" class="review-list">
+                        <!-- Items injected by JS -->
+                    </div>
+                </section>
             </main>
         </div>
     </div>
 
     <!-- Scripts -->
-    <script src="quiz_data_final.js?v=6"></script>
-    <script src="app.js?v=6"></script>
+    <script src="quiz_data_final.js?v=7"></script>
+    <script src="dang_quiz_data.js?v=7"></script>
+    <script src="app.js?v=7"></script>
 </body>
 </html>

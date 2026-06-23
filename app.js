@@ -13,7 +13,8 @@ const screens = {
     result: document.getElementById('result-screen'),
     review: document.getElementById('review-screen'),
     study: document.getElementById('study-screen'),
-    groupStudy: document.getElementById('group-study-screen')
+    groupStudy: document.getElementById('group-study-screen'),
+    dangStudy: document.getElementById('dang-study-screen')
 };
 
 function switchScreen(screenId) {
@@ -671,6 +672,41 @@ function openGroupStudyMode() {
             }
         };
     }
+}
+
+function openDangStudyMode() {
+    if (!window.DANG_QUIZ_DATA) {
+        alert("Dữ liệu Dang.docx chưa sẵn sàng!");
+        return;
+    }
+    switchScreen('dangStudy');
+    const container = document.getElementById('dang-study-list');
+    container.innerHTML = '';
+    
+    window.DANG_QUIZ_DATA.forEach((q, qIndex) => {
+        const item = document.createElement('div');
+        item.className = 'review-item study-item';
+        let optsHtml = '';
+        const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+        q.options.forEach((opt, oIndex) => {
+            const isCorrect = (String(opt).trim() === String(q.correct_answer).trim());
+            let inlineStyle = 'margin-top: 4px; padding: 0.6rem 0.8rem; border-radius: 6px; background: rgba(255, 255, 255, 0.03); border-left: 3px solid transparent; font-size: 0.9rem;';
+            let icon = '';
+            
+            if (isCorrect) {
+                inlineStyle += ' color: #ef4444; font-weight: bold; text-decoration: underline; border-left-color: #ef4444; background: rgba(239, 68, 68, 0.1);';
+                icon = ' <i class="fa-solid fa-check float-right" style="float: right; color: #ef4444;"></i>';
+            }
+            
+            optsHtml += `<div style="${inlineStyle}"><strong>${letters[oIndex] || '-'}.</strong> ${opt}${icon}</div>`;
+        });
+
+        item.innerHTML = `
+            <div class="review-q" style="margin-bottom: 8px;"><strong>${q.question}</strong></div>
+            <div class="review-opts" style="display: flex; flex-direction: column; gap: 6px;">${optsHtml}</div>
+        `;
+        container.appendChild(item);
+    });
 }
 
 function renderQuestionsToContainer(qList, container) {
