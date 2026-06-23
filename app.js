@@ -622,27 +622,54 @@ function openGroupStudyMode() {
         const qList = groups[key];
         const preview = originalOptsMap[key].slice(0, 4).join(', ') + (originalOptsMap[key].length > 4 ? ',...' : '');
         
-        const groupHeader = document.createElement('h3');
-        groupHeader.style.marginTop = '30px';
-        groupHeader.style.marginBottom = '15px';
-        groupHeader.style.color = 'var(--primary)';
-        groupHeader.innerText = `Dạng ${groupCounter}: Nhóm có đáp án (${preview}) - ${qList.length} câu`;
+        const groupHeader = document.createElement('div');
+        groupHeader.className = 'group-study-header';
+        groupHeader.innerHTML = `<h3>Dạng ${groupCounter}: Nhóm có đáp án (${preview}) - ${qList.length} câu <i class="fa-solid fa-chevron-down"></i></h3>`;
         container.appendChild(groupHeader);
         
-        renderQuestionsToContainer(qList, container);
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'group-study-content hidden';
+        renderQuestionsToContainer(qList, contentDiv);
+        container.appendChild(contentDiv);
+        
+        groupHeader.onclick = () => {
+            contentDiv.classList.toggle('hidden');
+            const icon = groupHeader.querySelector('i');
+            if(contentDiv.classList.contains('hidden')){
+                icon.classList.remove('fa-chevron-up');
+                icon.classList.add('fa-chevron-down');
+            } else {
+                icon.classList.remove('fa-chevron-down');
+                icon.classList.add('fa-chevron-up');
+            }
+        };
+
         groupCounter++;
     });
     
     if (singleGroups.length > 0) {
-        const groupHeader = document.createElement('h3');
-        groupHeader.style.marginTop = '30px';
-        groupHeader.style.marginBottom = '15px';
-        groupHeader.style.color = 'var(--primary)';
-        groupHeader.innerText = `Các câu hỏi có bộ đáp án riêng biệt (Không trùng lặp) - ${singleGroups.length} câu`;
+        const groupHeader = document.createElement('div');
+        groupHeader.className = 'group-study-header';
+        groupHeader.innerHTML = `<h3>Các câu hỏi có bộ đáp án riêng biệt - ${singleGroups.length} câu <i class="fa-solid fa-chevron-down"></i></h3>`;
         container.appendChild(groupHeader);
         
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'group-study-content hidden';
         singleGroups.sort((a, b) => parseInt(a.id) - parseInt(b.id));
-        renderQuestionsToContainer(singleGroups, container);
+        renderQuestionsToContainer(singleGroups, contentDiv);
+        container.appendChild(contentDiv);
+        
+        groupHeader.onclick = () => {
+            contentDiv.classList.toggle('hidden');
+            const icon = groupHeader.querySelector('i');
+            if(contentDiv.classList.contains('hidden')){
+                icon.classList.remove('fa-chevron-up');
+                icon.classList.add('fa-chevron-down');
+            } else {
+                icon.classList.remove('fa-chevron-down');
+                icon.classList.add('fa-chevron-up');
+            }
+        };
     }
 }
 

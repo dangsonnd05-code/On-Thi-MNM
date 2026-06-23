@@ -943,3 +943,32 @@ body.light-mode .hero h2 {
         backdrop-filter: blur(16px);
     }
 }
+
+/* Group Study Accordion */
+.group-study-header {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 15px 20px;
+    border-radius: var(--radius-md);
+    margin-bottom: 10px;
+    cursor: pointer;
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+}
+.group-study-header h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: var(--primary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.group-study-header:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--primary);
+}
+.group-study-content {
+    padding: 10px 5px 20px 5px;
+    margin-bottom: 15px;
+    border-left: 2px solid var(--primary);
+    margin-left: 10px;
+}
